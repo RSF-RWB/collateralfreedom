@@ -2,7 +2,10 @@
     "ijavn.org": [
         "d1s66ldlhegqs2.cloudfront.net"
     ],
-    "grani.ru": [
+    "meydan.tv": [
+        "ec2-35-158-1-41.eu-central-1.compute.amazonaws.com"
+        ],
+     "grani.ru": [
         "gr1.global.ssl.fastly.net"
     ],
     "fergananews.com": [
