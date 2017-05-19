@@ -17,7 +17,7 @@
 1. [Bahrain Mirror](https://bahrainmirror.global.ssl.fastly.net/)
 1. [IJAVN](https://d1s66ldlhegqs2.cloudfront.net/)
 1. [Chrono-TM](https://ctm1.global.ssl.fastly.net)
-1. [Meydan.tv](http://ec2-35-158-1-41.eu-central-1.compute.amazonaws.com/)
+1. [Meydan.tv](http://ec2-35-158-1-41.eu-central-1.compute.amazonaws.com)
 
 ## English
 
