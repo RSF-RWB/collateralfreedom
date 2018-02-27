@@ -1,9 +1,9 @@
 {
     "ijavn.org": [
-        "d1s66ldlhegqs2.cloudfront.net"
+        "ijavn.global.ssl.fastly.net"
     ],
     "meydan.tv": [
-        "d3vb1tfuy3p37p.cloudfront.net"
+        "meydan.global.ssl.fastly.net"
         ],
      "grani.ru": [
         "gr1.global.ssl.fastly.net"
@@ -30,7 +30,7 @@
         "gc1.global.ssl.fastly.net"
     ],
     "bahrainmirror.com": [
-        "bahrainmirror.global.ssl.fastly.net"
+        "bhr.global.ssl.fastly.net"
     ],
     "chrono-tm.org": [
         "ctm1.global.ssl.fastly.net"
