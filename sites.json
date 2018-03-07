@@ -1,15 +1,12 @@
 {
     "ijavn.org": [
-        "ijavn.global.ssl.fastly.net"
+        "d1s66ldlhegqs2.cloudfront.net"
     ],
     "meydan.tv": [
         "meydan.global.ssl.fastly.net"
         ],
-     "grani.ru": [
-        "gr1.global.ssl.fastly.net"
-    ],
     "fergananews.com": [
-        "fg1.global.ssl.fastly.net"
+        "dik103y8nzf0u.cloudfront.net"
     ],
     "thetibetpost.com": [
         "tp1.global.ssl.fastly.net"
@@ -40,9 +37,6 @@
     ],
     "boxun.com": [
         "box1.global.ssl.fastly.net"
-    ],
-    "sendika9.org": [
-        "sdk.global.ssl.fastly.net"
     ],
     "sarawakreport.org": [
         "swk.global.ssl.fastly.net"
