@@ -2,6 +2,12 @@
     "ijavn.org": [
         "d1s66ldlhegqs2.cloudfront.net"
     ],
+    "ozguruz.org": [
+    "ozguruz.global.ssl.fastly.net"
+    ],
+    "www.asiasentinel.com": [
+    "asiasentinel.global.ssl.fastly.net"
+    ],
     "meydan.tv": [
         "meydan.global.ssl.fastly.net"
         ],
