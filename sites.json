@@ -2,11 +2,20 @@
     "ijavn.org": [
         "d1s66ldlhegqs2.cloudfront.net"
     ],
+    "www.masralarabia.com: [
+        "masr.global.ssl.fastly.net"
+    ],
+    "muwatinmagazine.net [
+        "muwatin.global.ssl.fastly.net"
+    ],
+    "www.azathabar.com": [
+        "aza.global.ssl.fastly.net"
+    ],
     "ozguruz.org": [
-    "ozguruz.global.ssl.fastly.net"
+        "ozguruz.global.ssl.fastly.net"
     ],
     "www.asiasentinel.com": [
-    "asiasentinel.global.ssl.fastly.net"
+        "asiasentinel.global.ssl.fastly.net"
     ],
     "meydan.tv": [
         "meydan.global.ssl.fastly.net"
@@ -35,7 +44,7 @@
     "bahrainmirror.com": [
         "bhr.global.ssl.fastly.net"
     ],
-    "chrono-tm.org": [
+    "www.hronikatm.com": [
         "ctm1.global.ssl.fastly.net"
     ],
     "esohr.org": [
