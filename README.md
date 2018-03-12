@@ -2,7 +2,7 @@
 
 1. [Gooya News](https://gn1.global.ssl.fastly.net)
 1. [muwatinmagazine.net](https://muwatin.global.ssl.fastly.net)
-1. [www.iwacu-burundi.org](https://iwacu.global.ssl.fastly.net)
+1. [iwacu-burundi.org](https://iwacu.global.ssl.fastly.net)
 1. [majzooban.org](https://majzooban.global.ssl.fastly.net)
 1. [masralarabia.com](https://masr.global.ssl.fastly.net)
 2. [Sarawakreport.org](https://swk.global.ssl.fastly.net)
