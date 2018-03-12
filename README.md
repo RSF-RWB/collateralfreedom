@@ -19,6 +19,9 @@
 1. [Chronicles of Turkmenistan](https://ctm1.global.ssl.fastly.net)
 1. [Meydan.tv](https://meydan.global.ssl.fastly.net)
 1. [Vietnamhumanrightsdefenders.net](https://dtd.global.ssl.fastly.net)
+1. [majzooban.org](https://majzooban.global.ssl.fastly.net)
+1. [muwatinmagazine.net](https://muwatin.global.ssl.fastly.net)
+1. [masralarabia.com](https://masr.global.ssl.fastly.net)
 
 
 ## English
