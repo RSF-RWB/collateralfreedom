@@ -2,19 +2,19 @@
     "ijavn.org": [
         "d1s66ldlhegqs2.cloudfront.net"
     ],
-    "www.masralarabia.com": [
+    "masralarabia.com": [
         "masr.global.ssl.fastly.net"
     ],
     "muwatinmagazine.net": [
         "muwatin.global.ssl.fastly.net"
     ],
-    "www.azathabar.com": [
+    "azathabar.com": [
         "aza.global.ssl.fastly.net"
     ],
     "ozguruz.org": [
         "ozguruz.global.ssl.fastly.net"
     ],
-    "www.asiasentinel.com": [
+    "asiasentinel.com": [
         "asiasentinel.global.ssl.fastly.net"
     ],
     "meydan.tv": [
@@ -44,7 +44,7 @@
     "bahrainmirror.com": [
         "bhr.global.ssl.fastly.net"
     ],
-    "www.hronikatm.com": [
+    "hronikatm.com": [
         "ctm1.global.ssl.fastly.net"
     ],
     "esohr.org": [
@@ -61,12 +61,6 @@
     ],
     "vietnamhumanrightsdefenders.net": [
         "d250tne6xdkh4n.cloudfront.net"
-    ],
-    "www.masralarabia.com": [
-        "masr.global.ssl.fastly.net"
-    ],
-    "muwatinmagazine.net": [
-        "muwatin.global.ssl.fastly.net"
     ],
     "majzooban.org": [
         "majzooban.global.ssl.fastly.net"
