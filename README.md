@@ -4,7 +4,6 @@
 2. [Sarawakreport.org](https://swk.global.ssl.fastly.net)
 3. [Esch.org](https://euh.global.ssl.fastly.net)
 4. [Boxun.com](https://box1.global.ssl.fastly.net)
-5. [Vietnamhumanrightsdefenders.net](https://dtd.global.ssl.fastly.net)
 6. [Rfa.org](https://rfa.global.ssl.fastly.net)
 7. [asiasentinel.com](https://asiasentinel.global.ssl.fastly.net)
 8. [ozguruz.com](https://ozguruz.global.ssl.fastly.net)
@@ -17,8 +16,10 @@
 1. [Gulf Center for Human Rights](https://gc1.global.ssl.fastly.net)
 1. [Bahrain Mirror](https://bhr.global.ssl.fastly.net)
 1. [IJAVN](https://d1s66ldlhegqs2.cloudfront.net)
-1. [Chrono-TM](https://ctm1.global.ssl.fastly.net)
+1. [Chronicles of Turkmenistan](https://ctm1.global.ssl.fastly.net)
 1. [Meydan.tv](https://meydan.global.ssl.fastly.net)
+1. [Vietnamhumanrightsdefenders.net](https://dtd.global.ssl.fastly.net)
+
 
 ## English
 
