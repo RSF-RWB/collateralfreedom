@@ -1,6 +1,10 @@
 # CollateralFreedom
 
 1. [Gooya News](https://gn1.global.ssl.fastly.net)
+1. [muwatinmagazine.net](https://muwatin.global.ssl.fastly.net)
+1. [www.iwacu-burundi.org](https://iwacu.global.ssl.fastly.net)
+1. [majzooban.org](https://majzooban.global.ssl.fastly.net)
+1. [masralarabia.com](https://masr.global.ssl.fastly.net)
 2. [Sarawakreport.org](https://swk.global.ssl.fastly.net)
 3. [Esch.org](https://euh.global.ssl.fastly.net)
 4. [Boxun.com](https://box1.global.ssl.fastly.net)
@@ -19,9 +23,6 @@
 1. [Chronicles of Turkmenistan](https://ctm1.global.ssl.fastly.net)
 1. [Meydan.tv](https://meydan.global.ssl.fastly.net)
 1. [Vietnamhumanrightsdefenders.net](https://d250tne6xdkh4n.cloudfront.net)
-1. [majzooban.org](https://majzooban.global.ssl.fastly.net)
-1. [muwatinmagazine.net](https://muwatin.global.ssl.fastly.net)
-1. [masralarabia.com](https://masr.global.ssl.fastly.net)
 
 
 ## English
