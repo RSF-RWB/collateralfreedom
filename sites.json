@@ -56,8 +56,20 @@
     "sarawakreport.org": [
         "swk.global.ssl.fastly.net"
     ],
+    "iwacu-burundi.org": [
+        "iwacu.global.ssl.fastly.net"
+    ],
     "vietnamhumanrightsdefenders.net": [
         "d250tne6xdkh4n.cloudfront.net"
+    ],
+    "masralarabia.com": [
+        "masr.global.ssl.fastly.net"
+    ],
+    "muwatinmagazine.net": [
+        "muwatin.global.ssl.fastly.net"
+    ],
+    "majzooban.org": [
+        "majzooban.global.ssl.fastly.net"
     ],
     "rfa.org": [
         "rfa.global.ssl.fastly.net"
