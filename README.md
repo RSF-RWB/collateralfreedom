@@ -1,8 +1,8 @@
-# collateralfreedom_
+# collateralfreedom
 
 **Europe**|🔇 original site | ⬇📢 miror site ⬇️ |
 :-----:|:-----:|:-----:
-**RU**| **Meduza.io** | https://meduza.global.ssl.fastly.net|
+**RU**| **meduza.io** | https://meduza.global.ssl.fastly.net|
 **RU**| **news.doxajournal.ru**| https://doxajournal.global.ssl.fastly.net|
 **BY**| **zerkalo.io** | https://zerkalo42.global.ssl.fastly.net|
 **BY**| **zerkalo.io** | https://d3kulubvlkp4od.cloudfront.net|
