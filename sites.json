@@ -134,6 +134,9 @@
 "www.kavkaz-uzel.eu": [
                 "kavkaz-uzel.global.ssl.fastly.net"
                 ],
+"novayagazeta.ru": [
+                "novayagazeta.global.ssl.fastly.net"
+                ],
 "www.zerkalo.io": [
                 "zerkalo101.global.ssl.fastly.net"
                 ],
