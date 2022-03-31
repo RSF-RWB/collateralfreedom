@@ -3,6 +3,7 @@
 **Europe**|🔇 original site | ⬇📢 miror site ⬇️ |
 :-----:|:-----:|:-----:
 **RU**| **meduza.io** | https://meduza.global.ssl.fastly.net|
+**RU** | **dw.com** | https://dw42.global.ssl.fastly.net|
 **RU**| **kavkaz-uzel.eu**| https://kavkaz-uzel.global.ssl.fastly.net |
 **RU**| **news.doxajournal.ru**| https://doxajournal.global.ssl.fastly.net|
 **BY**| **zerkalo.io** | https://zerkalo42.global.ssl.fastly.net|
@@ -45,18 +46,18 @@
  **AFRICA**|🔇 original site | ⬇📢 miror site ⬇️ |
 :-----:|:-----:|:-----:
  **BJ**|**beninwebtv.bj**| https://beninwebtv.global.ssl.fastly.net|
- **CM**|**www.camerounweb.com**| https://cm-web.global.ssl.fastly.net|
+ **CM**|**camerounweb.com**| https://cm-web.global.ssl.fastly.net|
  **DJ**|**lavoixdedjibouti.info**|https://voxdji.global.ssl.fastly.net|
- **BU**|**www.iwacu-burundi.org**|https://iwacu.global.ssl.fastly.net |
- **BU**|**www.iwacu-burundi.org**|https://iwacu42.global.ssl.fastly.net|
+ **BU**|**iwacu-burundi.org**|https://iwacu.global.ssl.fastly.net |
+ **BU**|**iwacu-burundi.org**|https://iwacu42.global.ssl.fastly.net|
  **TG**|**togoweb.net**| https://togoweb.global.ssl.fastly.net|
  
  **MENA**|🔇 original site | ⬇📢 miror site ⬇️ |
 :-----:|:-----:|:-----:
-https://alqst.global.ssl.fastly.net||
-https://bhr.global.ssl.fastly.net||
-https://euh.global.ssl.fastly.net|| 
-https://gc4hr.global.ssl.fastly.net|
+**?**|| https://alqst.global.ssl.fastly.net|
+**BH** || https://bhr.global.ssl.fastly.net|
+**SK** || https://euh.global.ssl.fastly.net|
+**Regional** || https://gc4hr.global.ssl.fastly.net|
 
 
 ## English
