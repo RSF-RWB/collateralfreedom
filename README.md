@@ -54,10 +54,10 @@
  
  **MENA**|🔇 original site | ⬇📢 miror site ⬇️ |
 :-----:|:-----:|:-----:
-**?**|| https://alqst.global.ssl.fastly.net|
-**BH** || https://bhr.global.ssl.fastly.net|
-**SK** || https://euh.global.ssl.fastly.net|
-**Regional** || https://gc4hr.global.ssl.fastly.net|
+**SA**|**alqst.org**| https://alqst.global.ssl.fastly.net|
+**BH** |**bahrainmirror.com**| https://bhr.global.ssl.fastly.net|
+**SA** |**esohr.org**| https://euh.global.ssl.fastly.net|
+**Regional** |**gc4hr.org**| https://gc4hr.global.ssl.fastly.net|
 
 
 ## English
