@@ -71,6 +71,9 @@
 "by.tribuna.com": [
                 "tribuna42.global.ssl.fastly.net"
                 ],
+"www.rfi.fr": [
+                "rfi.global.ssl.fastly.net"
+                ],
 "www.narinjara.com": [
                 "narinjara.global.ssl.fastly.net"
                 ],
