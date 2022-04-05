@@ -50,6 +50,9 @@
 "www.zerkalo.io": [
                 "zerkalo101.global.ssl.fastly.net"
                 ],
+"fortanga.org": [
+                "fortanga.global.ssl.fastly.net"
+                ],
 "www.rfi.fr": [
                 "rfi-ru.global.ssl.fastly.net"
                 ],
