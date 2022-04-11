@@ -26,6 +26,9 @@
 "meduza.io": [
                 "meduza.global.ssl.fastly.net"
                 ],
+"thebell.io": [
+                "thebell.global.ssl.fastly.net"
+                ],
 "www.rfi.fr": [
                 "rfi.global.ssl.fastly.net"
                 ],
