@@ -38,6 +38,9 @@
 "www.france24.com": [
                 "fr24.global.ssl.fastly.net"
                 ],
+"holod.media": [
+                "holod.global.ssl.fastly.net"
+                ],
 "charter97.org": [
                 "charter97.global.ssl.fastly.net"
                 ],
