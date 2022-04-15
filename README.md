@@ -5,6 +5,7 @@
 **RU**| **meduza.io** | https://meduza.global.ssl.fastly.net|
 **RU** | **dw.com** | https://dw42.global.ssl.fastly.net|
 **RU**| **kavkaz-uzel.eu**| https://kavkaz-uzel.global.ssl.fastly.net |
+**RU**| **fortanga.org**| https://fortanga101.global.ssl.fastly.net |
 **RU**| **news.doxajournal.ru**| https://doxajournal.global.ssl.fastly.net|
 **BY**| **zerkalo.io** | https://zerkalo42.global.ssl.fastly.net|
 **BY**| **zerkalo.io** | https://d3kulubvlkp4od.cloudfront.net|
