@@ -42,7 +42,7 @@
  **MM**|**rohingyapost.com**| https://rohingyapost.global.ssl.fastly.net|
  **TB**|**thetibetpost.com**| https://tp1.global.ssl.fastly.net|
  **CN**|**wqw2010.blogspot.com**| https://wqwg.global.ssl.fastly.net|
- **CN**|**msguancha.com**| https://msguancha.global.ssl.fastly.net|
+ **CN**|**msguancha.com**| https://d3695t5azh9yw6.cloudfront.net|
  
  **AFRICA**|🔇 original site | ⬇📢 miror site ⬇️ |
 :-----:|:-----:|:-----:
