@@ -26,9 +26,6 @@
 "meduza.io": [
                 "meduza.global.ssl.fastly.net"
                 ],
-"www.bbc.com": [
-                "bbc.global.ssl.fastly.net"
-                ],
 "thebell.io": [
                 "thebell.global.ssl.fastly.net"
                 ],
@@ -67,6 +64,9 @@
                 ],
 "novayagazeta.ru": [
                 "novayagazeta.global.ssl.fastly.net"
+                ],
+null: [
+                "bbc.global.ssl.fastly.net"
                 ],
 "www.zerkalo.io": [
                 "zerkalo101.global.ssl.fastly.net"
