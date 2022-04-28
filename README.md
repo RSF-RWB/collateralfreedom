@@ -2,8 +2,11 @@
 
 **Europe**|🔇 original site | ⬇📢 miror site ⬇️ |
 :-----:|:-----:|:-----:
-**RU**| **meduza.io** | https://meduza.global.ssl.fastly.net|
-**RU** | **dw.com** | https://dw42.global.ssl.fastly.net|
+**RU**| **doxajournal.ru**| https://doxajournal.global.ssl.fastly.net/|
+**RU**| **rfi.fr/ru** | https://rfi.global.ssl.fastly.net/fr/|
+**RU**| **holod** | https://holod.global.ssl.fastly.net|
+**RU**| **meduza.io** | https://meduza101.global.ssl.fastly.net/ |
+**RU**| **dw.com** | https://dw42.global.ssl.fastly.net|
 **RU**| **kavkaz-uzel.eu**| https://kavkaz-uzel.global.ssl.fastly.net |
 **RU**| **fortanga.org**| https://fortanga101.global.ssl.fastly.net |
 **RU**| **news.doxajournal.ru**| https://doxajournal.global.ssl.fastly.net|
@@ -46,6 +49,7 @@
  
  **AFRICA**|🔇 original site | ⬇📢 miror site ⬇️ |
 :-----:|:-----:|:-----:
+ **BJ**|**beninwebtv.bj**| https://beninwebtv.global.ssl.fastly.net|
  **BJ**|**beninwebtv.bj**| https://beninwebtv.global.ssl.fastly.net|
  **CM**|**camerounweb.com**| https://cm-web.global.ssl.fastly.net|
  **DJ**|**lavoixdedjibouti.info**|https://voxdji.global.ssl.fastly.net|
