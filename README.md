@@ -49,6 +49,8 @@
  
  **AFRICA**|🔇 original site | ⬇📢 miror site ⬇️ |
 :-----:|:-----:|:-----:
+ **RU**| **france24.com** | https://f24.global.ssl.fastly.net/fr/|
+ **RU**| **rfi.fr** | https://rfi.global.ssl.fastly.net/fr/|
  **BJ**|**beninwebtv.bj**| https://beninwebtv.global.ssl.fastly.net|
  **BJ**|**beninwebtv.bj**| https://beninwebtv.global.ssl.fastly.net|
  **CM**|**camerounweb.com**| https://cm-web.global.ssl.fastly.net|
