@@ -107,6 +107,9 @@ null: [
 "www.hronikatm.com": [
                 "hronikatm2.global.ssl.fastly.net"
                 ],
+"imi.org.ua": [
+                "imi.global.ssl.fastly.net"
+                ],
 "www.zerkalo.io": [
                 "d1703tji8yrqjl.cloudfront.net"
                 ],
