@@ -2,6 +2,7 @@
 
 **Europe**|🔇 original site | ⬇📢 miror site ⬇️ |
 :-----:|:-----:|:-----:
+**RU**| **gubernia.media**| https://gubernia.global.ssl.fastly.net/|
 **RU**| **doxajournal.ru**| https://doxajournal.global.ssl.fastly.net/|
 **RU**| **rfi.fr/ru** | https://rfi.global.ssl.fastly.net/fr/|
 **RU**| **holod** | https://holod.global.ssl.fastly.net|
