@@ -2,6 +2,8 @@
 
 **Europe**|🔇 original site | ⬇📢 miror site ⬇️ |
 :-----:|:-----:|:-----:
+**RU**| **france24.com** | https://f24.global.ssl.fastly.net/fr/|
+**RU**| **rfi.fr** | https://rfi.global.ssl.fastly.net/fr/|
 **RU**| **gubernia.media**| https://gubernia.global.ssl.fastly.net/|
 **RU**| **doxajournal.ru**| https://doxajournal.global.ssl.fastly.net/|
 **RU**| **rfi.fr/ru** | https://rfi.global.ssl.fastly.net/fr/|
@@ -50,8 +52,8 @@
  
  **AFRICA**|🔇 original site | ⬇📢 miror site ⬇️ |
 :-----:|:-----:|:-----:
- **RU**| **france24.com** | https://f24.global.ssl.fastly.net/fr/|
- **RU**| **rfi.fr** | https://rfi.global.ssl.fastly.net/fr/|
+ **ML**| **france24.com** | https://f24.global.ssl.fastly.net/fr/|
+ **ML**| **rfi.fr** | https://rfi.global.ssl.fastly.net/fr/|
  **BJ**|**beninwebtv.bj**| https://beninwebtv.global.ssl.fastly.net|
  **BJ**|**beninwebtv.bj**| https://beninwebtv.global.ssl.fastly.net|
  **CM**|**camerounweb.com**| https://cm-web.global.ssl.fastly.net|
