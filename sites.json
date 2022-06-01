@@ -140,6 +140,9 @@
 "holod.media": [
                 "holod.global.ssl.fastly.net"
                 ],
+"tvrain.ru": [
+                "tvrain.global.ssl.fastly.net"
+                ],
 "fortanga.org": [
                 "fortanga.global.ssl.fastly.net"
                 ],
