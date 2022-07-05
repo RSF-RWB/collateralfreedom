@@ -113,6 +113,9 @@
 "novayagazeta.ru": [
                 "novayagazeta.global.ssl.fastly.net"
                 ],
+"www.moscowtimes.ru": [
+                "d2n5vmplxfxpig.cloudfront.net"
+                ],
 "www.zerkalo.io": [
                 "zerkalo101.global.ssl.fastly.net"
                 ],
