@@ -7,7 +7,7 @@
 **RU**| **gubernia.media**| https://gubernia.global.ssl.fastly.net/|
 **RU**| **doxajournal.ru**| https://doxajournal.global.ssl.fastly.net/|
 **RU**| **rfi.fr/ru** | https://rfi.global.ssl.fastly.net/fr/|
-**RU**| **holod** | https://holod.global.ssl.fastly.net|
+**RU**| **holod** | https://holod999.global.ssl.fastly.net|
 **RU**| **meduza.io** | https://meduza101.global.ssl.fastly.net/ |
 **RU**| **dw.com** | https://dw42.global.ssl.fastly.net|
 **RU**| **kavkaz-uzel.eu**| https://kavkaz-uzel.global.ssl.fastly.net |
