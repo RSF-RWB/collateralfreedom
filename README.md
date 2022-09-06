@@ -2,6 +2,7 @@
 
 **Europe**|🔇 original site | ⬇📢 miror site ⬇️ |
 :-----:|:-----:|:-----:
+**RU**| **Moscow Time** |https://dbno9sukli3f0.cloudfront.net/|
 **RU**| **MOST Media** |https://d1rncrrc6by2rr.cloudfront.net/|
 **RU**| **france24.com** | https://f24.global.ssl.fastly.net/fr/|
 **RU**| **gubernia.media**| https://gubernia.global.ssl.fastly.net/|
