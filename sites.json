@@ -93,10 +93,13 @@
                 "thebell.global.ssl.fastly.net"
                 ],
 "meduza.io": [
-                "meduza102.global.ssl.fastly.net"
+                "meduza102.global.ssl.fastly.net",
+                "meduza-app.global.ssl.fastly.net",
+                "meduza.global.ssl.fastly.net"
                 ],
 "fortanga.org": [
-                "fortanga101.global.ssl.fastly.net"
+                "fortanga101.global.ssl.fastly.net",
+                "fortanga.global.ssl.fastly.net"
                 ],
 "gubernia.media": [
                 "gubernia.global.ssl.fastly.net"
@@ -108,31 +111,21 @@
                 "vkurier.global.ssl.fastly.net"
                 ],
 "by.tribuna.com": [
-                "bytribuna.global.ssl.fastly.net"
+                "tribuna101.global.ssl.fastly.net",
+                "bytribuna.global.ssl.fastly.net",
+                "tribuna42.global.ssl.fastly.net"
                 ],
 "holod.media": [
                 "holod999.global.ssl.fastly.net"
                 ],
-"meduza.io": [
-                "meduza-app.global.ssl.fastly.net"
-                ],
 "www.azathabar.com": [
                 "aza.global.ssl.fastly.net"
-                ],
-"fortanga.org": [
-                "fortanga.global.ssl.fastly.net"
                 ],
 "news.doxajournal.ru": [
                 "doxajournal.global.ssl.fastly.net"
                 ],
-"by.tribuna.com": [
-                "tribuna101.global.ssl.fastly.net"
-                ],
 "masheka.by": [
                 "masheka.global.ssl.fastly.net"
-                ],
-"meduza.io": [
-                "meduza.global.ssl.fastly.net"
                 ],
 "cherta.media": [
                 "d32mmsib7ectwr.cloudfront.net"
@@ -143,9 +136,6 @@
 "www.france24.com": [
                 "f24.global.ssl.fastly.net"
                 ],
-"by.tribuna.com": [
-                "tribuna42.global.ssl.fastly.net"
-                ],
 "akhbor.com": [
                 "akhbor.global.ssl.fastly.net"
                 ],
@@ -155,13 +145,10 @@
 "www.dw.com": [
                 "dw42.global.ssl.fastly.net"
                 ],
-"nashaniva.com": [
-                "d1r6jbpshm04er.cloudfront.net"
-                ],
 "togoweb.net": [
                 "togoweb.global.ssl.fastly.net"
                 ],
 "www.camerounweb.com": [
                 "cm-web.global.ssl.fastly.net"
-                ],
+                ]
 }
