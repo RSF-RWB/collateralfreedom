@@ -92,9 +92,6 @@
 "meduza.io": [
                 "meduza102.global.ssl.fastly.net"
                 ],
-"fortanga.org": [
-                "fortanga101.global.ssl.fastly.net"
-                ],
 "gubernia.media": [
                 "gubernia.global.ssl.fastly.net"
                 ],
@@ -110,9 +107,6 @@
 "meduza.io": [
                 "meduza-app.global.ssl.fastly.net"
                 ],
-"fortanga.org": [
-                "fortanga.global.ssl.fastly.net"
-                ],
 "masheka.by": [
                 "masheka.global.ssl.fastly.net"
                 ],
@@ -124,9 +118,6 @@
                 ],
 "mostmedia.io": [
                 "d1rncrrc6by2rr.cloudfront.net"
-                ],
-"www.dw.com": [
-                "dw42.global.ssl.fastly.net"
                 ],
 "nashaniva.com": [
                 "d1r6jbpshm04er.cloudfront.net"
