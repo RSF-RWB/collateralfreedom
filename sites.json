@@ -107,17 +107,11 @@
 "vkurier.by": [
                 "vkurier.global.ssl.fastly.net"
                 ],
-"by.tribuna.com": [
-                "bytribuna.global.ssl.fastly.net"
-                ],
 "holod.media": [
                 "holod999.global.ssl.fastly.net"
                 ],
 "meduza.io": [
                 "meduza-app.global.ssl.fastly.net"
-                ],
-"www.azathabar.com": [
-                "aza.global.ssl.fastly.net"
                 ],
 "fortanga.org": [
                 "fortanga.global.ssl.fastly.net"
@@ -145,9 +139,6 @@
                 ],
 "by.tribuna.com": [
                 "tribuna42.global.ssl.fastly.net"
-                ],
-"akhbor.com": [
-                "akhbor.global.ssl.fastly.net"
                 ],
 "mostmedia.io": [
                 "d1rncrrc6by2rr.cloudfront.net"
