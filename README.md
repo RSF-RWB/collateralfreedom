@@ -7,7 +7,7 @@
 **RU**| **france24.com** | https://f24.global.ssl.fastly.net/fr/|
 **RU**| **gubernia.media**| https://gubernia.global.ssl.fastly.net/|
 **RU**| **doxajournal.ru**| https://doxajournal.global.ssl.fastly.net/|
-**RU**| **rfi.fr/ru** | https://rfi.global.ssl.fastly.net/fr/|
+**RU**| **rfi.fr/ru** | https://rfi.global.ssl.fastly.net/ru/|
 **RU**| **holod** | https://holod999.global.ssl.fastly.net|
 **RU**| **meduza.io** | https://meduza102.global.ssl.fastly.net|
 **RU**| **dw.com** | https://dw42.global.ssl.fastly.net|
