@@ -10,7 +10,7 @@
 **RU**| **rfi.fr/ru** | https://rfi.global.ssl.fastly.net/ru/|
 **RU**| **holod** | https://holod999.global.ssl.fastly.net|
 **RU**| **meduza.io** | https://meduza102.global.ssl.fastly.net|
-**RU**| **dw.com** | https://dw42.global.ssl.fastly.net|
+**RU**| **dw.com** | https://dw42.global.ssl.fastly.net/ru/|
 **RU**| **kavkaz-uzel.eu**| https://kavkaz-uzel.global.ssl.fastly.net |
 **RU**| **fortanga.org**| https://fortanga101.global.ssl.fastly.net |
 **RU**| **news.doxajournal.ru**| https://doxajournal.global.ssl.fastly.net|
