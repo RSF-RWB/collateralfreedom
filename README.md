@@ -59,7 +59,7 @@
  **BJ**|**beninwebtv.bj**| https://beninwebtv.global.ssl.fastly.net|
  **CM**|**camerounweb.com**| https://cm-web.global.ssl.fastly.net|
  **DJ**|**lavoixdedjibouti.info**|https://voxdji.global.ssl.fastly.net|
- **BU**|**iwacu-burundi.org**|https://iwacu.global.ssl.fastly.net |
+ **BU**|**iwacu-burundi.org**|http://iwacu0x1.global.ssl.fastly.net/|
  **BU**|**iwacu-burundi.org**|https://iwacu42.global.ssl.fastly.net|
  **TG**|**togoweb.net**| https://togoweb.global.ssl.fastly.net|
  
