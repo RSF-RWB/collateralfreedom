@@ -1,4 +1,4 @@
-**Africa** | 🔇 original site | ⬇📢 miror sites ⬇ |
+**Africa** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
 **BJ** | **[beninwebtv.bj](https://beninwebtv.bj)** | [d1eoqxy7y4g23.cloudfront.net](https://d1eoqxy7y4g23.cloudfront.net)
 **CM** | **[camerounweb.com](https://www.camerounweb.com)** | [cm-web.global.ssl.fastly.net](https://cm-web.global.ssl.fastly.net)
@@ -6,7 +6,7 @@
 **DJ** | **[lavoixdedjibouti.info](https://lavoixdedjibouti.info)** | [voxdji.global.ssl.fastly.net](https://voxdji.global.ssl.fastly.net)
 **TG** | **[togoweb.net](https://togoweb.net)** | [togoweb.global.ssl.fastly.net](https://togoweb.global.ssl.fastly.net)
 
-**Asia** | 🔇 original site | ⬇📢 miror sites ⬇ |
+**Asia** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
 **GLOBAL** | **[asiasentinel.com](https://www.asiasentinel.com)** | [asiasentinel.global.ssl.fastly.net](https://asiasentinel.global.ssl.fastly.net)
 **PH** | **[bulatlat.com](https://www.bulatlat.com)** | [bulatlat.global.ssl.fastly.net](https://bulatlat.global.ssl.fastly.net)
@@ -30,7 +30,7 @@
 **VN** | **[vietnamhumanrightsdefenders.net](https://vietnamhumanrightsdefenders.net)** | [dtd.global.ssl.fastly.net](https://dtd.global.ssl.fastly.net)
 **CN** | **[wqw2010.blogspot.com/](https://wqw2010.blogspot.com/)** | [wqwg.global.ssl.fastly.net](https://wqwg.global.ssl.fastly.net), [dksynhrodq5s5.cloudfront.net](https://dksynhrodq5s5.cloudfront.net)
 
-**Europe** | 🔇 original site | ⬇📢 miror sites ⬇ |
+**Europe** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
 **TJ** | **[akhbor.com](https://akhbor.com)** | [akhbor.global.ssl.fastly.net](https://akhbor.global.ssl.fastly.net)
 **AZ** | **[azathabar.com/](https://www.azathabar.com/)** | [aza.global.ssl.fastly.net](https://aza.global.ssl.fastly.net)
@@ -68,7 +68,7 @@
 **BY** | **[zerkalo.io](https://www.zerkalo.io)** | [zerkalo101.global.ssl.fastly.net](https://zerkalo101.global.ssl.fastly.net)
 **BY** | **[zerkalo.io](https://www.zerkalo.io)** | [zerkalo42.global.ssl.fastly.net](https://zerkalo42.global.ssl.fastly.net)
 
-**MENA** | 🔇 original site | ⬇📢 miror sites ⬇ |
+**MENA** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
 **SA** | **[alqst.org](https://www.alqst.org)** | [alqst.global.ssl.fastly.net](https://alqst.global.ssl.fastly.net)
 **BH** | **[bahrainmirror.com](http://bahrainmirror.com)** | [bhr.global.ssl.fastly.net](https://bhr.global.ssl.fastly.net)
