@@ -1,74 +1,83 @@
-# collateralfreedom
+**Africa** | 🔇 original site | ⬇📢 miror sites ⬇ |
+:-----:|:-----:|:-----:
+**BJ** | **[beninwebtv.bj](https://beninwebtv.bj)** | [d1eoqxy7y4g23.cloudfront.net](https://d1eoqxy7y4g23.cloudfront.net)
+**CM** | **[camerounweb.com](https://www.camerounweb.com)** | [cm-web.global.ssl.fastly.net](https://cm-web.global.ssl.fastly.net)
+**BU** | **[iwacu-burundi.org](https://www.iwacu-burundi.org)** | [iwacu0x1.global.ssl.fastly.net](https://iwacu0x1.global.ssl.fastly.net), [iwacu42.global.ssl.fastly.net](https://iwacu42.global.ssl.fastly.net)
+**DJ** | **[lavoixdedjibouti.info](https://lavoixdedjibouti.info)** | [voxdji.global.ssl.fastly.net](https://voxdji.global.ssl.fastly.net)
+**TG** | **[togoweb.net](https://togoweb.net)** | [togoweb.global.ssl.fastly.net](https://togoweb.global.ssl.fastly.net)
 
-**Europe**|🔇 original site | ⬇📢 miror site ⬇️ |
+**Asia** | 🔇 original site | ⬇📢 miror sites ⬇ |
 :-----:|:-----:|:-----:
-**RU**| **Moscow Time** |https://dbno9sukli3f0.cloudfront.net/|
-**RU**| **MOST Media** |https://d1rncrrc6by2rr.cloudfront.net/|
-**RU**| **france24.com** | https://f24.global.ssl.fastly.net/fr/|
-**RU**| **gubernia.media**| https://gubernia.global.ssl.fastly.net/|
-**RU**| **doxajournal.ru**| https://doxajournal.global.ssl.fastly.net/|
-**RU**| **rfi.fr/ru** | https://rfi.global.ssl.fastly.net/ru/|
-**RU**| **holod** | https://holod999.global.ssl.fastly.net|
-**RU**| **meduza.io** | https://meduza102.global.ssl.fastly.net|
-**RU**| **dw.com** | https://dw42.global.ssl.fastly.net/ru/|
-**RU**| **kavkaz-uzel.eu**| https://kavkaz-uzel.global.ssl.fastly.net |
-**RU**| **fortanga.org**| https://fortanga101.global.ssl.fastly.net |
-**RU**| **news.doxajournal.ru**| https://doxajournal.global.ssl.fastly.net|
-**BY**| **zerkalo.io** | https://zerkalo42.global.ssl.fastly.net|
-**BY**| **zerkalo.io** | https://d3kulubvlkp4od.cloudfront.net|
-**BY**| **nashaniva.com** | https://d1r6jbpshm04er.cloudfront.net |
-**BY**| **tribuna.com**|https://tribuna101.global.ssl.fastly.net |
-**BY**| **tribuna.com**|https://tribuna42.global.ssl.fastly.net |
-**BY**| **tribuna.com**| https://bytribuna.global.ssl.fastly.net|
-**BY**| **vkurier.com**|https://vkurier.global.ssl.fastly.net|
-**BY**|**charter97.org**| https://charter97.global.ssl.fastly.net|
-**BY**|**masheka.by**| https://masheka.global.ssl.fastly.net|
-**TM**|**hronikatm.com**| https://hronikatm2.global.ssl.fastly.net|
-**AZ**|**turan.az**| https://turan.global.ssl.fastly.net|
-**AZ**|**azathabar.com**|https://aza.global.ssl.fastly.net|
-**TJ**|**akhbor.com**| https://akhbor.global.ssl.fastly.net|
+**GLOBAL** | **[asiasentinel.com](https://www.asiasentinel.com)** | [asiasentinel.global.ssl.fastly.net](https://asiasentinel.global.ssl.fastly.net)
+**PH** | **[bulatlat.com](https://www.bulatlat.com)** | [bulatlat.global.ssl.fastly.net](https://bulatlat.global.ssl.fastly.net)
+**CN** | **[chinadigitaltimes.net](https://chinadigitaltimes.net)** | [chinadt.global.ssl.fastly.net](https://chinadt.global.ssl.fastly.net), [dgdxvkiaqlxkl.cloudfront.net](https://dgdxvkiaqlxkl.cloudfront.net)
+**VN** | **[danlambaovn.blogspot.com](https://danlambaovn.blogspot.com)** | [danlambaovn.global.ssl.fastly.net](https://danlambaovn.global.ssl.fastly.net)
+**MM** | **[dmediag.com/](https://www.dmediag.com/)** | [dmediag.global.ssl.fastly.net](https://dmediag.global.ssl.fastly.net)
+**MM** | **[dmgburmese.com/](https://www.dmgburmese.com/)** | [dmgburmese.global.ssl.fastly.net](https://dmgburmese.global.ssl.fastly.net)
+**IR** | **[news.gooya.com](https://news.gooya.com)** | [gn1.global.ssl.fastly.net](https://gn1.global.ssl.fastly.net)
+**IR** | **[iranwire.com/](https://iranwire.com/)** | [iranwire.global.ssl.fastly.net](https://iranwire.global.ssl.fastly.net)
+**PH** | **[kodao.org](https://kodao.org)** | [kodao.global.ssl.fastly.net](https://kodao.global.ssl.fastly.net)
+**CN** | **[mingjingnews.com](https://www.mingjingnews.com)** | [mn1.global.ssl.fastly.net](https://mn1.global.ssl.fastly.net)
+**KH** | **[monoroom.info](https://monoroom.info)** | [monoroom.global.ssl.fastly.net](https://monoroom.global.ssl.fastly.net)
+**CN** | **[msguancha.com](https://msguancha.com)** | [d3695t5azh9yw6.cloudfront.net](https://d3695t5azh9yw6.cloudfront.net)
+**MM** | **[narinjara.com](https://www.narinjara.com)** | [narinjara.global.ssl.fastly.net](https://narinjara.global.ssl.fastly.net)
+**GLOBAL** | **[rfa.org](https://www.rfa.org)** | [rfa.global.ssl.fastly.net](https://rfa.global.ssl.fastly.net)
+**MM** | **[rohingyapost.com](https://www.rohingyapost.com)** | [rohingyapost.global.ssl.fastly.net](https://rohingyapost.global.ssl.fastly.net)
+**PK** | **[safenewsrooms.org](http://safenewsrooms.org)** | [safenr2.global.ssl.fastly.net](https://safenr2.global.ssl.fastly.net)
+**TB** | **[thetibetpost.com](https://thetibetpost.com)** | [tp1.global.ssl.fastly.net](https://tp1.global.ssl.fastly.net)
+**AZ** | **[turan.az](https://www.turan.az)** | [turan.global.ssl.fastly.net](https://turan.global.ssl.fastly.net)
+**VN** | **[vietnamthoibao.org](https://vietnamthoibao.org)** | [ijavn.global.ssl.fastly.net](https://ijavn.global.ssl.fastly.net)
+**VN** | **[vietnamhumanrightsdefenders.net](https://vietnamhumanrightsdefenders.net)** | [dtd.global.ssl.fastly.net](https://dtd.global.ssl.fastly.net)
+**CN** | **[wqw2010.blogspot.com/](https://wqw2010.blogspot.com/)** | [wqwg.global.ssl.fastly.net](https://wqwg.global.ssl.fastly.net), [dksynhrodq5s5.cloudfront.net](https://dksynhrodq5s5.cloudfront.net)
 
-**ASIA**|🔇 original site | ⬇📢 miror site ⬇️ |
+**Europe** | 🔇 original site | ⬇📢 miror sites ⬇ |
 :-----:|:-----:|:-----:
- **PK**|**azathabar.com** | https://safenr2.global.ssl.fastly.net|
- **MM**|**narinjara.com** | https://narinjara.global.ssl.fastly.net|
- GLOBAL|**asiasentinel.com** | https://asiasentinel.global.ssl.fastly.net|
- **PH**|**bulatlat.cpm** | https://bulatlat.global.ssl.fastly.net|
- **CN**|**chinadigitaltimes.net** | https://chinadt.global.ssl.fastly.net|
- **VN**|**danlambaovn.blogspot.com** | https://danlambaovn.global.ssl.fastly.net|
-**VN**|**vietnamthoibao.org** | https://ijavn.global.ssl.fastly.net|
- **IR**|**iranwire.com**| https://iranwire.global.ssl.fastly.net|
- **PH**|**kodao.org**| https://kodao.global.ssl.fastly.net|
- **MM**| **dmediag.com**| https://dmediag.global.ssl.fastly.net|
- **MM**|**dmgburmese.com**| https://dmgburmese.global.ssl.fastly.net|
- **IR**|**news.gooya.com** | https://gn1.global.ssl.fastly.net|
- **CN**|**mingjingnews.com** | https://mn1.global.ssl.fastly.net|
- **KH**|**monoroom.info** | https://monoroom.global.ssl.fastly.net|
- **VN**|**vietnamhumanrightsdefenders.net** | https://dtd.global.ssl.fastly.net|
- Global|**rfa.org**| https://rfa.global.ssl.fastly.net
- **MM**|**rohingyapost.com**| https://rohingyapost.global.ssl.fastly.net|
- **TB**|**thetibetpost.com**| https://tp1.global.ssl.fastly.net|
- **CN**|**wqw2010.blogspot.com**| https://wqwg.global.ssl.fastly.net|
- **CN**|**msguancha.com**| https://d3695t5azh9yw6.cloudfront.net|
- 
- **AFRICA**|🔇 original site | ⬇📢 miror site ⬇️ |
+**TJ** | **[akhbor.com](https://akhbor.com)** | [akhbor.global.ssl.fastly.net](https://akhbor.global.ssl.fastly.net)
+**AZ** | **[azathabar.com/](https://www.azathabar.com/)** | [aza.global.ssl.fastly.net](https://aza.global.ssl.fastly.net)
+**GB** | **[bbc.com/](https://www.bbc.com/)** | [bbc.global.ssl.fastly.net](https://bbc.global.ssl.fastly.net)
+**BY** | **[belarusinfocus.pro](https://belarusinfocus.pro)** | [infocus0x1.global.ssl.fastly.net](https://infocus0x1.global.ssl.fastly.net)
+**BY** | **[by.tribuna.com](https://by.tribuna.com)** | [bytribuna.global.ssl.fastly.net](https://bytribuna.global.ssl.fastly.net), [tribuna101.global.ssl.fastly.net](https://tribuna101.global.ssl.fastly.net), [tribuna42.global.ssl.fastly.net](https://tribuna42.global.ssl.fastly.net)
+**BY** | **[charter97.org](https://charter97.org)** | [charter97.global.ssl.fastly.net](https://charter97.global.ssl.fastly.net)
+**RU** | **[cherta.media](https://cherta.media)** | [d32mmsib7ectwr.cloudfront.net](https://d32mmsib7ectwr.cloudfront.net), [cherta.global.ssl.fastly.net](https://cherta.global.ssl.fastly.net)
+**RU** | **[news.doxajournal.ru/](https://news.doxajournal.ru/)** | [doxajournal.global.ssl.fastly.net](https://doxajournal.global.ssl.fastly.net)
+**RU** | **[dw.com/](https://www.dw.com/)** | [dw42.global.ssl.fastly.net](https://dw42.global.ssl.fastly.net)
+**RU** | **[echofm.online](https://echofm.online)** | [echofm101.global.ssl.fastly.net](https://echofm101.global.ssl.fastly.net)
+**RU** | **[fortanga.org](https://fortanga.org)** | [fortanga.global.ssl.fastly.net](https://fortanga.global.ssl.fastly.net)
+**RU** | **[france24.com/](https://www.france24.com/)** | [f24.global.ssl.fastly.net](https://f24.global.ssl.fastly.net)
+**RU** | **[gubernia.media](https://gubernia.media)** | [gubernia.global.ssl.fastly.net](https://gubernia.global.ssl.fastly.net)
+**RU** | **[holod.media/](https://holod.media/)** | [holod999.global.ssl.fastly.net](https://holod999.global.ssl.fastly.net)
+**RU** | **[138.2.140.32/](http://138.2.140.32/)** | [holod2.global.ssl.fastly.net](https://holod2.global.ssl.fastly.net)
+**TM** | **[hronikatm.com](https://www.hronikatm.com)** | [hronikatm2.global.ssl.fastly.net](https://hronikatm2.global.ssl.fastly.net)
+**UA** | **[imi.org.ua](https://imi.org.ua)** | [d1f3kg5grol9f6.cloudfront.net](https://d1f3kg5grol9f6.cloudfront.net)
+**RU** | **[kavkaz-uzel.eu/](https://kavkaz-uzel.eu/)** | [kavkaz-333.global.ssl.fastly.net](https://kavkaz-333.global.ssl.fastly.net)
+**BY** | **[masheka.by](https://masheka.by)** | [masheka.global.ssl.fastly.net](https://masheka.global.ssl.fastly.net)
+**RU** | **[meduza.io/](https://meduza.io/)** | [meduza-app.global.ssl.fastly.net](https://meduza-app.global.ssl.fastly.net)
+**RU** | **[meduza.io/](https://meduza.io/)** | [meduza.global.ssl.fastly.net](https://meduza.global.ssl.fastly.net)
+**RU** | **[meduza.io/](https://meduza.io/)** | [meduza102.global.ssl.fastly.net](https://meduza102.global.ssl.fastly.net)
+**RU** | **[moscowtimes.ru](https://www.moscowtimes.ru)** | [moscow42.global.ssl.fastly.net](https://moscow42.global.ssl.fastly.net)
+**RU** | **[mostmedia.io](https://mostmedia.io)** | [d1rncrrc6by2rr.cloudfront.net](https://d1rncrrc6by2rr.cloudfront.net)
+**BY** | **[nashaniva.com/](https://nashaniva.com/)** | [d1r6jbpshm04er.cloudfront.net](https://d1r6jbpshm04er.cloudfront.net)
+**BY** | **[nashaniva.com/](https://nashaniva.com/)** | [d1r6jbpshm04er.cloudfront.net](https://d1r6jbpshm04er.cloudfront.net)
+**RU** | **[novayagazeta.ru](https://novayagazeta.ru)** | [novayagazeta.global.ssl.fastly.net](https://novayagazeta.global.ssl.fastly.net)
+**RU** | **[novaya.media/](https://novaya.media/)** | [novayamedia.global.ssl.fastly.net](https://novayamedia.global.ssl.fastly.net)
+**RU** | **[rfi.fr/](https://www.rfi.fr/)** | [rfi.global.ssl.fastly.net](https://rfi.global.ssl.fastly.net)
+**RU** | **[thebell.io/](https://thebell.io/)** | [thebell.global.ssl.fastly.net](https://thebell.global.ssl.fastly.net)
+**RU** | **[tvrain.tv](https://tvrain.tv)** | [tvrain.global.ssl.fastly.net](https://tvrain.global.ssl.fastly.net)
+**BY** | **[vkurier.by/](https://vkurier.by/)** | [vkurier.global.ssl.fastly.net](https://vkurier.global.ssl.fastly.net)
+**BY** | **[zerkalo.io](https://www.zerkalo.io)** | [d2q29d4n5pyko1.cloudfront.net](https://d2q29d4n5pyko1.cloudfront.net)
+**BY** | **[zerkalo.io](https://www.zerkalo.io)** | [zerkalo101.global.ssl.fastly.net](https://zerkalo101.global.ssl.fastly.net)
+**BY** | **[zerkalo.io](https://www.zerkalo.io)** | [zerkalo42.global.ssl.fastly.net](https://zerkalo42.global.ssl.fastly.net)
+
+**MENA** | 🔇 original site | ⬇📢 miror sites ⬇ |
 :-----:|:-----:|:-----:
- **ML**| **france24.com** | https://f24.global.ssl.fastly.net/fr/|
- **ML**| **rfi.fr** | https://rfi.global.ssl.fastly.net/fr/|
- **BJ**|**beninwebtv.bj**| https://beninwebtv.global.ssl.fastly.net|
- **BJ**|**beninwebtv.bj**| https://beninwebtv.global.ssl.fastly.net|
- **CM**|**camerounweb.com**| https://cm-web.global.ssl.fastly.net|
- **DJ**|**lavoixdedjibouti.info**|https://voxdji.global.ssl.fastly.net|
- **BU**|**iwacu-burundi.org**|http://iwacu0x1.global.ssl.fastly.net/|
- **BU**|**iwacu-burundi.org**|https://iwacu42.global.ssl.fastly.net|
- **TG**|**togoweb.net**| https://togoweb.global.ssl.fastly.net|
- 
- **MENA**|🔇 original site | ⬇📢 miror site ⬇️ |
-:-----:|:-----:|:-----:
-**SA**|**alqst.org**| https://alqst.global.ssl.fastly.net|
-**BH** |**bahrainmirror.com**| https://bhr.global.ssl.fastly.net|
-**SA** |**esohr.org**| https://euh.global.ssl.fastly.net|
-**Regional** |**gc4hr.org**| https://gc4hr.global.ssl.fastly.net|
+**SA** | **[alqst.org](https://www.alqst.org)** | [alqst.global.ssl.fastly.net](https://alqst.global.ssl.fastly.net)
+**BH** | **[bahrainmirror.com](http://bahrainmirror.com)** | [bhr.global.ssl.fastly.net](https://bhr.global.ssl.fastly.net)
+**REGIONAL** | **[daraj.media](https://daraj.media)** | [daraj0x2.global.ssl.fastly.net](https://daraj0x2.global.ssl.fastly.net)
+**SA** | **[esohr.org](https://www.esohr.org)** | [euh.global.ssl.fastly.net](https://euh.global.ssl.fastly.net)
+**REGIONAL** | **[gc4hr.org](https://www.gc4hr.org)** | [gc4hr.global.ssl.fastly.net](https://gc4hr.global.ssl.fastly.net)
+**IR** | **[iranintl.com](https://www.iranintl.com)** | [iranintl.global.ssl.fastly.net](https://iranintl.global.ssl.fastly.net)
+**IR** | **[manototv.com](https://www.manototv.com)** | [manototv.global.ssl.fastly.net](https://manototv.global.ssl.fastly.net)
+**IR** | **[radiofarda.com](https://www.radiofarda.com)** | [radiofarda.global.ssl.fastly.net](https://radiofarda.global.ssl.fastly.net)
 
 
 ## English
