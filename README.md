@@ -34,7 +34,6 @@
 :-----:|:-----:|:-----:
 **TJ** | **[akhbor.com](https://akhbor.com)** | [akhbor.global.ssl.fastly.net](https://akhbor.global.ssl.fastly.net)
 **AZ** | **[azathabar.com/](https://www.azathabar.com/)** | [aza.global.ssl.fastly.net](https://aza.global.ssl.fastly.net)
-**GB** | **[bbc.com/](https://www.bbc.com/)** | [bbc.global.ssl.fastly.net](https://bbc.global.ssl.fastly.net)
 **BY** | **[belarusinfocus.pro](https://belarusinfocus.pro)** | [infocus0x1.global.ssl.fastly.net](https://infocus0x1.global.ssl.fastly.net)
 **BY** | **[by.tribuna.com](https://by.tribuna.com)** | [bytribuna.global.ssl.fastly.net](https://bytribuna.global.ssl.fastly.net), [tribuna101.global.ssl.fastly.net](https://tribuna101.global.ssl.fastly.net), [tribuna42.global.ssl.fastly.net](https://tribuna42.global.ssl.fastly.net)
 **BY** | **[charter97.org](https://charter97.org)** | [charter97.global.ssl.fastly.net](https://charter97.global.ssl.fastly.net)
