@@ -21,7 +21,6 @@
 **KH** | **[monoroom.info](https://monoroom.info)** | [monoroom.global.ssl.fastly.net](https://monoroom.global.ssl.fastly.net)
 **CN** | **[msguancha.com](https://msguancha.com)** | [d3695t5azh9yw6.cloudfront.net](https://d3695t5azh9yw6.cloudfront.net)
 **MM** | **[narinjara.com](https://www.narinjara.com)** | [narinjara.global.ssl.fastly.net](https://narinjara.global.ssl.fastly.net)
-**CN** | **[chinadigitaltimes.net](https://chinadigitaltimes.net)** | [ngocn0x2.global.ssl.fastly.net](https://ngocn0x2.global.ssl.fastly.net), [d17053ybjukzzu.cloudfront.net](https://d17053ybjukzzu.cloudfront.net)
 **GLOBAL** | **[rfa.org](https://www.rfa.org)** | [rfa.global.ssl.fastly.net](https://rfa.global.ssl.fastly.net)
 **MM** | **[rohingyapost.com](https://www.rohingyapost.com)** | [rohingyapost.global.ssl.fastly.net](https://rohingyapost.global.ssl.fastly.net)
 **PK** | **[safenewsrooms.org](http://safenewsrooms.org)** | [safenr2.global.ssl.fastly.net](https://safenr2.global.ssl.fastly.net)
