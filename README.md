@@ -49,7 +49,7 @@
 **UA** | **[imi.org.ua](https://imi.org.ua)** | [d1f3kg5grol9f6.cloudfront.net](https://d1f3kg5grol9f6.cloudfront.net)
 **RU** | **[kavkaz-uzel.eu/](https://kavkaz-uzel.eu/)** | [kavkaz-333.global.ssl.fastly.net](https://kavkaz-333.global.ssl.fastly.net)
 **BY** | **[masheka.by](https://masheka.by)** | [masheka.global.ssl.fastly.net](https://masheka.global.ssl.fastly.net)
-**RU** | **[meduza.io/](https://meduza.io/)** | [meduza-app.global.ssl.fastly.net](https://meduza-app.global.ssl.fastly.net)
+**RU** | **[meduza.io/](https://meduza.io/)** | [meduza-app.global.ssl.fastly.net](https://meduza-app.global.ssl.fastly.net), [meduza-ppa.global.ssl.fastly.net](https://meduza-ppa.global.ssl.fastly.net)
 **RU** | **[meduza.io/](https://meduza.io/)** | [meduza.global.ssl.fastly.net](https://meduza.global.ssl.fastly.net)
 **RU** | **[meduza.io/](https://meduza.io/)** | [meduza102.global.ssl.fastly.net](https://meduza102.global.ssl.fastly.net)
 **RU** | **[moscowtimes.ru](https://www.moscowtimes.ru)** | [moscow42.global.ssl.fastly.net](https://moscow42.global.ssl.fastly.net)
