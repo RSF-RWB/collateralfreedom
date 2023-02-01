@@ -27,7 +27,6 @@
 **AZ** | **[turan.az](https://www.turan.az)** | [turan.global.ssl.fastly.net](https://turan.global.ssl.fastly.net)
 **VN** | **[vietnamthoibao.org](https://vietnamthoibao.org)** | [ijavn.global.ssl.fastly.net](https://ijavn.global.ssl.fastly.net)
 **VN** | **[vietnamhumanrightsdefenders.net](https://vietnamhumanrightsdefenders.net)** | [dtd.global.ssl.fastly.net](https://dtd.global.ssl.fastly.net)
-**CN** | **[wqw2010.blogspot.com/](https://wqw2010.blogspot.com/)** | [wqwg.global.ssl.fastly.net](https://wqwg.global.ssl.fastly.net), [dksynhrodq5s5.cloudfront.net](https://dksynhrodq5s5.cloudfront.net)
 
 **Europe** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
