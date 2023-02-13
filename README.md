@@ -67,7 +67,7 @@
 :-----:|:-----:|:-----:
 **SA** | **[alqst.org](https://www.alqst.org)** | [alqst.global.ssl.fastly.net](https://alqst.global.ssl.fastly.net)
 **BH** | **[bahrainmirror.com](http://bahrainmirror.com)** | [bhr.global.ssl.fastly.net](https://bhr.global.ssl.fastly.net)
-**EG** | **[cihrs.org](https://www.cihrs.org)** | [cihrs0x1.global.ssl.fastly.net](https://cihrs0x1.global.ssl.fastly.net)
+**EG** | **[cihrs.org/](https://cihrs.org/)** | [cihrs0x1.global.ssl.fastly.net](https://cihrs0x1.global.ssl.fastly.net)
 **REGIONAL** | **[daraj.media](https://daraj.media)** | [daraj0x2.global.ssl.fastly.net](https://daraj0x2.global.ssl.fastly.net)
 **SA** | **[esohr.org](https://www.esohr.org)** | [euh.global.ssl.fastly.net](https://euh.global.ssl.fastly.net)
 **REGIONAL** | **[gc4hr.org](https://www.gc4hr.org)** | [gc4hr.global.ssl.fastly.net](https://gc4hr.global.ssl.fastly.net)
