@@ -23,7 +23,7 @@
 **GLOBAL** | **[rfa.org](https://www.rfa.org)** | [rfa.global.ssl.fastly.net](https://rfa.global.ssl.fastly.net)
 **MM** | **[rohingyapost.com](https://www.rohingyapost.com)** | [rohingyapost.global.ssl.fastly.net](https://rohingyapost.global.ssl.fastly.net)
 **PK** | **[safenewsrooms.org](http://safenewsrooms.org)** | [safenr2.global.ssl.fastly.net](https://safenr2.global.ssl.fastly.net)
-**TB** | **[thetibetpost.com](https://thetibetpost.com)** | [tp1.global.ssl.fastly.net](https://tp1.global.ssl.fastly.net)
+**TB** | **[thetibetpost.net](https://thetibetpost.net)** | [tp1.global.ssl.fastly.net](https://tp1.global.ssl.fastly.net)
 **AZ** | **[turan.az](https://www.turan.az)** | [turan.global.ssl.fastly.net](https://turan.global.ssl.fastly.net)
 **VN** | **[vietnamthoibao.org](https://vietnamthoibao.org)** | [ijavn.global.ssl.fastly.net](https://ijavn.global.ssl.fastly.net)
 **VN** | **[vietnamhumanrightsdefenders.net](https://vietnamhumanrightsdefenders.net)** | [dtd.global.ssl.fastly.net](https://dtd.global.ssl.fastly.net)
