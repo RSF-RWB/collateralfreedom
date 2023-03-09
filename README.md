@@ -42,7 +42,7 @@
 **RU** | **[france24.com/](https://www.france24.com/)** | [f24.global.ssl.fastly.net](https://f24.global.ssl.fastly.net)
 **RU** | **[gubernia.media](https://gubernia.media)** | [gubernia.global.ssl.fastly.net](https://gubernia.global.ssl.fastly.net)
 **RU** | **[holod.media/](https://holod.media/)** | [holod999.global.ssl.fastly.net](https://holod999.global.ssl.fastly.net)
-**RU** | **[138.2.140.32/](http://138.2.140.32/)** | [holod2.global.ssl.fastly.net](https://holod2.global.ssl.fastly.net)
+**RU** | **[holod.media/](https://holod.media/)** | [holod2.global.ssl.fastly.net](https://holod2.global.ssl.fastly.net)
 **TM** | **[hronikatm.com](https://www.hronikatm.com)** | [hronikatm2.global.ssl.fastly.net](https://hronikatm2.global.ssl.fastly.net)
 **UA** | **[imi.org.ua](https://imi.org.ua)** | [d1f3kg5grol9f6.cloudfront.net](https://d1f3kg5grol9f6.cloudfront.net)
 **RU** | **[kavkaz-uzel.eu/](https://kavkaz-uzel.eu/)** | [kavkaz-333.global.ssl.fastly.net](https://kavkaz-333.global.ssl.fastly.net)
