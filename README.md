@@ -16,7 +16,7 @@
 **IR** | **[news.gooya.com](https://news.gooya.com)** | [gn1.global.ssl.fastly.net](https://gn1.global.ssl.fastly.net)
 **IR** | **[iranwire.com/](https://iranwire.com/)** | [iranwire.global.ssl.fastly.net](https://iranwire.global.ssl.fastly.net)
 **PH** | **[kodao.org](https://kodao.org)** | [kodao.global.ssl.fastly.net](https://kodao.global.ssl.fastly.net)
-**CN** | **[mingjingnews.com](https://www.mingjingnews.com)** | [mn1.global.ssl.fastly.net](https://mn1.global.ssl.fastly.net)
+**CN** | **[mingjingnews.com](https://www.mingjingnews.com)** | [mn1.global.ssl.fastly.net](https://mn1.global.ssl.fastly.net), [mjnews0x1-1dd6a.kxcdn.com](https://mjnews0x1-1dd6a.kxcdn.com), [mjnews0x1.b-cdn.net](https://mjnews0x1.b-cdn.net)
 **KH** | **[monoroom.info](https://monoroom.info)** | [monoroom.global.ssl.fastly.net](https://monoroom.global.ssl.fastly.net)
 **MM** | **[narinjara.com](https://www.narinjara.com)** | [narinjara.global.ssl.fastly.net](https://narinjara.global.ssl.fastly.net)
 **GLOBAL** | **[rfa.org](https://www.rfa.org)** | [rfa.global.ssl.fastly.net](https://rfa.global.ssl.fastly.net)
