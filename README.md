@@ -18,7 +18,7 @@
 **CN** | **[mingjingnews.com](https://www.mingjingnews.com)** | [mn1.global.ssl.fastly.net](https://mn1.global.ssl.fastly.net), [mjnews0x1-1dd6a.kxcdn.com](https://mjnews0x1-1dd6a.kxcdn.com), [mjnews0x1.b-cdn.net](https://mjnews0x1.b-cdn.net)
 **KH** | **[monoroom.info](https://monoroom.info)** | [monoroom.global.ssl.fastly.net](https://monoroom.global.ssl.fastly.net)
 **MM** | **[narinjara.com](https://www.narinjara.com)** | [narinjara.global.ssl.fastly.net](https://narinjara.global.ssl.fastly.net)
-**GLOBAL** | **[rfa.org](https://www.rfa.org)** | [rfa.global.ssl.fastly.net](https://rfa.global.ssl.fastly.net)
+**GLOBAL** | **[rfa.org](https://www.rfa.org)** | [rfa.global.ssl.fastly.net](https://rfa.global.ssl.fastly.net), [rfa0x1.b-cdn.net](https://rfa0x1.b-cdn.net), [rfa-1dd6a.kxcdn.com](https://rfa-1dd6a.kxcdn.com)
 **MM** | **[rohingyapost.com](https://www.rohingyapost.com)** | [rohingyapost.global.ssl.fastly.net](https://rohingyapost.global.ssl.fastly.net)
 **PK** | **[safenewsrooms.org](http://safenewsrooms.org)** | [safenr2.global.ssl.fastly.net](https://safenr2.global.ssl.fastly.net)
 **TB** | **[thetibetpost.com](https://thetibetpost.com)** | [tp1.global.ssl.fastly.net](https://tp1.global.ssl.fastly.net)
