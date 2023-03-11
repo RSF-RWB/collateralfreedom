@@ -34,7 +34,7 @@
 **BY** | **[by.tribuna.com](https://by.tribuna.com)** | [bytribuna.global.ssl.fastly.net](https://bytribuna.global.ssl.fastly.net), [tribuna101.global.ssl.fastly.net](https://tribuna101.global.ssl.fastly.net), [tribuna42.global.ssl.fastly.net](https://tribuna42.global.ssl.fastly.net)
 **BY** | **[charter97.org](https://charter97.org)** | [charter97.global.ssl.fastly.net](https://charter97.global.ssl.fastly.net)
 **RU** | **[cherta.media](https://cherta.media)** | [d32mmsib7ectwr.cloudfront.net](https://d32mmsib7ectwr.cloudfront.net), [cherta.global.ssl.fastly.net](https://cherta.global.ssl.fastly.net)
-**RU** | **[news.doxajournal.ru/](https://news.doxajournal.ru/)** | [doxajournal.global.ssl.fastly.net](https://doxajournal.global.ssl.fastly.net)
+**RU** | **[news.doxajournal.ru/](https://news.doxajournal.ru/)** | [doxajournal.global.ssl.fastly.net](https://doxajournal.global.ssl.fastly.net), [doxajournal.b-cdn.net](https://doxajournal.b-cdn.net)
 **RU** | **[dw.com/](https://www.dw.com/)** | [dw42.global.ssl.fastly.net](https://dw42.global.ssl.fastly.net)
 **RU** | **[echofm.online](https://echofm.online)** | [echofm101.global.ssl.fastly.net](https://echofm101.global.ssl.fastly.net)
 **RU** | **[fortanga.org](https://fortanga.org)** | [fortanga.global.ssl.fastly.net](https://fortanga.global.ssl.fastly.net)
