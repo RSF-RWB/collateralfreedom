@@ -50,7 +50,7 @@
 **RU** | **[meduza.io/](https://meduza.io/)** | [meduza.global.ssl.fastly.net](https://meduza.global.ssl.fastly.net)
 **RU** | **[meduza.io/](https://meduza.io/)** | [meduza102.global.ssl.fastly.net](https://meduza102.global.ssl.fastly.net)
 **RU** | **[themoscowtimes.com](https://www.themoscowtimes.com)** | [mscwtmsdotcom.global.ssl.fastly.net](https://mscwtmsdotcom.global.ssl.fastly.net), [mscwtmsdotcom.b-cdn.net](https://mscwtmsdotcom.b-cdn.net), [mscwtmsdotcom-1dd6a.kxcdn.com](https://mscwtmsdotcom-1dd6a.kxcdn.com)
-**RU** | **[moscowtimes.ru](https://www.moscowtimes.ru)** | [moscow42.global.ssl.fastly.net](https://moscow42.global.ssl.fastly.net), [moscow0x1.b-cdn.net](https://moscow0x1.b-cdn.net), [moscowtimes-1dd6a.kxcdn.com](https://moscowtimes-1dd6a.kxcdn.com)
+**RU** | **[moscowtimes.ru](https://www.moscowtimes.ru)** | [moscow42.global.ssl.fastly.net](https://moscow42.global.ssl.fastly.net), [moscow0x1.global.ssl.fastly.net](https://moscow0x1.global.ssl.fastly.net), [moscow0x1.b-cdn.net](https://moscow0x1.b-cdn.net), [moscowtimes-1dd6a.kxcdn.com](https://moscowtimes-1dd6a.kxcdn.com)
 **RU** | **[mostmedia.io](https://mostmedia.io)** | [d1rncrrc6by2rr.cloudfront.net](https://d1rncrrc6by2rr.cloudfront.net)
 **BY** | **[nashaniva.com/](https://nashaniva.com/)** | [d1r6jbpshm04er.cloudfront.net](https://d1r6jbpshm04er.cloudfront.net)
 **BY** | **[nashaniva.com/](https://nashaniva.com/)** | [d1r6jbpshm04er.cloudfront.net](https://d1r6jbpshm04er.cloudfront.net)
