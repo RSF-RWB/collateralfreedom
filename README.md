@@ -71,6 +71,7 @@
 **SA** | **[esohr.org](https://www.esohr.org)** | [euh.global.ssl.fastly.net](https://euh.global.ssl.fastly.net)
 **REGIONAL** | **[gc4hr.org](https://www.gc4hr.org)** | [gc4hr.global.ssl.fastly.net](https://gc4hr.global.ssl.fastly.net)
 **IR** | **[iranintl.com](https://www.iranintl.com)** | [iranintl.global.ssl.fastly.net](https://iranintl.global.ssl.fastly.net)
+**EG** | **[madamasr.com](https://www.madamasr.com)** | [madamasr0x1.global.ssl.fastly.net](https://madamasr0x1.global.ssl.fastly.net)
 **IR** | **[manototv.com](https://www.manototv.com)** | [manototv.global.ssl.fastly.net](https://manototv.global.ssl.fastly.net)
 **IR** | **[radiofarda.com](https://www.radiofarda.com)** | [radiofarda.global.ssl.fastly.net](https://radiofarda.global.ssl.fastly.net)
 
