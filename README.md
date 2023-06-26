@@ -37,6 +37,7 @@
 **RU** | **[news.doxajournal.ru/](https://news.doxajournal.ru/)** | [doxajournal.global.ssl.fastly.net](https://doxajournal.global.ssl.fastly.net), [doxajournal.b-cdn.net](https://doxajournal.b-cdn.net)
 **RU** | **[dw.com/](https://www.dw.com/)** | [dw42.global.ssl.fastly.net](https://dw42.global.ssl.fastly.net)
 **RU** | **[echofm.online](https://echofm.online)** | [echofm101.global.ssl.fastly.net](https://echofm101.global.ssl.fastly.net)
+**BY** | **[euroradio.fm/](https://euroradio.fm/)** | [euroradio.global.ssl.fastly.net](https://euroradio.global.ssl.fastly.net)
 **RU** | **[fortanga.org](https://fortanga.org)** | [fortanga.global.ssl.fastly.net](https://fortanga.global.ssl.fastly.net)
 **RU** | **[france24.com/](https://www.france24.com/)** | [f24.global.ssl.fastly.net](https://f24.global.ssl.fastly.net)
 **RU** | **[gubernia.media](https://gubernia.media)** | [gubernia.global.ssl.fastly.net](https://gubernia.global.ssl.fastly.net)
