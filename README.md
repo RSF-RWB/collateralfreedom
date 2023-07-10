@@ -47,7 +47,7 @@
 **UA** | **[imi.org.ua](https://imi.org.ua)** | [d1f3kg5grol9f6.cloudfront.net](https://d1f3kg5grol9f6.cloudfront.net)
 **RU** | **[kavkaz-uzel.eu/](https://kavkaz-uzel.eu/)** | [kavkaz-333.global.ssl.fastly.net](https://kavkaz-333.global.ssl.fastly.net)
 **BY** | **[masheka.by](https://masheka.by)** | [masheka.global.ssl.fastly.net](https://masheka.global.ssl.fastly.net)
-**RU** | **[meduza.io/](https://meduza.io/)** | [meduza-app.global.ssl.fastly.net](https://meduza-app.global.ssl.fastly.net), [meduza-ppa.global.ssl.fastly.net](https://meduza-ppa.global.ssl.fastly.net), [d1kpvvg31pdy5z.cloudfront.net](https://d1kpvvg31pdy5z.cloudfront.net), [d31a60upd6khy7.cloudfront.net](https://d31a60upd6khy7.cloudfront.net), [d3lg059t25lryz.cloudfront.net](https://d3lg059t25lryz.cloudfront.net)
+**RU** | **[meduza.io/](https://meduza.io/)** | [meduza-app.global.ssl.fastly.net](https://meduza-app.global.ssl.fastly.net), [meduza-ppa.global.ssl.fastly.net](https://meduza-ppa.global.ssl.fastly.net), [d1kpvvg31pdy5z.cloudfront.net](https://d1kpvvg31pdy5z.cloudfront.net), [d3lg059t25lryz.cloudfront.net](https://d3lg059t25lryz.cloudfront.net)
 **RU** | **[meduza.io/](https://meduza.io/)** | [meduza.global.ssl.fastly.net](https://meduza.global.ssl.fastly.net)
 **RU** | **[meduza.io/](https://meduza.io/)** | [meduza102.global.ssl.fastly.net](https://meduza102.global.ssl.fastly.net)
 **RU** | **[themoscowtimes.com](https://www.themoscowtimes.com)** | [mscwtmsdotcom.global.ssl.fastly.net](https://mscwtmsdotcom.global.ssl.fastly.net), [mscwtmsdotcom.b-cdn.net](https://mscwtmsdotcom.b-cdn.net), [mscwtmsdotcom-1dd6a.kxcdn.com](https://mscwtmsdotcom-1dd6a.kxcdn.com)
