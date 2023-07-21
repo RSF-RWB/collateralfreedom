@@ -59,9 +59,7 @@
 **RU** | **[thebell.io/](https://thebell.io/)** | [thebell.global.ssl.fastly.net](https://thebell.global.ssl.fastly.net), [thebell2.global.ssl.fastly.net](https://thebell2.global.ssl.fastly.net)
 **RU** | **[tvrain.tv](https://tvrain.tv)** | [tvrain.global.ssl.fastly.net](https://tvrain.global.ssl.fastly.net)
 **BY** | **[vkurier.by/](https://vkurier.by/)** | [vkurier.global.ssl.fastly.net](https://vkurier.global.ssl.fastly.net)
-**BY** | **[zerkalo.io](https://www.zerkalo.io)** | [d2q29d4n5pyko1.cloudfront.net](https://d2q29d4n5pyko1.cloudfront.net)
-**BY** | **[zerkalo.io](https://www.zerkalo.io)** | [zerkalo101.global.ssl.fastly.net](https://zerkalo101.global.ssl.fastly.net)
-**BY** | **[zerkalo.io](https://www.zerkalo.io)** | [zerkalo42.global.ssl.fastly.net](https://zerkalo42.global.ssl.fastly.net)
+**BY** | **[zerkalo.io](https://www.zerkalo.io)** | [d2q29d4n5pyko1.cloudfront.net](https://d2q29d4n5pyko1.cloudfront.net), [zerkalo42.global.ssl.fastly.net](https://zerkalo42.global.ssl.fastly.net), [zerkalo101.global.ssl.fastly.net](https://zerkalo101.global.ssl.fastly.net)
 
 **MENA** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
