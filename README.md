@@ -60,6 +60,10 @@
 **BY** | **[vkurier.by/](https://vkurier.by/)** | [vkurier.global.ssl.fastly.net](https://vkurier.global.ssl.fastly.net)
 **BY** | **[zerkalo.io](https://www.zerkalo.io)** | [d2q29d4n5pyko1.cloudfront.net](https://d2q29d4n5pyko1.cloudfront.net), [zerkalo42.global.ssl.fastly.net](https://zerkalo42.global.ssl.fastly.net), [zerkalo101.global.ssl.fastly.net](https://zerkalo101.global.ssl.fastly.net)
 
+**Global** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
+:-----:|:-----:|:-----:
+**FR** | **[rsf.org](https://rsf.org)** | [rwb.global.ssl.fastly.net](https://rwb.global.ssl.fastly.net)
+
 **MENA** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
 **SA** | **[alqst.org](https://www.alqst.org)** | [alqst.global.ssl.fastly.net](https://alqst.global.ssl.fastly.net)
