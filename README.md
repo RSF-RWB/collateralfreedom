@@ -55,6 +55,7 @@
 **BY** | **[nashaniva.com/](https://nashaniva.com/)** | [d1r6jbpshm04er.cloudfront.net](https://d1r6jbpshm04er.cloudfront.net)
 **BY** | **[planbmedia.io](https://planbmedia.io)** | [planbmedia.b-cdn.net](https://planbmedia.b-cdn.net)
 **RU** | **[rfi.fr/](https://www.rfi.fr/)** | [rfi.global.ssl.fastly.net](https://rfi.global.ssl.fastly.net)
+**DE** | **[taz.de/](https://taz.de/)** | [taz.global.ssl.fastly.net](https://taz.global.ssl.fastly.net)
 **RU** | **[thebell.io/](https://thebell.io/)** | [thebell.global.ssl.fastly.net](https://thebell.global.ssl.fastly.net), [thebell2.global.ssl.fastly.net](https://thebell2.global.ssl.fastly.net)
 **RU** | **[tvrain.tv](https://tvrain.tv)** | [tvrain.global.ssl.fastly.net](https://tvrain.global.ssl.fastly.net)
 **BY** | **[vkurier.by/](https://vkurier.by/)** | [vkurier.global.ssl.fastly.net](https://vkurier.global.ssl.fastly.net)
