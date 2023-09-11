@@ -3,6 +3,7 @@
 **BJ** | **[beninwebtv.bj](https://beninwebtv.bj)** | [d1eoqxy7y4g23.cloudfront.net](https://d1eoqxy7y4g23.cloudfront.net)
 **CM** | **[camerounweb.com](https://www.camerounweb.com)** | [cm-web.global.ssl.fastly.net](https://cm-web.global.ssl.fastly.net)
 **GN** | **[guineematin.com](https://guineematin.com)** | [gn-matin.global.ssl.fastly.net](https://gn-matin.global.ssl.fastly.net)
+**GN** | **[inquisiteur.net/](https://www.inquisiteur.net/)** | [inquisiteur.global.ssl.fastly.net](https://inquisiteur.global.ssl.fastly.net)
 **BU** | **[iwacu-burundi.org](https://www.iwacu-burundi.org)** | [iwacu0x1.global.ssl.fastly.net](https://iwacu0x1.global.ssl.fastly.net), [iwacu42.global.ssl.fastly.net](https://iwacu42.global.ssl.fastly.net)
 **DJ** | **[lavoixdedjibouti.info](https://lavoixdedjibouti.info)** | [voxdji.global.ssl.fastly.net](https://voxdji.global.ssl.fastly.net)
 **TG** | **[togoweb.net](https://togoweb.net)** | [togoweb.global.ssl.fastly.net](https://togoweb.global.ssl.fastly.net)
