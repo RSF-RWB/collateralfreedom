@@ -6,6 +6,7 @@
 **GN** | **[inquisiteur.net/](https://www.inquisiteur.net/)** | [inquisiteur.global.ssl.fastly.net](https://inquisiteur.global.ssl.fastly.net)
 **BU** | **[iwacu-burundi.org](https://www.iwacu-burundi.org)** | [iwacu0x1.global.ssl.fastly.net](https://iwacu0x1.global.ssl.fastly.net), [iwacu42.global.ssl.fastly.net](https://iwacu42.global.ssl.fastly.net)
 **DJ** | **[lavoixdedjibouti.info](https://lavoixdedjibouti.info)** | [voxdji.global.ssl.fastly.net](https://voxdji.global.ssl.fastly.net)
+**GN** | **[presse-alternative.info](https://presse-alternative.info)** | [presse-alter.global.ssl.fastly.net](https://presse-alter.global.ssl.fastly.net)
 **TG** | **[togoweb.net](https://togoweb.net)** | [togoweb.global.ssl.fastly.net](https://togoweb.global.ssl.fastly.net)
 
 **Asia** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
