@@ -33,6 +33,7 @@
 **AZ** | **[turan.az](https://www.turan.az)** | [turan.global.ssl.fastly.net](https://turan.global.ssl.fastly.net)
 **VN** | **[vietnamthoibao.org](https://vietnamthoibao.org)** | [ijavn.global.ssl.fastly.net](https://ijavn.global.ssl.fastly.net)
 **VN** | **[vietnamhumanrightsdefenders.net](https://vietnamhumanrightsdefenders.net)** | [dtd.global.ssl.fastly.net](https://dtd.global.ssl.fastly.net)
+**CN** | **[substack.com/profile/123993780-women](https://substack.com/profile/123993780-women)** | [women-cn.global.ssl.fastly.net](https://women-cn.global.ssl.fastly.net), [women-cn.b-cdn.net](https://women-cn.b-cdn.net)
 
 **Europe** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
