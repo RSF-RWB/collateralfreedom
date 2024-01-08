@@ -18,7 +18,7 @@
 **VN** | **[danlambaovn.blogspot.com](https://danlambaovn.blogspot.com)** | [danlambaovn.global.ssl.fastly.net](https://danlambaovn.global.ssl.fastly.net)
 **MM** | **[dmediag.com/](https://www.dmediag.com/)** | [dmediag.global.ssl.fastly.net](https://dmediag.global.ssl.fastly.net)
 **MM** | **[dmgburmese.com/](https://www.dmgburmese.com/)** | [dmgburmese.global.ssl.fastly.net](https://dmgburmese.global.ssl.fastly.net)
-**CN** | **[free-xueq-jianb.github.io](https://free-xueq-jianb.github.io)** | [xueq0x1.global.ssl.fastly.net](https://xueq0x1.global.ssl.fastly.net), [dcqiy6g165h3t.cloudfront.net](https://dcqiy6g165h3t.cloudfront.net), [xueq0x1.b-cdn.net](https://xueq0x1.b-cdn.net), [freexueqjianb-1dd6a.kxcdn.com](https://freexueqjianb-1dd6a.kxcdn.com)
+**CN** | **[free-xueq-jianb.github.io](https://free-xueq-jianb.github.io)** | [dcqiy6g165h3t.cloudfront.net](https://dcqiy6g165h3t.cloudfront.net), [xueq0x1.b-cdn.net](https://xueq0x1.b-cdn.net), [freexueqjianb-1dd6a.kxcdn.com](https://freexueqjianb-1dd6a.kxcdn.com)
 **IR** | **[news.gooya.com](https://news.gooya.com)** | [gn1.global.ssl.fastly.net](https://gn1.global.ssl.fastly.net)
 **IR** | **[iranwire.com/](https://iranwire.com/)** | [iranwire.global.ssl.fastly.net](https://iranwire.global.ssl.fastly.net)
 **PH** | **[kodao.org](https://kodao.org)** | [kodao.global.ssl.fastly.net](https://kodao.global.ssl.fastly.net)
