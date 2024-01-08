@@ -13,6 +13,7 @@
 :-----:|:-----:|:-----:
 **AF** | **[amu.tv](https://amu.tv)** | [amu-tv.global.ssl.fastly.net](https://amu-tv.global.ssl.fastly.net)
 **PH** | **[bulatlat.com](https://www.bulatlat.com)** | [bulatlat.global.ssl.fastly.net](https://bulatlat.global.ssl.fastly.net)
+**CN** | **[chinamediaproject.org](https://chinamediaproject.org)** | [cnproject.global.ssl.fastly.net](https://cnproject.global.ssl.fastly.net), [cnproject.b-cdn.net](https://cnproject.b-cdn.net)
 **VN** | **[danlambaovn.blogspot.com](https://danlambaovn.blogspot.com)** | [danlambaovn.global.ssl.fastly.net](https://danlambaovn.global.ssl.fastly.net)
 **MM** | **[dmediag.com/](https://www.dmediag.com/)** | [dmediag.global.ssl.fastly.net](https://dmediag.global.ssl.fastly.net)
 **MM** | **[dmgburmese.com/](https://www.dmgburmese.com/)** | [dmgburmese.global.ssl.fastly.net](https://dmgburmese.global.ssl.fastly.net)
