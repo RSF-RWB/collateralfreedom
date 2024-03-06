@@ -271,5 +271,8 @@
   ],
   "https://www.radiofarda.com": [
     "radiofarda.global.ssl.fastly.net"
+  ],
+  "https://www.akademiye.org/ug/": [
+    "fmqvtfvrltzfmnnj.global.ssl.fastly.net"
   ]
 }

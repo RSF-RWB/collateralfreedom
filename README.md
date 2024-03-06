@@ -51,6 +51,7 @@
 **IR** | **[iranintl.com](https://www.iranintl.com)** | [iranintl.global.ssl.fastly.net](https://iranintl.global.ssl.fastly.net)
 **IR** | **[manototv.com](https://www.manototv.com)** | [manototv.global.ssl.fastly.net](https://manototv.global.ssl.fastly.net)
 **IR** | **[radiofarda.com](https://www.radiofarda.com)** | [radiofarda.global.ssl.fastly.net](https://radiofarda.global.ssl.fastly.net)
+**CN** | **[akademiye.org/ug/](https://www.akademiye.org/ug/)** | [fmqvtfvrltzfmnnj.global.ssl.fastly.net](https://fmqvtfvrltzfmnnj.global.ssl.fastly.net)
 
 ---
 
