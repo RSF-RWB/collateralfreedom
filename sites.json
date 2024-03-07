@@ -40,13 +40,6 @@
     "dgdxvkiaqlxkl.cloudfront.net",
     "chinadt-1dd6a.kxcdn.com"
   ],
-  "https://chinamediaproject.org": [
-    "cnproject.global.ssl.fastly.net",
-    "cnproject.b-cdn.net",
-    "pbufmsubydzncgyc.global.ssl.fastly.net",
-    "qyuzerilpdfargwq.4h1oist.art",
-    "iglziaajemjentoy.bk05e69.online"
-  ],
   "https://danlambaovn.blogspot.com": [
     "danlambaovn.global.ssl.fastly.net"
   ],
@@ -268,6 +261,11 @@
   ],
   "https://www.akademiye.org/ug/": [
     "fmqvtfvrltzfmnnj.global.ssl.fastly.net"
+  ],
+  "https://chinamediaproject.org": [
+    "pbufmsubydzncgyc.global.ssl.fastly.net",
+    "qyuzerilpdfargwq.4h1oist.art",
+    "iglziaajemjentoy.bk05e69.online"
   ],
   "https://wqw2010.blogspot.com": [
     "odfbcoqaemzjlwuf.global.ssl.fastly.net",
