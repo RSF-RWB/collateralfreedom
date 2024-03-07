@@ -107,21 +107,6 @@
   "https://vietnamhumanrightsdefenders.net": [
     "dtd.global.ssl.fastly.net"
   ],
-  "https://women4china.substack.com": [
-    "women-cn.global.ssl.fastly.net",
-    "women-cn.b-cdn.net",
-    "padyjzcpttvouehs.global.ssl.fastly.net",
-    "qfawrvupkgbzpelr.ftwx0ykc4d.best",
-    "crvjgrrnscxrrblf.oskydwtivg.site"
-  ],
-  "https://zhongxuncn.blogspot.com": [
-    "zhongxuncn.global.ssl.fastly.net",
-    "zhongxuncn.b-cdn.net",
-    "zhongxuncn-1dd6a.kxcdn.com",
-    "gobexupfutareyye.global.ssl.fastly.net",
-    "akgblyvscyzkcohs.b1x4r71lk.site",
-    "lerqtdqugyjyfbxp.8gfpbwj9z.fr"
-  ],
   "https://akhbor.com": [
     "akhbor.global.ssl.fastly.net"
   ],
@@ -288,5 +273,15 @@
     "odfbcoqaemzjlwuf.global.ssl.fastly.net",
     "idvoiwtvtmgbshpx.qfdlrywsk8.site",
     "jcepjiohatwlrnqj.ntgqnhimkdnx.online"
+  ],
+  "https://zhongxuncn.blogspot.com": [
+    "gobexupfutareyye.global.ssl.fastly.net",
+    "akgblyvscyzkcohs.b1x4r71lk.site",
+    "lerqtdqugyjyfbxp.8gfpbwj9z.fr"
+  ],
+  "https://women4china.substack.com": [
+    "padyjzcpttvouehs.global.ssl.fastly.net",
+    "qfawrvupkgbzpelr.ftwx0ykc4d.best",
+    "crvjgrrnscxrrblf.oskydwtivg.site"
   ]
 }
