@@ -159,17 +159,6 @@
   "https://masheka.by": [
     "masheka.global.ssl.fastly.net"
   ],
-  "https://meduza.io/": [
-    "d1kpvvg31pdy5z.cloudfront.net",
-    "d3lg059t25lryz.cloudfront.net",
-    "d2fxo5l4rzzmf1.cloudfront.net",
-    "urrcwwchlhrqtyls.global.ssl.fastly.net",
-    "rvczeiueceqgcopa.b0umo0d1f.best",
-    "bqbvuegxbdlrdomx.ftwx0ykc4d.best",
-    "cokbnsgxipqjiszk.oskydwtivg.site",
-    "wgekvqubndwnogpr.q300t9ihygw.site",
-    "atcninyknvyuzstg.onijecm6r.click"
-  ],
   "https://www.themoscowtimes.com": [
     "mscwtmsdotcom.global.ssl.fastly.net",
     "mscwtmsdotcom.b-cdn.net",
@@ -266,6 +255,14 @@
     "pbufmsubydzncgyc.global.ssl.fastly.net",
     "qyuzerilpdfargwq.4h1oist.art",
     "iglziaajemjentoy.bk05e69.online"
+  ],
+  "https://meduza.io/": [
+    "urrcwwchlhrqtyls.global.ssl.fastly.net",
+    "rvczeiueceqgcopa.b0umo0d1f.best",
+    "bqbvuegxbdlrdomx.ftwx0ykc4d.best",
+    "cokbnsgxipqjiszk.oskydwtivg.site",
+    "wgekvqubndwnogpr.q300t9ihygw.site",
+    "atcninyknvyuzstg.onijecm6r.click"
   ],
   "https://wqw2010.blogspot.com": [
     "odfbcoqaemzjlwuf.global.ssl.fastly.net",
