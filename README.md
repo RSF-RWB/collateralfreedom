@@ -52,6 +52,9 @@
 **IR** | **[manototv.com](https://www.manototv.com)** | [manototv.global.ssl.fastly.net](https://manototv.global.ssl.fastly.net)
 **IR** | **[radiofarda.com](https://www.radiofarda.com)** | [radiofarda.global.ssl.fastly.net](https://radiofarda.global.ssl.fastly.net)
 **CN** | **[akademiye.org/ug/](https://www.akademiye.org/ug/)** | [fmqvtfvrltzfmnnj.global.ssl.fastly.net](https://fmqvtfvrltzfmnnj.global.ssl.fastly.net)
+**CN** | **[chinamediaproject.org](https://chinamediaproject.org)** | [pbufmsubydzncgyc.global.ssl.fastly.net](https://pbufmsubydzncgyc.global.ssl.fastly.net), [qyuzerilpdfargwq.4h1oist.art](https://qyuzerilpdfargwq.4h1oist.art), [iglziaajemjentoy.bk05e69.online](https://iglziaajemjentoy.bk05e69.online)
+**CN** | **[zhongxuncn.blogspot.com](https://zhongxuncn.blogspot.com)** | [gobexupfutareyye.global.ssl.fastly.net](https://gobexupfutareyye.global.ssl.fastly.net)
+**CN** | **[women4china.substack.com](https://women4china.substack.com)** | [padyjzcpttvouehs.global.ssl.fastly.net](https://padyjzcpttvouehs.global.ssl.fastly.net), [qfawrvupkgbzpelr.ftwx0ykc4d.best](https://qfawrvupkgbzpelr.ftwx0ykc4d.best), [crvjgrrnscxrrblf.oskydwtivg.site](https://crvjgrrnscxrrblf.oskydwtivg.site)
 
 ---
 
