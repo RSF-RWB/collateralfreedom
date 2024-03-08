@@ -4,6 +4,7 @@
 **CM** | **[camerounweb.com](https://www.camerounweb.com)** | [cm-web.global.ssl.fastly.net](https://cm-web.global.ssl.fastly.net)
 **GN** | **[guineematin.com](https://guineematin.com)** | [gn-matin.global.ssl.fastly.net](https://gn-matin.global.ssl.fastly.net)
 **GN** | **[inquisiteur.net/](https://www.inquisiteur.net/)** | [inquisiteur.global.ssl.fastly.net](https://inquisiteur.global.ssl.fastly.net)
+**BI** | **[iwacu-burundi.org](https://www.iwacu-burundi.org)** | [iwacu0x1.global.ssl.fastly.net](https://iwacu0x1.global.ssl.fastly.net), [iwacu42.global.ssl.fastly.net](https://iwacu42.global.ssl.fastly.net)
 **GN** | **[mosaiqueguinee.com/](https://mosaiqueguinee.com/)** | [mosaique-gn.b-cdn.net](https://mosaique-gn.b-cdn.net), [mosaiquegn-1dd6a.kxcdn.com](https://mosaiquegn-1dd6a.kxcdn.com)
 **TG** | **[presse-alternative.info](https://presse-alternative.info)** | [presse-alter.global.ssl.fastly.net](https://presse-alter.global.ssl.fastly.net)
 **TG** | **[togoweb.net](https://togoweb.net)** | [togoweb.global.ssl.fastly.net](https://togoweb.global.ssl.fastly.net)
@@ -93,7 +94,6 @@
 
 **Other** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
-**BU** | **[iwacu-burundi.org](https://www.iwacu-burundi.org)** | [iwacu0x1.global.ssl.fastly.net](https://iwacu0x1.global.ssl.fastly.net), [iwacu42.global.ssl.fastly.net](https://iwacu42.global.ssl.fastly.net)
 **GLOBAL** | **[rfa.org](https://www.rfa.org)** | [rfa.global.ssl.fastly.net](https://rfa.global.ssl.fastly.net), [rfa0x1.b-cdn.net](https://rfa0x1.b-cdn.net), [rfa0x1-1dd6a.kxcdn.com](https://rfa0x1-1dd6a.kxcdn.com)
 **TB** | **[thetibetpost.com](https://thetibetpost.com)** | [tp1.global.ssl.fastly.net](https://tp1.global.ssl.fastly.net)
 **REGIONAL** | **[daraj.media](https://daraj.media)** | [daraj0x2.global.ssl.fastly.net](https://daraj0x2.global.ssl.fastly.net)
