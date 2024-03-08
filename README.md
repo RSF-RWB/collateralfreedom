@@ -10,17 +10,6 @@
 
 ---
 
-**Arab States** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
-:-----:|:-----:|:-----:
-**DJ** | **[lavoixdedjibouti.info](https://lavoixdedjibouti.info)** | [voxdji.global.ssl.fastly.net](https://voxdji.global.ssl.fastly.net)
-**SA** | **[alqst.org](https://www.alqst.org)** | [alqst.global.ssl.fastly.net](https://alqst.global.ssl.fastly.net)
-**BH** | **[bahrainmirror.com](http://bahrainmirror.com)** | [bhr.global.ssl.fastly.net](https://bhr.global.ssl.fastly.net)
-**EG** | **[cihrs.org/](https://cihrs.org/)** | [cihrs0x1.global.ssl.fastly.net](https://cihrs0x1.global.ssl.fastly.net), [dxkkfen6ow66t.cloudfront.net](https://dxkkfen6ow66t.cloudfront.net)
-**SA** | **[esohr.org](https://www.esohr.org)** | [euh.global.ssl.fastly.net](https://euh.global.ssl.fastly.net)
-**EG** | **[madamasr.com](https://www.madamasr.com)** | [madamasr0x1.global.ssl.fastly.net](https://madamasr0x1.global.ssl.fastly.net)
-
----
-
 **Asia & Pacific** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
 **AF** | **[amu.tv](https://amu.tv)** | [amu-tv.global.ssl.fastly.net](https://amu-tv.global.ssl.fastly.net)
@@ -88,6 +77,17 @@
 **BY** | **[zerkalo.io](https://www.zerkalo.io)** | [d2q29d4n5pyko1.cloudfront.net](https://d2q29d4n5pyko1.cloudfront.net), [zerkalo42.global.ssl.fastly.net](https://zerkalo42.global.ssl.fastly.net), [zerkalo101.global.ssl.fastly.net](https://zerkalo101.global.ssl.fastly.net)
 **FR** | **[rsf.org](https://rsf.org)** | [rwb.global.ssl.fastly.net](https://rwb.global.ssl.fastly.net)
 **RU** | **[meduza.io/](https://meduza.io/)** | [urrcwwchlhrqtyls.global.ssl.fastly.net](https://urrcwwchlhrqtyls.global.ssl.fastly.net), [rvczeiueceqgcopa.b0umo0d1f.best](https://rvczeiueceqgcopa.b0umo0d1f.best), [bqbvuegxbdlrdomx.ftwx0ykc4d.best](https://bqbvuegxbdlrdomx.ftwx0ykc4d.best), [cokbnsgxipqjiszk.oskydwtivg.site](https://cokbnsgxipqjiszk.oskydwtivg.site), [wgekvqubndwnogpr.q300t9ihygw.site](https://wgekvqubndwnogpr.q300t9ihygw.site), [atcninyknvyuzstg.onijecm6r.click](https://atcninyknvyuzstg.onijecm6r.click)
+
+---
+
+**MENA** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
+:-----:|:-----:|:-----:
+**DJ** | **[lavoixdedjibouti.info](https://lavoixdedjibouti.info)** | [voxdji.global.ssl.fastly.net](https://voxdji.global.ssl.fastly.net)
+**SA** | **[alqst.org](https://www.alqst.org)** | [alqst.global.ssl.fastly.net](https://alqst.global.ssl.fastly.net)
+**BH** | **[bahrainmirror.com](http://bahrainmirror.com)** | [bhr.global.ssl.fastly.net](https://bhr.global.ssl.fastly.net)
+**EG** | **[cihrs.org/](https://cihrs.org/)** | [cihrs0x1.global.ssl.fastly.net](https://cihrs0x1.global.ssl.fastly.net), [dxkkfen6ow66t.cloudfront.net](https://dxkkfen6ow66t.cloudfront.net)
+**SA** | **[esohr.org](https://www.esohr.org)** | [euh.global.ssl.fastly.net](https://euh.global.ssl.fastly.net)
+**EG** | **[madamasr.com](https://www.madamasr.com)** | [madamasr0x1.global.ssl.fastly.net](https://madamasr0x1.global.ssl.fastly.net)
 
 ---
 
