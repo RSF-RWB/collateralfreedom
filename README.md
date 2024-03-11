@@ -97,7 +97,6 @@
 **Other** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
 **GLOBAL** | **[rfa.org](https://www.rfa.org)** | [rfa.global.ssl.fastly.net](https://rfa.global.ssl.fastly.net), [rfa0x1.b-cdn.net](https://rfa0x1.b-cdn.net), [rfa0x1-1dd6a.kxcdn.com](https://rfa0x1-1dd6a.kxcdn.com)
-**TB** | **[thetibetpost.com](https://thetibetpost.com)** | [tp1.global.ssl.fastly.net](https://tp1.global.ssl.fastly.net)
 **REGIONAL** | **[daraj.media](https://daraj.media)** | [daraj0x2.global.ssl.fastly.net](https://daraj0x2.global.ssl.fastly.net)
 **REGIONAL** | **[gc4hr.org](https://www.gc4hr.org)** | [gc4hr.global.ssl.fastly.net](https://gc4hr.global.ssl.fastly.net)
 
