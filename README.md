@@ -28,6 +28,7 @@
 **MM** | **[narinjara.com](https://www.narinjara.com)** | [narinjara.global.ssl.fastly.net](https://narinjara.global.ssl.fastly.net)
 **MM** | **[rohingyapost.com](https://www.rohingyapost.com)** | [rohingyapost.global.ssl.fastly.net](https://rohingyapost.global.ssl.fastly.net)
 **PK** | **[safenewsrooms.org](http://safenewsrooms.org)** | [safenr2.global.ssl.fastly.net](https://safenr2.global.ssl.fastly.net)
+**CN** | **[shambalanews.com/](http://www.shambalanews.com/)** | [shambalanews.global.ssl.fastly.net](https://shambalanews.global.ssl.fastly.net), [shambala.b-cdn.net](https://shambala.b-cdn.net)
 **IN** | **[thekashmirwalla.com/](https://thekashmirwalla.com/)** | [thekashmirwalla.global.ssl.fastly.net](https://thekashmirwalla.global.ssl.fastly.net)
 **AZ** | **[turan.az](https://www.turan.az)** | [turan.global.ssl.fastly.net](https://turan.global.ssl.fastly.net)
 **VN** | **[vietnamthoibao.org](https://vietnamthoibao.org)** | [ijavn.global.ssl.fastly.net](https://ijavn.global.ssl.fastly.net)

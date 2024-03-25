@@ -85,6 +85,10 @@
   "http://safenewsrooms.org": [
     "safenr2.global.ssl.fastly.net"
   ],
+  "http://www.shambalanews.com/": [
+    "shambalanews.global.ssl.fastly.net",
+    "shambala.b-cdn.net"
+  ],
   "https://thekashmirwalla.com/": [
     "thekashmirwalla.global.ssl.fastly.net"
   ],
