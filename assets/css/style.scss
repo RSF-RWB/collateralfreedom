@@ -1,0 +1,41 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@font-face {
+  font-family: cc-accidenz;
+  src: url({{'/assets/fonts/CCAccidenzCommons-medium.otf' | relative_url }});
+}
+
+body {
+    color: #141414;
+}
+
+header {
+    font-family: cc-accidenz;
+    background: initial;
+    padding-top: 0;
+    border-bottom-width: 0px;
+}
+
+header .inner {
+    padding: 40px 10px 10px 10px;
+    border-color: #ccc;
+    border-width: 0px 0px 1px 0px;
+    border-style: solid;
+}
+
+header h1 {
+    color: black;
+    font-size: 3em;
+}
+
+header h2 {
+    color: #e40046;
+    font-size: 1.5em;
+}
+
+#main-content {
+    font-family: monospace;
+}
