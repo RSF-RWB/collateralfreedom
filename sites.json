@@ -202,6 +202,7 @@
   "https://thebell.io/": [
     "thebell.global.ssl.fastly.net",
     "thebell2.global.ssl.fastly.net",
+    "thebell3.global.ssl.fastly.net",
     "dabell.global.ssl.fastly.net"
   ],
   "https://tvrain.tv": [
