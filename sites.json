@@ -396,12 +396,12 @@
     "cjexqazxgwtknvfr.45tdt3nc8gl8.site"
   ],
   "https://vot.org/": [
-    "qzbqbsztapmftmjr.global.ssl.fastly.net",
-    "sjidavagfurvogdi.b0umo0d1f.best",
-    "xtcyuzvfbklfeytr.jq93m95j.site",
     "gauccuwhugyvaxth.global.ssl.fastly.net",
     "hupeisemtuibsptf.1tvv.live",
-    "ihdvivnzzvezrswd.bmeq4xku34je.live"
+    "ihdvivnzzvezrswd.bmeq4xku34je.live",
+    "qzbqbsztapmftmjr.global.ssl.fastly.net",
+    "sjidavagfurvogdi.b0umo0d1f.best",
+    "xtcyuzvfbklfeytr.jq93m95j.site"
   ],
   "https://wqw2010.blogspot.com": [
     "odfbcoqaemzjlwuf.global.ssl.fastly.net",
@@ -421,6 +421,10 @@
   "https://dennikn.sk/": [
     "bgwcpxuhgfhriajb.global.ssl.fastly.net",
     "dgqfaffpqownwcno.1tvv.live"
+  ],
+  "https://devby.io": [
+    "hwpygzffiwbvyhxo.global.ssl.fastly.net",
+    "vfopugtesntlnlnm.bmeq4xku34je.live"
   ],
   "https://www.faz.net/": [
     "rnwujythcstqstkr.global.ssl.fastly.net",
