@@ -144,10 +144,6 @@
   "https://gubernia.media": [
     "gubernia.global.ssl.fastly.net"
   ],
-  "https://holod.media/": [
-    "holod999.global.ssl.fastly.net",
-    "holod2.global.ssl.fastly.net"
-  ],
   "https://www.hronikatm.com": [
     "hronikatm2.global.ssl.fastly.net"
   ],

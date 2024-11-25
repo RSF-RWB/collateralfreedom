@@ -77,8 +77,6 @@
 **RU** | **[fortanga.org](https://fortanga.org)** | [fortanga.global.ssl.fastly.net](https://fortanga.global.ssl.fastly.net)
 **RU** | **[france24.com/](https://www.france24.com/)** | [f24.global.ssl.fastly.net](https://f24.global.ssl.fastly.net)
 **RU** | **[gubernia.media](https://gubernia.media)** | [gubernia.global.ssl.fastly.net](https://gubernia.global.ssl.fastly.net)
-**RU** | **[holod.media/](https://holod.media/)** | [holod999.global.ssl.fastly.net](https://holod999.global.ssl.fastly.net)
-**RU** | **[holod.media/](https://holod.media/)** | [holod2.global.ssl.fastly.net](https://holod2.global.ssl.fastly.net)
 **UA** | **[imi.org.ua](https://imi.org.ua)** | [d1f3kg5grol9f6.cloudfront.net](https://d1f3kg5grol9f6.cloudfront.net)
 **RU** | **[kavkaz-uzel.eu/](https://kavkaz-uzel.eu/)** | [kavkaz-333.global.ssl.fastly.net](https://kavkaz-333.global.ssl.fastly.net)
 **BY** | **[masheka.by](https://masheka.by)** | [masheka.global.ssl.fastly.net](https://masheka.global.ssl.fastly.net)
