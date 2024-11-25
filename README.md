@@ -90,7 +90,6 @@
 **DE** | **[taz.de/](https://taz.de/)** | [taz.global.ssl.fastly.net](https://taz.global.ssl.fastly.net)
 **RU** | **[thebell.io/](https://thebell.io/)** | [thebell.global.ssl.fastly.net](https://thebell.global.ssl.fastly.net), [thebell2.global.ssl.fastly.net](https://thebell2.global.ssl.fastly.net), [thebell3.global.ssl.fastly.net](https://thebell3.global.ssl.fastly.net), [dabell.global.ssl.fastly.net](https://dabell.global.ssl.fastly.net)
 **RU** | **[tvrain.tv](https://tvrain.tv)** | [tvrain.global.ssl.fastly.net](https://tvrain.global.ssl.fastly.net)
-**BY** | **[vkurier.by/](https://vkurier.by/)** | [vkurier.global.ssl.fastly.net](https://vkurier.global.ssl.fastly.net)
 **BY** | **[zerkalo.io](https://www.zerkalo.io)** | [d2q29d4n5pyko1.cloudfront.net](https://d2q29d4n5pyko1.cloudfront.net), [zerkalo42.global.ssl.fastly.net](https://zerkalo42.global.ssl.fastly.net), [zerkalo101.global.ssl.fastly.net](https://zerkalo101.global.ssl.fastly.net)
 **FR** | **[rsf.org](https://rsf.org)** | [rwb.global.ssl.fastly.net](https://rwb.global.ssl.fastly.net)
 **RU** | **[arte.tv/](https://www.arte.tv/)** | [shdfyjkjrciamqfg.global.ssl.fastly.net](https://shdfyjkjrciamqfg.global.ssl.fastly.net), [unswkbjhhfzvrfib.1tw.live](https://unswkbjhhfzvrfib.1tw.live)

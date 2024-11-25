@@ -204,9 +204,6 @@
   "https://tvrain.tv": [
     "tvrain.global.ssl.fastly.net"
   ],
-  "https://vkurier.by/": [
-    "vkurier.global.ssl.fastly.net"
-  ],
   "https://www.zerkalo.io": [
     "d2q29d4n5pyko1.cloudfront.net",
     "zerkalo42.global.ssl.fastly.net",
