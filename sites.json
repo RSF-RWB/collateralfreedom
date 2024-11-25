@@ -203,13 +203,6 @@
   "https://tvrain.tv/": [
     "tvrain.global.ssl.fastly.net"
   ],
-  "https://www.zerkalo.io/": [
-    "d2q29d4n5pyko1.cloudfront.net",
-    "zerkalo42.global.ssl.fastly.net",
-    "zerkalo101.global.ssl.fastly.net",
-    "najplwzgcnbvghsn.global.ssl.fastly.net",
-    "thwewmcgewiacgtv.1tw.live"
-  ],
   "https://rsf.org/": [
     "rwb.global.ssl.fastly.net"
   ],
@@ -487,5 +480,9 @@
     "padyjzcpttvouehs.global.ssl.fastly.net",
     "qfawrvupkgbzpelr.ftwx0ykc4d.best",
     "crvjgrrnscxrrblf.oskydwtivg.site"
+  ],
+  "https://www.zerkalo.io/": [
+    "najplwzgcnbvghsn.global.ssl.fastly.net",
+    "thwewmcgewiacgtv.1tw.live"
   ]
 }

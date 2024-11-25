@@ -100,7 +100,7 @@
 **RU** | **[rfi.fr/](https://www.rfi.fr/)** | [rfi.global.ssl.fastly.net](https://rfi.global.ssl.fastly.net)
 **RU** | **[sme.sk/](https://www.sme.sk/)** | [qvkljyuestohfayn.global.ssl.fastly.net](https://qvkljyuestohfayn.global.ssl.fastly.net), [eqipsggssawndnpj.1tw.live](https://eqipsggssawndnpj.1tw.live)
 **RU** | **[themoscowtimes.com/](https://www.themoscowtimes.com/)** | [mscwtmsdotcom.global.ssl.fastly.net](https://mscwtmsdotcom.global.ssl.fastly.net), [mscwtmsdotcom.b-cdn.net](https://mscwtmsdotcom.b-cdn.net), [mscwtmsdotcom-1dd6a.kxcdn.com](https://mscwtmsdotcom-1dd6a.kxcdn.com)
-**BY** | **[zerkalo.io/](https://www.zerkalo.io/)** | [d2q29d4n5pyko1.cloudfront.net](https://d2q29d4n5pyko1.cloudfront.net), [zerkalo42.global.ssl.fastly.net](https://zerkalo42.global.ssl.fastly.net), [zerkalo101.global.ssl.fastly.net](https://zerkalo101.global.ssl.fastly.net), [najplwzgcnbvghsn.global.ssl.fastly.net](https://najplwzgcnbvghsn.global.ssl.fastly.net), [thwewmcgewiacgtv.1tw.live](https://thwewmcgewiacgtv.1tw.live)
+**BY** | **[zerkalo.io/](https://www.zerkalo.io/)** | [najplwzgcnbvghsn.global.ssl.fastly.net](https://najplwzgcnbvghsn.global.ssl.fastly.net), [thwewmcgewiacgtv.1tw.live](https://thwewmcgewiacgtv.1tw.live)
 
 ---
 
