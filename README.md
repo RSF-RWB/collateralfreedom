@@ -75,7 +75,7 @@
 **BY** | **[euroradio.fm/](https://euroradio.fm/)** | [euroradio.global.ssl.fastly.net](https://euroradio.global.ssl.fastly.net)
 **RU** | **[fortanga.org/](https://fortanga.org/)** | [fortanga.global.ssl.fastly.net](https://fortanga.global.ssl.fastly.net)
 **RU** | **[gubernia.media/](https://gubernia.media/)** | [gubernia.global.ssl.fastly.net](https://gubernia.global.ssl.fastly.net)
-**RU** | **[holod.media/](https://holod.media/)** | [jxmvmgampbckdhjw.global.ssl.fastly.net](https://jxmvmgampbckdhjw.global.ssl.fastly.net), [kolrglxlpqpoirnj.g2jweym2z70h.live](https://kolrglxlpqpoirnj.g2jweym2z70h.live), [bnlrfisnwshtpbbe.1tvv.live](https://bnlrfisnwshtpbbe.1tvv.live), [kmpcryjyeutadytx.1tw.live](https://kmpcryjyeutadytx.1tw.live), [skjfbkfoiyzvjmea.g2jweym2z70h.live](https://skjfbkfoiyzvjmea.g2jweym2z70h.live), [kxwcqcrysskvwezk.1tw.live](https://kxwcqcrysskvwezk.1tw.live)
+**RU** | **[holod.media/](https://holod.media/)** | [jxmvmgampbckdhjw.global.ssl.fastly.net](https://jxmvmgampbckdhjw.global.ssl.fastly.net), [kolrglxlpqpoirnj.g2jweym2z70h.live](https://kolrglxlpqpoirnj.g2jweym2z70h.live), [oezuoaazzulamghw.1tw.live](https://oezuoaazzulamghw.1tw.live), [kmpcryjyeutadytx.1tw.live](https://kmpcryjyeutadytx.1tw.live), [skjfbkfoiyzvjmea.g2jweym2z70h.live](https://skjfbkfoiyzvjmea.g2jweym2z70h.live), [kxwcqcrysskvwezk.1tw.live](https://kxwcqcrysskvwezk.1tw.live)
 **UA** | **[imi.org.ua/](https://imi.org.ua/)** | [d1f3kg5grol9f6.cloudfront.net](https://d1f3kg5grol9f6.cloudfront.net)
 **RU** | **[kavkaz-uzel.eu/](https://kavkaz-uzel.eu/)** | [kavkaz-333.global.ssl.fastly.net](https://kavkaz-333.global.ssl.fastly.net)
 **BY** | **[masheka.by/](https://masheka.by/)** | [masheka.global.ssl.fastly.net](https://masheka.global.ssl.fastly.net)
