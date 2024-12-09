@@ -3,7 +3,7 @@
 **BJ** | **[beninwebtv.bj/](https://beninwebtv.bj/)** | [d1eoqxy7y4g23.cloudfront.net](https://d1eoqxy7y4g23.cloudfront.net)
 **GN** | **[guineematin.com/](https://guineematin.com/)** | [gn-matin.global.ssl.fastly.net](https://gn-matin.global.ssl.fastly.net)
 **GN** | **[mosaiqueguinee.com/](https://mosaiqueguinee.com/)** | [mosaique-gn.b-cdn.net](https://mosaique-gn.b-cdn.net), [mosaiquegn-1dd6a.kxcdn.com](https://mosaiquegn-1dd6a.kxcdn.com)
-**TG** | **[presse-alternative.info/](https://presse-alternative.info/)** | [presse-alter.global.ssl.fastly.net](https://presse-alter.global.ssl.fastly.net), [dmmfamfqkwzjnrtu.global.ssl.fastly.net](https://dmmfamfqkwzjnrtu.global.ssl.fastly.net), [jztupyvgoaoxymoo.bbbwmsxb.lat](https://jztupyvgoaoxymoo.bbbwmsxb.lat)
+**TG** | **[presse-alternative.info/](https://presse-alternative.info/)** | [dmmfamfqkwzjnrtu.global.ssl.fastly.net](https://dmmfamfqkwzjnrtu.global.ssl.fastly.net), [jztupyvgoaoxymoo.bbbwmsxb.lat](https://jztupyvgoaoxymoo.bbbwmsxb.lat)
 **TD** | **[tchadinfos.com/](https://tchadinfos.com/)** | [kgxmgclcxrjjftsg.global.ssl.fastly.net](https://kgxmgclcxrjjftsg.global.ssl.fastly.net), [tubhwsskxbzoqwzk.1tw.live](https://tubhwsskxbzoqwzk.1tw.live)
 **TG** | **[togoweb.net/](https://togoweb.net/)** | [togoweb.global.ssl.fastly.net](https://togoweb.global.ssl.fastly.net)
 **CM** | **[camerounweb.com/](https://www.camerounweb.com/)** | [cm-web.global.ssl.fastly.net](https://cm-web.global.ssl.fastly.net)

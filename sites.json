@@ -22,11 +22,6 @@
     "mosaique-gn.b-cdn.net",
     "mosaiquegn-1dd6a.kxcdn.com"
   ],
-  "https://presse-alternative.info/": [
-    "presse-alter.global.ssl.fastly.net",
-    "dmmfamfqkwzjnrtu.global.ssl.fastly.net",
-    "jztupyvgoaoxymoo.bbbwmsxb.lat"
-  ],
   "https://togoweb.net/": [
     "togoweb.global.ssl.fastly.net"
   ],
@@ -463,6 +458,10 @@
     "tzkcktnyoqoxlmru.g2jweym2z70h.live",
     "bfyxjjjlcbldsxet.g2jweym2z70h.live",
     "femfjjjvlhmjxdtw.1tvv.live"
+  ],
+  "https://presse-alternative.info/": [
+    "dmmfamfqkwzjnrtu.global.ssl.fastly.net",
+    "jztupyvgoaoxymoo.bbbwmsxb.lat"
   ],
   "https://www.sme.sk/": [
     "qvkljyuestohfayn.global.ssl.fastly.net",
