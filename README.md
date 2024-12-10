@@ -23,6 +23,7 @@
 **CN** | **[flowhongkong.net/](https://flowhongkong.net/)** | [gbmdqftwemikhbys.global.ssl.fastly.net](https://gbmdqftwemikhbys.global.ssl.fastly.net), [cejsdozzheusxnwr.1tvv.live](https://cejsdozzheusxnwr.1tvv.live)
 **CN** | **[free-xueq-jianb.github.io/](https://free-xueq-jianb.github.io/)** | [dcqiy6g165h3t.cloudfront.net](https://dcqiy6g165h3t.cloudfront.net), [xueq0x1.b-cdn.net](https://xueq0x1.b-cdn.net), [freexueqjianb-1dd6a.kxcdn.com](https://freexueqjianb-1dd6a.kxcdn.com)
 **UZ** | **[gordonua.com/](https://gordonua.com/)** | [ehxttkwjzuezwesl.global.ssl.fastly.net](https://ehxttkwjzuezwesl.global.ssl.fastly.net), [oyrzonzfjtzxrlth.bmeq4xku34je.live](https://oyrzonzfjtzxrlth.bmeq4xku34je.live)
+**HK** | **[greenbean.media/](https://greenbean.media/)** | [lfwbnllviuyeczhn.global.ssl.fastly.net](https://lfwbnllviuyeczhn.global.ssl.fastly.net), [owapsivpgmnwormm.frn4nisxgx.online](https://owapsivpgmnwormm.frn4nisxgx.online)
 **IR** | **[iranwire.com/](https://iranwire.com/)** | [iranwire.global.ssl.fastly.net](https://iranwire.global.ssl.fastly.net)
 **CN** | **[jx-fund.org/](https://jx-fund.org/)** | [padyjzcpttvouehs.global.ssl.fastly.net](https://padyjzcpttvouehs.global.ssl.fastly.net), [qfawrvupkgbzpelr.ftwx0ykc4d.best](https://qfawrvupkgbzpelr.ftwx0ykc4d.best), [crvjgrrnscxrrblf.oskydwtivg.site](https://crvjgrrnscxrrblf.oskydwtivg.site)
 **PH** | **[kodao.org/](https://kodao.org/)** | [kodao.global.ssl.fastly.net](https://kodao.global.ssl.fastly.net)
