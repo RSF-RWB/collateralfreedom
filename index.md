@@ -25,7 +25,6 @@
 **UZ** | **[gordonua.com/](https://gordonua.com/)** | [ehxttkwjzuezwesl.global.ssl.fastly.net](https://ehxttkwjzuezwesl.global.ssl.fastly.net), [oyrzonzfjtzxrlth.bmeq4xku34je.live](https://oyrzonzfjtzxrlth.bmeq4xku34je.live)
 **HK** | **[greenbean.media/](https://greenbean.media/)** | [lfwbnllviuyeczhn.global.ssl.fastly.net](https://lfwbnllviuyeczhn.global.ssl.fastly.net), [owapsivpgmnwormm.frn4nisxgx.online](https://owapsivpgmnwormm.frn4nisxgx.online), [pgtmdhxgkfedkgtc.xu1t22sft57h.online](https://pgtmdhxgkfedkgtc.xu1t22sft57h.online)
 **IR** | **[iranwire.com/](https://iranwire.com/)** | [iranwire.global.ssl.fastly.net](https://iranwire.global.ssl.fastly.net)
-**CN** | **[jx-fund.org/](https://jx-fund.org/)** | [padyjzcpttvouehs.global.ssl.fastly.net](https://padyjzcpttvouehs.global.ssl.fastly.net), [qfawrvupkgbzpelr.ftwx0ykc4d.best](https://qfawrvupkgbzpelr.ftwx0ykc4d.best), [crvjgrrnscxrrblf.oskydwtivg.site](https://crvjgrrnscxrrblf.oskydwtivg.site)
 **PH** | **[kodao.org/](https://kodao.org/)** | [kodao.global.ssl.fastly.net](https://kodao.global.ssl.fastly.net)
 **CN** | **[mangmang.run/](https://mangmang.run/)** | [caubczrsbfdmzpzv.global.ssl.fastly.net](https://caubczrsbfdmzpzv.global.ssl.fastly.net), [yohfbhuohycmebbf.ywgzfyxb.lat](https://yohfbhuohycmebbf.ywgzfyxb.lat), [uyiaipfjtlwwmrgv.ovtlvahg.pics](https://uyiaipfjtlwwmrgv.ovtlvahg.pics)
 **KH** | **[monoroom.info/](https://monoroom.info/)** | [monoroom.global.ssl.fastly.net](https://monoroom.global.ssl.fastly.net)
