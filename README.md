@@ -32,7 +32,6 @@
 **IR** | **[news.gooya.com/](https://news.gooya.com/)** | [gn1.global.ssl.fastly.net](https://gn1.global.ssl.fastly.net)
 **HK** | **[photonmedia.net/](https://photonmedia.net/)** | [pyufyhxajvmcspam.global.ssl.fastly.net](https://pyufyhxajvmcspam.global.ssl.fastly.net), [jyrvuywiquzimvep.b0umo0d1f.best](https://jyrvuywiquzimvep.b0umo0d1f.best), [fybpzbseqzejwwtz.1w646uhnqh.fr](https://fybpzbseqzejwwtz.1w646uhnqh.fr)
 **PK** | **[safenewsrooms.org/](https://safenewsrooms.org/)** | [safenr2.global.ssl.fastly.net](https://safenr2.global.ssl.fastly.net)
-**CN** | **[safety.rsf.org/](https://safety.rsf.org/)** | [yhpmxkshkgxfjrxp.global.ssl.fastly.net](https://yhpmxkshkgxfjrxp.global.ssl.fastly.net), [dwwvqrhtfxkwzptr.g2jweym2z70h.live](https://dwwvqrhtfxkwzptr.g2jweym2z70h.live)
 **CN** | **[shahit.biz/](https://shahit.biz/)** | [hhjoeqmdjimdjuas.global.ssl.fastly.net](https://hhjoeqmdjimdjuas.global.ssl.fastly.net), [hdpepjmwevbcuubn.mpjrqfwm.site](https://hdpepjmwevbcuubn.mpjrqfwm.site), [vjqxtosydajzkfmk.o1wq4pwsef.fr](https://vjqxtosydajzkfmk.o1wq4pwsef.fr)
 **IN** | **[thekashmirwalla.com/](https://thekashmirwalla.com/)** | [thekashmirwalla.global.ssl.fastly.net](https://thekashmirwalla.global.ssl.fastly.net)
 **CN** | **[tibettimes.net/](https://tibettimes.net/)** | [kmtvvubdufadydou.global.ssl.fastly.net](https://kmtvvubdufadydou.global.ssl.fastly.net), [cjcdwwdfvxddgflv.jpqanelz.lol](https://cjcdwwdfvxddgflv.jpqanelz.lol), [uabwucgycgoycqzl.frngyfcd.pics](https://uabwucgycgoycqzl.frngyfcd.pics)
