@@ -75,6 +75,7 @@
 **BY** | **[euroradio.fm/](https://euroradio.fm/)** | [euroradio.global.ssl.fastly.net](https://euroradio.global.ssl.fastly.net)
 **RU** | **[fortanga.org/](https://fortanga.org/)** | [fortanga.global.ssl.fastly.net](https://fortanga.global.ssl.fastly.net)
 **RU** | **[gubernia.media/](https://gubernia.media/)** | [gubernia.global.ssl.fastly.net](https://gubernia.global.ssl.fastly.net)
+**RU** | **[holod.media/](https://holod.media/)** | [jxmvmgampbckdhjw.global.ssl.fastly.net](https://jxmvmgampbckdhjw.global.ssl.fastly.net), [yhehakhirmuayyqc.1tvv.live](https://yhehakhirmuayyqc.1tvv.live), [uypvjaqztbtmtltt.dbminjam8b34.lol](https://uypvjaqztbtmtltt.dbminjam8b34.lol), [mryrnmbbumsolinj.8qaj3npj5q1y.monster](https://mryrnmbbumsolinj.8qaj3npj5q1y.monster), [huniobqkcyqjoggn.7vnllyl7h70g.xyz](https://huniobqkcyqjoggn.7vnllyl7h70g.xyz)
 **UA** | **[imi.org.ua/](https://imi.org.ua/)** | [d1f3kg5grol9f6.cloudfront.net](https://d1f3kg5grol9f6.cloudfront.net)
 **RU** | **[kavkaz-uzel.eu/](https://kavkaz-uzel.eu/)** | [kavkaz-333.global.ssl.fastly.net](https://kavkaz-333.global.ssl.fastly.net)
 **BY** | **[masheka.by/](https://masheka.by/)** | [masheka.global.ssl.fastly.net](https://masheka.global.ssl.fastly.net)
