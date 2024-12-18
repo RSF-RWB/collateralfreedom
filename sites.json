@@ -281,12 +281,17 @@
   ],
   "https://meduza.io/": [
     "urrcwwchlhrqtyls.global.ssl.fastly.net",
+    "xhlezmabzzvyldte.lz7ywf73njy9.lat",
     "esgmrauhsemkxyeo.h53auu9xg71c.lol",
     "kmuimnnwbozaugzl.oia7ds95vb0e.live",
     "hvrgnlbwonlsxiam.oia7ds95vb0e.live",
     "fkrnvzmxxkmkpvbe.1tvv.live",
     "btqeqrlpuoaxrxpw.g2jweym2z70h.live",
     "leudqmqvebuspimd.1tw.live",
+    "hytnturmgqpnfndw.bmeq4xku34je.live",
+    "ozknwqciflyjzhku.g2jweym2z70h.live",
+    "dzqbkkisotquebus.1tvv.live",
+    "jgpdfquwwfloobfx.oia7ds95vb0e.live",
     "kojflbhfddftwhrd.1tw.live",
     "ngarufvzdgpurggk.1tvv.live",
     "iwrjlsjikzmdvlql.oia7ds95vb0e.live",
@@ -330,10 +335,6 @@
     "lvhlovlmqtuuciom.oia7ds95vb0e.live",
     "cfhfgbgljpyhtfyw.g2jweym2z70h.live",
     "wtvcffrlcraonmvk.oia7ds95vb0e.live",
-    "hytnturmgqpnfndw.bmeq4xku34je.live",
-    "ozknwqciflyjzhku.g2jweym2z70h.live",
-    "dzqbkkisotquebus.1tvv.live",
-    "jgpdfquwwfloobfx.oia7ds95vb0e.live",
     "dhaqtxmijncibiwg.bmeq4xku34je.live",
     "kuztslgvkdwzzgiu.1tvv.live",
     "lxygiskjewunutpv.1tw.live",
@@ -474,13 +475,13 @@
     "jyrvuywiquzimvep.b0umo0d1f.best",
     "fybpzbseqzejwwtz.1w646uhnqh.fr"
   ],
-  "https://turkistanpress.com/": [
-    "waydvgfsdbbjburc.global.ssl.fastly.net",
-    "qioosuwxmucxtynf.1tvv.live"
-  ],
   "https://www.istiqlalhaber.com/": [
     "vqdfzlzkscucbqaq.global.ssl.fastly.net",
     "bdcekbwbrjsckdlc.g2jweym2z70h.live"
+  ],
+  "https://turkistanpress.com/": [
+    "waydvgfsdbbjburc.global.ssl.fastly.net",
+    "qioosuwxmucxtynf.1tvv.live"
   ],
   "https://vkurier.by/": [
     "nrekixjjpenusxbx.global.ssl.fastly.net",
