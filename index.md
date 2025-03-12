@@ -91,6 +91,7 @@
 **RU** | **[novayapolsha.org/](https://novayapolsha.org/)** | [ucygrvxizjooujol.global.ssl.fastly.net](https://ucygrvxizjooujol.global.ssl.fastly.net), [zeagxbavvnggoqmi.bmeq4xku34je.live](https://zeagxbavvnggoqmi.bmeq4xku34je.live)
 **BY** | **[planbmedia.io/](https://planbmedia.io/)** | [planbmedia.b-cdn.net](https://planbmedia.b-cdn.net), [planbmedia-io.b-cdn.net](https://planbmedia-io.b-cdn.net)
 **FR** | **[rsf.org/](https://rsf.org/)** | [rwb.global.ssl.fastly.net](https://rwb.global.ssl.fastly.net)
+**RU** | **[ruski.radio.cz/](https://ruski.radio.cz/)** | [vvfaeqlejqbdarsc.global.ssl.fastly.net](https://vvfaeqlejqbdarsc.global.ssl.fastly.net), [toabuqlulaxmvuga.zp9o7fqxfv3m.lat](https://toabuqlulaxmvuga.zp9o7fqxfv3m.lat), [hqyqgzqcwuuxslsq.zx7zijikxvj8.xyz](https://hqyqgzqcwuuxslsq.zx7zijikxvj8.xyz), [zlrwbwvjsqscrams.1tvv.live](https://zlrwbwvjsqscrams.1tvv.live)
 **DE** | **[taz.de/](https://taz.de/)** | [taz.global.ssl.fastly.net](https://taz.global.ssl.fastly.net)
 **RU** | **[thebell.io/](https://thebell.io/)** | [thebell.global.ssl.fastly.net](https://thebell.global.ssl.fastly.net), [thebell2.global.ssl.fastly.net](https://thebell2.global.ssl.fastly.net), [thebell3.global.ssl.fastly.net](https://thebell3.global.ssl.fastly.net), [dabell.global.ssl.fastly.net](https://dabell.global.ssl.fastly.net)
 **CN, TR** | **[turkistanpress.com/](https://turkistanpress.com/)** | [waydvgfsdbbjburc.global.ssl.fastly.net](https://waydvgfsdbbjburc.global.ssl.fastly.net), [qioosuwxmucxtynf.1tvv.live](https://qioosuwxmucxtynf.1tvv.live)
