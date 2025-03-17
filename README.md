@@ -109,7 +109,7 @@
 :-----:|:-----:|:-----:
 **BH** | **[bahrainmirror.com/](https://bahrainmirror.com/)** | [bhr.global.ssl.fastly.net](https://bhr.global.ssl.fastly.net)
 **EG** | **[cihrs.org/](https://cihrs.org/)** | [cihrs0x1.global.ssl.fastly.net](https://cihrs0x1.global.ssl.fastly.net), [dxkkfen6ow66t.cloudfront.net](https://dxkkfen6ow66t.cloudfront.net)
-**DJ** | **[lavoixdedjibouti.info/](https://lavoixdedjibouti.info/)** | [voxdji.global.ssl.fastly.net](https://voxdji.global.ssl.fastly.net)
+**DJ** | **[lavoixdedjibouti.info/](https://lavoixdedjibouti.info/)** | [voxdji.global.ssl.fastly.net](https://voxdji.global.ssl.fastly.net), [cbtomouelxvjjhbd.global.ssl.fastly.net](https://cbtomouelxvjjhbd.global.ssl.fastly.net), [prhsnwkcvlpuhimk.mqodyqvz.lat](https://prhsnwkcvlpuhimk.mqodyqvz.lat)
 **SA** | **[alqst.org/](https://www.alqst.org/)** | [alqst.global.ssl.fastly.net](https://alqst.global.ssl.fastly.net)
 **SA** | **[esohr.org/](https://www.esohr.org/)** | [euh.global.ssl.fastly.net](https://euh.global.ssl.fastly.net)
 **REGIONAL, SA** | **[gc4hr.org/](https://www.gc4hr.org/)** | [gc4hr.global.ssl.fastly.net](https://gc4hr.global.ssl.fastly.net), [uenyzudayfkpkhpn.global.ssl.fastly.net](https://uenyzudayfkpkhpn.global.ssl.fastly.net), [qwqmxjffrudaorci.odb656jnuek8.live](https://qwqmxjffrudaorci.odb656jnuek8.live)
