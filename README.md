@@ -2,7 +2,7 @@
 :-----:|:-----:|:-----:
 **BJ** | **[beninwebtv.bj/](https://beninwebtv.bj/)** | [d1eoqxy7y4g23.cloudfront.net](https://d1eoqxy7y4g23.cloudfront.net)
 **GN** | **[guineematin.com/](https://guineematin.com/)** | [gn-matin.global.ssl.fastly.net](https://gn-matin.global.ssl.fastly.net)
-**GN** | **[mosaiqueguinee.com/](https://mosaiqueguinee.com/)** | [mosaique-gn.b-cdn.net](https://mosaique-gn.b-cdn.net), [mosaiquegn-1dd6a.kxcdn.com](https://mosaiquegn-1dd6a.kxcdn.com)
+**GN** | **[mosaiqueguinee.com/](https://mosaiqueguinee.com/)** | [mosaique-gn.b-cdn.net](https://mosaique-gn.b-cdn.net), [mosaiquegn-1dd6a.kxcdn.com](https://mosaiquegn-1dd6a.kxcdn.com), [frewlruvtsoydnjn.global.ssl.fastly.net](https://frewlruvtsoydnjn.global.ssl.fastly.net)
 **TG** | **[presse-alternative.info/](https://presse-alternative.info/)** | [dmmfamfqkwzjnrtu.global.ssl.fastly.net](https://dmmfamfqkwzjnrtu.global.ssl.fastly.net), [jztupyvgoaoxymoo.bbbwmsxb.lat](https://jztupyvgoaoxymoo.bbbwmsxb.lat)
 **TD** | **[tchadinfos.com/](https://tchadinfos.com/)** | [kgxmgclcxrjjftsg.global.ssl.fastly.net](https://kgxmgclcxrjjftsg.global.ssl.fastly.net), [tubhwsskxbzoqwzk.1tw.live](https://tubhwsskxbzoqwzk.1tw.live)
 **TG** | **[togoweb.net/](https://togoweb.net/)** | [togoweb.global.ssl.fastly.net](https://togoweb.global.ssl.fastly.net)
@@ -25,7 +25,7 @@
 **CN** | **[free-xueq-jianb.github.io/](https://free-xueq-jianb.github.io/)** | [dcqiy6g165h3t.cloudfront.net](https://dcqiy6g165h3t.cloudfront.net), [xueq0x1.b-cdn.net](https://xueq0x1.b-cdn.net), [freexueqjianb-1dd6a.kxcdn.com](https://freexueqjianb-1dd6a.kxcdn.com)
 **UZ** | **[gordonua.com/](https://gordonua.com/)** | [ehxttkwjzuezwesl.global.ssl.fastly.net](https://ehxttkwjzuezwesl.global.ssl.fastly.net), [oyrzonzfjtzxrlth.bmeq4xku34je.live](https://oyrzonzfjtzxrlth.bmeq4xku34je.live)
 **HK** | **[greenbean.media/](https://greenbean.media/)** | [lfwbnllviuyeczhn.global.ssl.fastly.net](https://lfwbnllviuyeczhn.global.ssl.fastly.net), [owapsivpgmnwormm.frn4nisxgx.online](https://owapsivpgmnwormm.frn4nisxgx.online), [pgtmdhxgkfedkgtc.xu1t22sft57h.online](https://pgtmdhxgkfedkgtc.xu1t22sft57h.online)
-**IR** | **[iranwire.com/](https://iranwire.com/)** | [iranwire.global.ssl.fastly.net](https://iranwire.global.ssl.fastly.net)
+**IR** | **[iranwire.com/](https://iranwire.com/)** | [iranwire.global.ssl.fastly.net](https://iranwire.global.ssl.fastly.net), [zshlqtzoroirbflu.global.ssl.fastly.net](https://zshlqtzoroirbflu.global.ssl.fastly.net), [ohdfuthpienajrui.lbgaoeug.lat](https://ohdfuthpienajrui.lbgaoeug.lat)
 **PH** | **[kodao.org/](https://kodao.org/)** | [kodao.global.ssl.fastly.net](https://kodao.global.ssl.fastly.net), [excypnpmkevjoleo.global.ssl.fastly.net](https://excypnpmkevjoleo.global.ssl.fastly.net), [ckydkdaudezdotmi.zp9o7fqxfv3m.lat](https://ckydkdaudezdotmi.zp9o7fqxfv3m.lat)
 **CN** | **[madeinchinajournal.com/](https://madeinchinajournal.com/)** | [zqlmtuwjnjnktijs.global.ssl.fastly.net](https://zqlmtuwjnjnktijs.global.ssl.fastly.net), [zgtwpzfhssamqnqj.a1g9l1r3x3oq.online](https://zgtwpzfhssamqnqj.a1g9l1r3x3oq.online), [odswofpkokzrlrou.ozvqhkcn8n.click](https://odswofpkokzrlrou.ozvqhkcn8n.click), [ssggugajvrnzniad.5rt77s22xjls.live](https://ssggugajvrnzniad.5rt77s22xjls.live)
 **CN** | **[mangmang.run/](https://mangmang.run/)** | [caubczrsbfdmzpzv.global.ssl.fastly.net](https://caubczrsbfdmzpzv.global.ssl.fastly.net), [yohfbhuohycmebbf.ywgzfyxb.lat](https://yohfbhuohycmebbf.ywgzfyxb.lat), [uyiaipfjtlwwmrgv.ovtlvahg.pics](https://uyiaipfjtlwwmrgv.ovtlvahg.pics)
