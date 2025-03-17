@@ -26,7 +26,7 @@
 **UZ** | **[gordonua.com/](https://gordonua.com/)** | [ehxttkwjzuezwesl.global.ssl.fastly.net](https://ehxttkwjzuezwesl.global.ssl.fastly.net), [oyrzonzfjtzxrlth.bmeq4xku34je.live](https://oyrzonzfjtzxrlth.bmeq4xku34je.live)
 **HK** | **[greenbean.media/](https://greenbean.media/)** | [lfwbnllviuyeczhn.global.ssl.fastly.net](https://lfwbnllviuyeczhn.global.ssl.fastly.net), [owapsivpgmnwormm.frn4nisxgx.online](https://owapsivpgmnwormm.frn4nisxgx.online), [pgtmdhxgkfedkgtc.xu1t22sft57h.online](https://pgtmdhxgkfedkgtc.xu1t22sft57h.online)
 **IR** | **[iranwire.com/](https://iranwire.com/)** | [iranwire.global.ssl.fastly.net](https://iranwire.global.ssl.fastly.net)
-**PH** | **[kodao.org/](https://kodao.org/)** | [kodao.global.ssl.fastly.net](https://kodao.global.ssl.fastly.net)
+**PH** | **[kodao.org/](https://kodao.org/)** | [kodao.global.ssl.fastly.net](https://kodao.global.ssl.fastly.net), [excypnpmkevjoleo.global.ssl.fastly.net](https://excypnpmkevjoleo.global.ssl.fastly.net), [ckydkdaudezdotmi.zp9o7fqxfv3m.lat](https://ckydkdaudezdotmi.zp9o7fqxfv3m.lat)
 **CN** | **[madeinchinajournal.com/](https://madeinchinajournal.com/)** | [zqlmtuwjnjnktijs.global.ssl.fastly.net](https://zqlmtuwjnjnktijs.global.ssl.fastly.net), [zgtwpzfhssamqnqj.a1g9l1r3x3oq.online](https://zgtwpzfhssamqnqj.a1g9l1r3x3oq.online), [odswofpkokzrlrou.ozvqhkcn8n.click](https://odswofpkokzrlrou.ozvqhkcn8n.click), [ssggugajvrnzniad.5rt77s22xjls.live](https://ssggugajvrnzniad.5rt77s22xjls.live)
 **CN** | **[mangmang.run/](https://mangmang.run/)** | [caubczrsbfdmzpzv.global.ssl.fastly.net](https://caubczrsbfdmzpzv.global.ssl.fastly.net), [yohfbhuohycmebbf.ywgzfyxb.lat](https://yohfbhuohycmebbf.ywgzfyxb.lat), [uyiaipfjtlwwmrgv.ovtlvahg.pics](https://uyiaipfjtlwwmrgv.ovtlvahg.pics)
 **KH** | **[monoroom.info/](https://monoroom.info/)** | [monoroom.global.ssl.fastly.net](https://monoroom.global.ssl.fastly.net)
@@ -117,6 +117,7 @@
 **DJ** | **[lavoixdedjibouti.info/](https://lavoixdedjibouti.info/)** | [voxdji.global.ssl.fastly.net](https://voxdji.global.ssl.fastly.net)
 **SA** | **[alqst.org/](https://www.alqst.org/)** | [alqst.global.ssl.fastly.net](https://alqst.global.ssl.fastly.net)
 **SA** | **[esohr.org/](https://www.esohr.org/)** | [euh.global.ssl.fastly.net](https://euh.global.ssl.fastly.net)
+**REGIONAL, SA** | **[gc4hr.org/](https://www.gc4hr.org/)** | [gc4hr.global.ssl.fastly.net](https://gc4hr.global.ssl.fastly.net), [uenyzudayfkpkhpn.global.ssl.fastly.net](https://uenyzudayfkpkhpn.global.ssl.fastly.net), [qwqmxjffrudaorci.odb656jnuek8.live](https://qwqmxjffrudaorci.odb656jnuek8.live)
 **EG** | **[madamasr.com/](https://www.madamasr.com/)** | [madamasr0x1.global.ssl.fastly.net](https://madamasr0x1.global.ssl.fastly.net)
 
 ---
@@ -125,7 +126,7 @@
 :-----:|:-----:|:-----:
 **REGIONAL** | **[daraj.media/](https://daraj.media/)** | [daraj0x2.global.ssl.fastly.net](https://daraj0x2.global.ssl.fastly.net)
 **IR, UK** | **[bbc.com/](https://www.bbc.com/)** | [yqyjveeuuzrtbxau.global.ssl.fastly.net](https://yqyjveeuuzrtbxau.global.ssl.fastly.net), [zaepahfvojjhhkss.5jyexf2k.click](https://zaepahfvojjhhkss.5jyexf2k.click), [rmvhcinglsekqiut.7vnllyl7h70g.xyz](https://rmvhcinglsekqiut.7vnllyl7h70g.xyz), [grptjjtfueqrirxw.j555nbk2z9yz.quest](https://grptjjtfueqrirxw.j555nbk2z9yz.quest), [eaqyffzhwxhqcyfx.ord9wluhlcic.lol](https://eaqyffzhwxhqcyfx.ord9wluhlcic.lol), [cnknfcjjewrmvljs.h53auu9xg71c.lol](https://cnknfcjjewrmvljs.h53auu9xg71c.lol), [yvzmvunkpbpdfken.w12mhmsaporr.live](https://yvzmvunkpbpdfken.w12mhmsaporr.live), [yozulnatxwypjzmj.kslhu6ush8.click](https://yozulnatxwypjzmj.kslhu6ush8.click), [unxrhjejozqqovip.oshzixpn.lol](https://unxrhjejozqqovip.oshzixpn.lol), [sdjkldbtpwzuxpea.hfeeqsdg.lat](https://sdjkldbtpwzuxpea.hfeeqsdg.lat)
-**REGIONAL** | **[gc4hr.org/](https://www.gc4hr.org/)** | [gc4hr.global.ssl.fastly.net](https://gc4hr.global.ssl.fastly.net)
+**REGIONAL, SA** | **[gc4hr.org/](https://www.gc4hr.org/)** | [gc4hr.global.ssl.fastly.net](https://gc4hr.global.ssl.fastly.net), [uenyzudayfkpkhpn.global.ssl.fastly.net](https://uenyzudayfkpkhpn.global.ssl.fastly.net), [qwqmxjffrudaorci.odb656jnuek8.live](https://qwqmxjffrudaorci.odb656jnuek8.live)
 **GLOBAL** | **[rfa.org/](https://www.rfa.org/)** | [rfa.global.ssl.fastly.net](https://rfa.global.ssl.fastly.net), [rfa0x1.b-cdn.net](https://rfa0x1.b-cdn.net), [rfa0x1-1dd6a.kxcdn.com](https://rfa0x1-1dd6a.kxcdn.com)
 
 ---
