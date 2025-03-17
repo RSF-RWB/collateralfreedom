@@ -1,12 +1,12 @@
 **Africa** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
-**BJ** | **[beninwebtv.bj/](https://beninwebtv.bj/)** | [d1eoqxy7y4g23.cloudfront.net](https://d1eoqxy7y4g23.cloudfront.net)
+**BJ** | **[beninwebtv.bj/](https://beninwebtv.bj/)** | [d1eoqxy7y4g23.cloudfront.net](https://d1eoqxy7y4g23.cloudfront.net), [lgzshngjptqlhmlv.global.ssl.fastly.net](https://lgzshngjptqlhmlv.global.ssl.fastly.net), [gclxmowkhnhhskbd.lz7ywf73njy9.lat](https://gclxmowkhnhhskbd.lz7ywf73njy9.lat)
 **GN** | **[guineematin.com/](https://guineematin.com/)** | [gn-matin.global.ssl.fastly.net](https://gn-matin.global.ssl.fastly.net)
 **GN** | **[mosaiqueguinee.com/](https://mosaiqueguinee.com/)** | [mosaique-gn.b-cdn.net](https://mosaique-gn.b-cdn.net), [mosaiquegn-1dd6a.kxcdn.com](https://mosaiquegn-1dd6a.kxcdn.com), [frewlruvtsoydnjn.global.ssl.fastly.net](https://frewlruvtsoydnjn.global.ssl.fastly.net)
 **TG** | **[presse-alternative.info/](https://presse-alternative.info/)** | [dmmfamfqkwzjnrtu.global.ssl.fastly.net](https://dmmfamfqkwzjnrtu.global.ssl.fastly.net), [jztupyvgoaoxymoo.bbbwmsxb.lat](https://jztupyvgoaoxymoo.bbbwmsxb.lat)
 **TD** | **[tchadinfos.com/](https://tchadinfos.com/)** | [kgxmgclcxrjjftsg.global.ssl.fastly.net](https://kgxmgclcxrjjftsg.global.ssl.fastly.net), [tubhwsskxbzoqwzk.1tw.live](https://tubhwsskxbzoqwzk.1tw.live)
 **TG** | **[togoweb.net/](https://togoweb.net/)** | [togoweb.global.ssl.fastly.net](https://togoweb.global.ssl.fastly.net)
-**CM** | **[camerounweb.com/](https://www.camerounweb.com/)** | [cm-web.global.ssl.fastly.net](https://cm-web.global.ssl.fastly.net)
+**CM** | **[camerounweb.com/](https://www.camerounweb.com/)** | [cm-web.global.ssl.fastly.net](https://cm-web.global.ssl.fastly.net), [idxmiptqiixkfjrp.global.ssl.fastly.net](https://idxmiptqiixkfjrp.global.ssl.fastly.net), [nsajdqtqjlrlrimy.nxgvsioj.pics](https://nsajdqtqjlrlrimy.nxgvsioj.pics)
 **SN** | **[dakaractu.com/](https://www.dakaractu.com/)** | [aswqxsihnpukymud.global.ssl.fastly.net](https://aswqxsihnpukymud.global.ssl.fastly.net), [rpugdjgqekyuwuvn.h53auu9xg71c.lol](https://rpugdjgqekyuwuvn.h53auu9xg71c.lol)
 **GN** | **[inquisiteur.net/](https://www.inquisiteur.net/)** | [inquisiteur.global.ssl.fastly.net](https://inquisiteur.global.ssl.fastly.net)
 **BI** | **[iwacu-burundi.org/](https://www.iwacu-burundi.org/)** | [iwacu0x1.global.ssl.fastly.net](https://iwacu0x1.global.ssl.fastly.net), [iwacu42.global.ssl.fastly.net](https://iwacu42.global.ssl.fastly.net)
@@ -74,7 +74,7 @@
 **RU** | **[echofm.online/](https://echofm.online/)** | [echofm101.global.ssl.fastly.net](https://echofm101.global.ssl.fastly.net)
 **BY** | **[euroradio.fm/](https://euroradio.fm/)** | [euroradio.global.ssl.fastly.net](https://euroradio.global.ssl.fastly.net), [oftfkwcaebhwiqzw.global.ssl.fastly.net](https://oftfkwcaebhwiqzw.global.ssl.fastly.net), [wvupgprnoschzgbm.krmiuzcg.pics](https://wvupgprnoschzgbm.krmiuzcg.pics), [bilifhcvpcvudkjf.kpsdarri.quest](https://bilifhcvpcvudkjf.kpsdarri.quest), [dpipsczamblavctv.gmpsqbzs.quest](https://dpipsczamblavctv.gmpsqbzs.quest)
 **RU** | **[fortanga.org/](https://fortanga.org/)** | [fortanga.global.ssl.fastly.net](https://fortanga.global.ssl.fastly.net)
-**RU** | **[gubernia.media/](https://gubernia.media/)** | [gubernia.global.ssl.fastly.net](https://gubernia.global.ssl.fastly.net)
+**RU** | **[gubernia.media/](https://gubernia.media/)** | [gubernia.global.ssl.fastly.net](https://gubernia.global.ssl.fastly.net), [wiwiconvpjxgufuu.global.ssl.fastly.net](https://wiwiconvpjxgufuu.global.ssl.fastly.net), [jwijseodeelpjcio.oia7ds95vb0e.live](https://jwijseodeelpjcio.oia7ds95vb0e.live)
 **RU** | **[holod.media/](https://holod.media/)** | [lscowmanvwivvnpu.global.ssl.fastly.net](https://lscowmanvwivvnpu.global.ssl.fastly.net), [gufjcpgvfjkkfewf.j555nbk2z9yz.quest](https://gufjcpgvfjkkfewf.j555nbk2z9yz.quest), [lqttdfjmyyafowgf.3k6tgvgz61y5.quest](https://lqttdfjmyyafowgf.3k6tgvgz61y5.quest), [twzxjqoaoxwjadsy.qa5muqal0a4d.monster](https://twzxjqoaoxwjadsy.qa5muqal0a4d.monster), [qaqogpgiouxsloyi.lz7ywf73njy9.lat](https://qaqogpgiouxsloyi.lz7ywf73njy9.lat), [sewajeschufpfdcu.bmeq4xku34je.live](https://sewajeschufpfdcu.bmeq4xku34je.live)
 **UA** | **[imi.org.ua/](https://imi.org.ua/)** | [d1f3kg5grol9f6.cloudfront.net](https://d1f3kg5grol9f6.cloudfront.net)
 **RU** | **[kavkaz-uzel.eu/](https://kavkaz-uzel.eu/)** | [kavkaz-333.global.ssl.fastly.net](https://kavkaz-333.global.ssl.fastly.net)
