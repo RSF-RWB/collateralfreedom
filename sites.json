@@ -3,11 +3,6 @@
     "iwacu0x1.global.ssl.fastly.net",
     "iwacu42.global.ssl.fastly.net"
   ],
-  "https://mosaiqueguinee.com/": [
-    "mosaique-gn.b-cdn.net",
-    "mosaiquegn-1dd6a.kxcdn.com",
-    "frewlruvtsoydnjn.global.ssl.fastly.net"
-  ],
   "https://togoweb.net/": [
     "togoweb.global.ssl.fastly.net"
   ],
@@ -474,6 +469,9 @@
     "lfwbnllviuyeczhn.global.ssl.fastly.net",
     "owapsivpgmnwormm.frn4nisxgx.online",
     "pgtmdhxgkfedkgtc.xu1t22sft57h.online"
+  ],
+  "https://mosaiqueguinee.com/": [
+    "frewlruvtsoydnjn.global.ssl.fastly.net"
   ],
   "https://msguancha.com/": [
     "lufubbmcvcduezhp.global.ssl.fastly.net",
