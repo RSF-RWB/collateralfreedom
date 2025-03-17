@@ -1,9 +1,13 @@
 {
   "https://beninwebtv.bj/": [
-    "d1eoqxy7y4g23.cloudfront.net"
+    "d1eoqxy7y4g23.cloudfront.net",
+    "lgzshngjptqlhmlv.global.ssl.fastly.net",
+    "gclxmowkhnhhskbd.lz7ywf73njy9.lat"
   ],
   "https://www.camerounweb.com/": [
-    "cm-web.global.ssl.fastly.net"
+    "cm-web.global.ssl.fastly.net",
+    "idxmiptqiixkfjrp.global.ssl.fastly.net",
+    "nsajdqtqjlrlrimy.nxgvsioj.pics"
   ],
   "https://guineematin.com/": [
     "gn-matin.global.ssl.fastly.net"
@@ -135,7 +139,9 @@
     "f24.global.ssl.fastly.net"
   ],
   "https://gubernia.media/": [
-    "gubernia.global.ssl.fastly.net"
+    "gubernia.global.ssl.fastly.net",
+    "wiwiconvpjxgufuu.global.ssl.fastly.net",
+    "jwijseodeelpjcio.oia7ds95vb0e.live"
   ],
   "https://imi.org.ua/": [
     "d1f3kg5grol9f6.cloudfront.net"
