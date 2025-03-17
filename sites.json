@@ -84,9 +84,6 @@
   "https://www.rohingyapost.com/": [
     "rohingyapost.global.ssl.fastly.net"
   ],
-  "https://safenewsrooms.org/": [
-    "safenr2.global.ssl.fastly.net"
-  ],
   "https://www.shambalanews.com/": [
     "shambalanews.global.ssl.fastly.net",
     "shambala.b-cdn.net"
@@ -94,17 +91,11 @@
   "https://thekashmirwalla.com/": [
     "thekashmirwalla.global.ssl.fastly.net"
   ],
-  "https://www.turan.az/": [
-    "turan.global.ssl.fastly.net"
-  ],
   "https://vietnamthoibao.org/": [
     "ijavn.global.ssl.fastly.net"
   ],
   "https://vietnamhumanrightsdefenders.net/": [
     "dtd.global.ssl.fastly.net"
-  ],
-  "https://akhbor.com/": [
-    "akhbor.global.ssl.fastly.net"
   ],
   "https://www.azathabar.com/": [
     "aza.global.ssl.fastly.net"
@@ -123,10 +114,6 @@
   "https://cherta.media/": [
     "d32mmsib7ectwr.cloudfront.net",
     "cherta.global.ssl.fastly.net"
-  ],
-  "https://news.doxajournal.ru/": [
-    "doxajournal.global.ssl.fastly.net",
-    "doxajournal.b-cdn.net"
   ],
   "https://www.dw.com/": [
     "dw42.global.ssl.fastly.net"
@@ -149,9 +136,6 @@
   ],
   "https://gubernia.media/": [
     "gubernia.global.ssl.fastly.net"
-  ],
-  "https://www.hronikatm.com/": [
-    "hronikatm2.global.ssl.fastly.net"
   ],
   "https://imi.org.ua/": [
     "d1f3kg5grol9f6.cloudfront.net"
@@ -235,9 +219,6 @@
   ],
   "https://www.iranintl.com/": [
     "iranintl.global.ssl.fastly.net"
-  ],
-  "https://www.madamasr.com/": [
-    "madamasr0x1.global.ssl.fastly.net"
   ],
   "https://www.manototv.com/": [
     "manototv.global.ssl.fastly.net"
