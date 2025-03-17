@@ -2,12 +2,6 @@
   "https://www.bulatlat.com/": [
     "bulatlat.global.ssl.fastly.net"
   ],
-  "https://chinadigitaltimes.net/": [
-    "chinadt.global.ssl.fastly.net",
-    "chinadt.b-cdn.net",
-    "dgdxvkiaqlxkl.cloudfront.net",
-    "chinadt-1dd6a.kxcdn.com"
-  ],
   "https://danlambaovn.blogspot.com/": [
     "danlambaovn.global.ssl.fastly.net"
   ],
