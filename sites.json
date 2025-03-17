@@ -1,14 +1,4 @@
 {
-  "https://beninwebtv.bj/": [
-    "d1eoqxy7y4g23.cloudfront.net",
-    "lgzshngjptqlhmlv.global.ssl.fastly.net",
-    "gclxmowkhnhhskbd.lz7ywf73njy9.lat"
-  ],
-  "https://www.camerounweb.com/": [
-    "cm-web.global.ssl.fastly.net",
-    "idxmiptqiixkfjrp.global.ssl.fastly.net",
-    "nsajdqtqjlrlrimy.nxgvsioj.pics"
-  ],
   "https://guineematin.com/": [
     "gn-matin.global.ssl.fastly.net"
   ],
@@ -253,6 +243,10 @@
     "unxrhjejozqqovip.oshzixpn.lol",
     "sdjkldbtpwzuxpea.hfeeqsdg.lat"
   ],
+  "https://www.camerounweb.com/": [
+    "idxmiptqiixkfjrp.global.ssl.fastly.net",
+    "nsajdqtqjlrlrimy.nxgvsioj.pics"
+  ],
   "https://chuangcn.org/": [
     "jbbefhymfidbrzfp.global.ssl.fastly.net",
     "fgoqcvzxtbkrkwim.cszpuqhi.pics",
@@ -443,6 +437,10 @@
   "https://belmarket.by/": [
     "ldavjsshpcdfagnp.global.ssl.fastly.net",
     "lkwnqkykrolzskcj.gnczhyit.lat"
+  ],
+  "https://beninwebtv.bj/": [
+    "lgzshngjptqlhmlv.global.ssl.fastly.net",
+    "gclxmowkhnhhskbd.lz7ywf73njy9.lat"
   ],
   "https://citizenlab.ca/": [
     "ycnpulapapgixkqv.global.ssl.fastly.net",
