@@ -1,8 +1,4 @@
 {
-  "https://www.iwacu-burundi.org/": [
-    "iwacu0x1.global.ssl.fastly.net",
-    "iwacu42.global.ssl.fastly.net"
-  ],
   "https://www.bulatlat.com/": [
     "bulatlat.global.ssl.fastly.net"
   ],
