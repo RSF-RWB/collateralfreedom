@@ -14,6 +14,7 @@
 **Asia & Pacific** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
 **AF** | **[amu.tv/](https://amu.tv/)** | [pleyvukkqgnbkcus.global.ssl.fastly.net](https://pleyvukkqgnbkcus.global.ssl.fastly.net)
+**CN** | **[chinadigitaltimes.net/](https://chinadigitaltimes.net/)** | [uucusvvyoxbbdxfk.global.ssl.fastly.net](https://uucusvvyoxbbdxfk.global.ssl.fastly.net)
 **CN** | **[chuangcn.org/](https://chuangcn.org/)** | [jbbefhymfidbrzfp.global.ssl.fastly.net](https://jbbefhymfidbrzfp.global.ssl.fastly.net), [fgoqcvzxtbkrkwim.cszpuqhi.pics](https://fgoqcvzxtbkrkwim.cszpuqhi.pics), [zodwyeykasyyojzj.qajnslxh.lat](https://zodwyeykasyyojzj.qajnslxh.lat)
 **CN** | **[citizenlab.ca/](https://citizenlab.ca/)** | [ycnpulapapgixkqv.global.ssl.fastly.net](https://ycnpulapapgixkqv.global.ssl.fastly.net), [zxgncxptkejlekdz.5jyexf2k.click](https://zxgncxptkejlekdz.5jyexf2k.click), [xdjhkkdrdufrmybh.7vnllyl7h70g.xyz](https://xdjhkkdrdufrmybh.7vnllyl7h70g.xyz), [qrcjrezfkhvqlvos.5rt77s22xjls.live](https://qrcjrezfkhvqlvos.5rt77s22xjls.live), [iofenbbiqypdrjxt.gnczhyit.lat](https://iofenbbiqypdrjxt.gnczhyit.lat)
 **VN** | **[danlambaovn.blogspot.com/](https://danlambaovn.blogspot.com/)** | [danlambaovn.global.ssl.fastly.net](https://danlambaovn.global.ssl.fastly.net)
