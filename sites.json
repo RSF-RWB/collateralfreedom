@@ -1,18 +1,7 @@
 {
-  "https://guineematin.com/": [
-    "gn-matin.global.ssl.fastly.net"
-  ],
-  "https://www.inquisiteur.net/": [
-    "inquisiteur.global.ssl.fastly.net"
-  ],
   "https://www.iwacu-burundi.org/": [
     "iwacu0x1.global.ssl.fastly.net",
     "iwacu42.global.ssl.fastly.net"
-  ],
-  "https://lavoixdedjibouti.info/": [
-    "voxdji.global.ssl.fastly.net",
-    "cbtomouelxvjjhbd.global.ssl.fastly.net",
-    "prhsnwkcvlpuhimk.mqodyqvz.lat"
   ],
   "https://mosaiqueguinee.com/": [
     "mosaique-gn.b-cdn.net",
@@ -274,6 +263,10 @@
   "https://www.lsm.lv/": [
     "rigcrpxcesogsdoi.global.ssl.fastly.net",
     "ywneoryfzmtslyot.g2jweym2z70h.live"
+  ],
+  "https://lavoixdedjibouti.info/": [
+    "cbtomouelxvjjhbd.global.ssl.fastly.net",
+    "prhsnwkcvlpuhimk.mqodyqvz.lat"
   ],
   "https://mangmang.run/": [
     "caubczrsbfdmzpzv.global.ssl.fastly.net",
