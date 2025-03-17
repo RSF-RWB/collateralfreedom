@@ -1,12 +1,12 @@
 **Africa** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
-**BJ** | **[beninwebtv.bj/](https://beninwebtv.bj/)** | [d1eoqxy7y4g23.cloudfront.net](https://d1eoqxy7y4g23.cloudfront.net), [lgzshngjptqlhmlv.global.ssl.fastly.net](https://lgzshngjptqlhmlv.global.ssl.fastly.net), [gclxmowkhnhhskbd.lz7ywf73njy9.lat](https://gclxmowkhnhhskbd.lz7ywf73njy9.lat)
+**BJ** | **[beninwebtv.bj/](https://beninwebtv.bj/)** | [lgzshngjptqlhmlv.global.ssl.fastly.net](https://lgzshngjptqlhmlv.global.ssl.fastly.net), [gclxmowkhnhhskbd.lz7ywf73njy9.lat](https://gclxmowkhnhhskbd.lz7ywf73njy9.lat)
 **GN** | **[guineematin.com/](https://guineematin.com/)** | [gn-matin.global.ssl.fastly.net](https://gn-matin.global.ssl.fastly.net)
 **GN** | **[mosaiqueguinee.com/](https://mosaiqueguinee.com/)** | [mosaique-gn.b-cdn.net](https://mosaique-gn.b-cdn.net), [mosaiquegn-1dd6a.kxcdn.com](https://mosaiquegn-1dd6a.kxcdn.com), [frewlruvtsoydnjn.global.ssl.fastly.net](https://frewlruvtsoydnjn.global.ssl.fastly.net)
 **TG** | **[presse-alternative.info/](https://presse-alternative.info/)** | [dmmfamfqkwzjnrtu.global.ssl.fastly.net](https://dmmfamfqkwzjnrtu.global.ssl.fastly.net), [jztupyvgoaoxymoo.bbbwmsxb.lat](https://jztupyvgoaoxymoo.bbbwmsxb.lat)
 **TD** | **[tchadinfos.com/](https://tchadinfos.com/)** | [kgxmgclcxrjjftsg.global.ssl.fastly.net](https://kgxmgclcxrjjftsg.global.ssl.fastly.net), [tubhwsskxbzoqwzk.1tw.live](https://tubhwsskxbzoqwzk.1tw.live)
 **TG** | **[togoweb.net/](https://togoweb.net/)** | [togoweb.global.ssl.fastly.net](https://togoweb.global.ssl.fastly.net)
-**CM** | **[camerounweb.com/](https://www.camerounweb.com/)** | [cm-web.global.ssl.fastly.net](https://cm-web.global.ssl.fastly.net), [idxmiptqiixkfjrp.global.ssl.fastly.net](https://idxmiptqiixkfjrp.global.ssl.fastly.net), [nsajdqtqjlrlrimy.nxgvsioj.pics](https://nsajdqtqjlrlrimy.nxgvsioj.pics)
+**CM** | **[camerounweb.com/](https://www.camerounweb.com/)** | [idxmiptqiixkfjrp.global.ssl.fastly.net](https://idxmiptqiixkfjrp.global.ssl.fastly.net), [nsajdqtqjlrlrimy.nxgvsioj.pics](https://nsajdqtqjlrlrimy.nxgvsioj.pics)
 **SN** | **[dakaractu.com/](https://www.dakaractu.com/)** | [aswqxsihnpukymud.global.ssl.fastly.net](https://aswqxsihnpukymud.global.ssl.fastly.net), [rpugdjgqekyuwuvn.h53auu9xg71c.lol](https://rpugdjgqekyuwuvn.h53auu9xg71c.lol)
 **GN** | **[inquisiteur.net/](https://www.inquisiteur.net/)** | [inquisiteur.global.ssl.fastly.net](https://inquisiteur.global.ssl.fastly.net)
 **BI** | **[iwacu-burundi.org/](https://www.iwacu-burundi.org/)** | [iwacu0x1.global.ssl.fastly.net](https://iwacu0x1.global.ssl.fastly.net), [iwacu42.global.ssl.fastly.net](https://iwacu42.global.ssl.fastly.net)
