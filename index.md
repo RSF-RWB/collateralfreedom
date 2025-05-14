@@ -7,7 +7,7 @@
 **TG** | **[togoweb.net/](https://togoweb.net/)** | [ngihjyrquyueibhe.global.ssl.fastly.net](https://ngihjyrquyueibhe.global.ssl.fastly.net)
 **CM** | **[camerounweb.com/](https://www.camerounweb.com/)** | [idxmiptqiixkfjrp.global.ssl.fastly.net](https://idxmiptqiixkfjrp.global.ssl.fastly.net), [nsajdqtqjlrlrimy.nxgvsioj.pics](https://nsajdqtqjlrlrimy.nxgvsioj.pics)
 **SN** | **[dakaractu.com/](https://www.dakaractu.com/)** | [aswqxsihnpukymud.global.ssl.fastly.net](https://aswqxsihnpukymud.global.ssl.fastly.net), [rpugdjgqekyuwuvn.h53auu9xg71c.lol](https://rpugdjgqekyuwuvn.h53auu9xg71c.lol)
-**BI** | **[iwacu-burundi.org/](https://www.iwacu-burundi.org/)** | [ynacinqgdteglxpx.global.ssl.fastly.net](https://ynacinqgdteglxpx.global.ssl.fastly.net)
+**BI** | **[iwacu-burundi.org/](https://www.iwacu-burundi.org/)** | [ynacinqgdteglxpx.global.ssl.fastly.net](https://ynacinqgdteglxpx.global.ssl.fastly.net), [exmipowztgraumfx.w12mhmsaporr.live](https://exmipowztgraumfx.w12mhmsaporr.live), [pzklimgphmvufrvg.g2jweym2z70h.live](https://pzklimgphmvufrvg.g2jweym2z70h.live), [ohvcuwpkrtgxqybo.ord9wluhlcic.lol](https://ohvcuwpkrtgxqybo.ord9wluhlcic.lol)
 
 ---
 
