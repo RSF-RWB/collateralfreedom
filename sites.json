@@ -407,13 +407,6 @@
     "cjcdwwdfvxddgflv.jpqanelz.lol",
     "uabwucgycgoycqzl.frngyfcd.pics"
   ],
-  "https://www.tibetpost.net/": [
-    "pkzotwzpdzhaxqum.global.ssl.fastly.net",
-    "syqprgyxklrtpsiq.1tvv.live",
-    "xwenmxcfennedhms.dbminjam8b34.lol",
-    "cceozoipnxourtga.fp4p4oi21.art",
-    "cjexqazxgwtknvfr.45tdt3nc8gl8.site"
-  ],
   "https://tibetpost.net/": [
     "vmqbnnihzjqqdkwq.global.ssl.fastly.net",
     "idvkdrpeafrvaeio.zp9o7fqxfv3m.lat",
@@ -421,6 +414,13 @@
     "qkigrpjazktjfngl.1tvv.live",
     "ckvndwkftivilrpa.odb656jnuek8.live",
     "uaornjxnutlwqndi.j555nbk2z9yz.quest"
+  ],
+  "https://www.tibetpost.net/": [
+    "pkzotwzpdzhaxqum.global.ssl.fastly.net",
+    "syqprgyxklrtpsiq.1tvv.live",
+    "xwenmxcfennedhms.dbminjam8b34.lol",
+    "cceozoipnxourtga.fp4p4oi21.art",
+    "cjexqazxgwtknvfr.45tdt3nc8gl8.site"
   ],
   "https://togoweb.net/": [
     "ngihjyrquyueibhe.global.ssl.fastly.net"
@@ -549,12 +549,6 @@
     "yzbivpixgsueljpo.1tw.live",
     "tsklivhjqnpnqjtp.majjvcq1kz1m.online"
   ],
-  "https://madeinchinajournal.com/": [
-    "zqlmtuwjnjnktijs.global.ssl.fastly.net",
-    "zgtwpzfhssamqnqj.a1g9l1r3x3oq.online",
-    "odswofpkokzrlrou.ozvqhkcn8n.click",
-    "ssggugajvrnzniad.5rt77s22xjls.live"
-  ],
   "https://newbloommag.net/": [
     "zvaspmaxvgiameof.global.ssl.fastly.net",
     "sbdjcaizzjzcsofl.qa5muqal0a4d.monster",
@@ -562,13 +556,19 @@
     "jirwjsxxakrpmawz.rvbvypfp.lol",
     "tqugkssjwmdznpyf.kpsdarri.quest"
   ],
-  "https://www.istiqlalhaber.com/": [
-    "vqdfzlzkscucbqaq.global.ssl.fastly.net",
-    "bdcekbwbrjsckdlc.g2jweym2z70h.live"
+  "https://madeinchinajournal.com/": [
+    "zqlmtuwjnjnktijs.global.ssl.fastly.net",
+    "zgtwpzfhssamqnqj.a1g9l1r3x3oq.online",
+    "odswofpkokzrlrou.ozvqhkcn8n.click",
+    "ssggugajvrnzniad.5rt77s22xjls.live"
   ],
   "https://turkistanpress.com/": [
     "waydvgfsdbbjburc.global.ssl.fastly.net",
     "qioosuwxmucxtynf.1tvv.live"
+  ],
+  "https://www.istiqlalhaber.com/": [
+    "vqdfzlzkscucbqaq.global.ssl.fastly.net",
+    "bdcekbwbrjsckdlc.g2jweym2z70h.live"
   ],
   "https://vkurier.by/": [
     "nrekixjjpenusxbx.global.ssl.fastly.net",
