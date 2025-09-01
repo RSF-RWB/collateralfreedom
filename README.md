@@ -68,7 +68,7 @@
 **Europe** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
 **BY** | **[belarusinfocus.pro/](https://belarusinfocus.pro/)** | [infocus0x1.global.ssl.fastly.net](https://infocus0x1.global.ssl.fastly.net)
-**BY** | **[belmarket.by/](https://belmarket.by/)** | [ldavjsshpcdfagnp.global.ssl.fastly.net](https://ldavjsshpcdfagnp.global.ssl.fastly.net), [lkwnqkykrolzskcj.gnczhyit.lat](https://lkwnqkykrolzskcj.gnczhyit.lat)
+**BY** | **[belmarket.by/](https://belmarket.by/)** | [ldavjsshpcdfagnp.global.ssl.fastly.net](https://ldavjsshpcdfagnp.global.ssl.fastly.net), [lkwnqkykrolzskcj.gnczhyit.lat](https://lkwnqkykrolzskcj.gnczhyit.lat), [akudqzrwjrmytdsg.x4oc8ceezr38.lat](https://akudqzrwjrmytdsg.x4oc8ceezr38.lat), [vqfspvromaapvttw.qa5muqal0a4d.monster](https://vqfspvromaapvttw.qa5muqal0a4d.monster)
 **BY** | **[by.tribuna.com/](https://by.tribuna.com/)** | [bytribuna.global.ssl.fastly.net](https://bytribuna.global.ssl.fastly.net), [tribuna101.global.ssl.fastly.net](https://tribuna101.global.ssl.fastly.net), [tribuna42.global.ssl.fastly.net](https://tribuna42.global.ssl.fastly.net)
 **BY** | **[charter97.org/](https://charter97.org/)** | [charter97.global.ssl.fastly.net](https://charter97.global.ssl.fastly.net)
 **RU** | **[cherta.media/](https://cherta.media/)** | [d32mmsib7ectwr.cloudfront.net](https://d32mmsib7ectwr.cloudfront.net), [cherta.global.ssl.fastly.net](https://cherta.global.ssl.fastly.net)
