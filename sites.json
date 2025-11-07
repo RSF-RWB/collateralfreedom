@@ -544,15 +544,6 @@
     "hqyqgzqcwuuxslsq.zx7zijikxvj8.xyz",
     "zlrwbwvjsqscrams.1tvv.live"
   ],
-  "https://www.circle19.org/": [
-    "pehcpnoglrqqgseg.global.ssl.fastly.net",
-    "qixjqllxuzcqxggl.lz7ywf73njy9.lat",
-    "oehblkkpczujlakx.oia7ds95vb0e.live",
-    "hhmwkedmouvxztfn.1w646uhnqh.fr",
-    "ufrjgkhfwzmlfohr.a2vxunhuaj4s.xyz",
-    "yzbivpixgsueljpo.1tw.live",
-    "tsklivhjqnpnqjtp.majjvcq1kz1m.online"
-  ],
   "https://madeinchinajournal.com/": [
     "zqlmtuwjnjnktijs.global.ssl.fastly.net",
     "zgtwpzfhssamqnqj.a1g9l1r3x3oq.online",
@@ -566,13 +557,22 @@
     "jirwjsxxakrpmawz.rvbvypfp.lol",
     "tqugkssjwmdznpyf.kpsdarri.quest"
   ],
-  "https://turkistanpress.com/": [
-    "waydvgfsdbbjburc.global.ssl.fastly.net",
-    "qioosuwxmucxtynf.1tvv.live"
+  "https://www.circle19.org/": [
+    "pehcpnoglrqqgseg.global.ssl.fastly.net",
+    "qixjqllxuzcqxggl.lz7ywf73njy9.lat",
+    "oehblkkpczujlakx.oia7ds95vb0e.live",
+    "hhmwkedmouvxztfn.1w646uhnqh.fr",
+    "ufrjgkhfwzmlfohr.a2vxunhuaj4s.xyz",
+    "yzbivpixgsueljpo.1tw.live",
+    "tsklivhjqnpnqjtp.majjvcq1kz1m.online"
   ],
   "https://www.istiqlalhaber.com/": [
     "vqdfzlzkscucbqaq.global.ssl.fastly.net",
     "bdcekbwbrjsckdlc.g2jweym2z70h.live"
+  ],
+  "https://turkistanpress.com/": [
+    "waydvgfsdbbjburc.global.ssl.fastly.net",
+    "qioosuwxmucxtynf.1tvv.live"
   ],
   "https://vkurier.by/": [
     "nrekixjjpenusxbx.global.ssl.fastly.net",
