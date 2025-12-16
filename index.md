@@ -107,7 +107,7 @@
 **RU** | **[rfi.fr/](https://www.rfi.fr/)** | [rfi.global.ssl.fastly.net](https://rfi.global.ssl.fastly.net)
 **RU** | **[sme.sk/](https://www.sme.sk/)** | [qvkljyuestohfayn.global.ssl.fastly.net](https://qvkljyuestohfayn.global.ssl.fastly.net), [eqipsggssawndnpj.1tw.live](https://eqipsggssawndnpj.1tw.live)
 **RU** | **[themoscowtimes.com/](https://www.themoscowtimes.com/)** | [mscwtmsdotcom.global.ssl.fastly.net](https://mscwtmsdotcom.global.ssl.fastly.net), [mscwtmsdotcom.b-cdn.net](https://mscwtmsdotcom.b-cdn.net), [mscwtmsdotcom-1dd6a.kxcdn.com](https://mscwtmsdotcom-1dd6a.kxcdn.com)
-**BY** | **[zerkalo.io/](https://www.zerkalo.io/)** | [najplwzgcnbvghsn.global.ssl.fastly.net](https://najplwzgcnbvghsn.global.ssl.fastly.net), [thwewmcgewiacgtv.1tw.live](https://thwewmcgewiacgtv.1tw.live)
+**BY** | **[zerkalo.io/](https://www.zerkalo.io/)** | [najplwzgcnbvghsn.global.ssl.fastly.net](https://najplwzgcnbvghsn.global.ssl.fastly.net), [thwewmcgewiacgtv.1tw.live](https://thwewmcgewiacgtv.1tw.live), [jngjgfbrwyhjmzuf.zx7zijikxvj8.xyz](https://jngjgfbrwyhjmzuf.zx7zijikxvj8.xyz), [uleyvjppokakmfjo.7vnllyl7h70g.xyz](https://uleyvjppokakmfjo.7vnllyl7h70g.xyz), [inwwcixqykhyzmoz.3k6tgvgz61y5.quest](https://inwwcixqykhyzmoz.3k6tgvgz61y5.quest)
 
 ---
 
