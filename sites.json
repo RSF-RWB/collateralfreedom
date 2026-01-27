@@ -314,6 +314,7 @@
     "idqquevgxbulfgnm.8qaj3npj5q1y.monster",
     "jowfdyivldwzfkry.a2vxunhuaj4s.xyz",
     "xcbwmskcepcrlnxm.h53auu9xg71c.lol",
+    "otmrqjvdjttulvvj.h53auu9xg71c.lol",
     "qlbjwnrtspcezxuz.l9ne2zvsqm5v.monster",
     "neuxnexarsfawnjt.lz7ywf73njy9.lat",
     "bpzikhpzlfoewvin.30dvtsgew7hf.xyz",
@@ -326,14 +327,14 @@
     "rineviwgvdzdcepu.x4oc8ceezr38.lat",
     "fdowckvsnsptarmv.8qaj3npj5q1y.monster",
     "jpljugyxysquakji.30dvtsgew7hf.xyz",
-    "agdqikofcqnvwllk.x9r5lrdkfjrp.quest",
-    "vlxjaowhzhrqsilz.gjr7l8elrntr.lat",
     "pugcattlbjohjcrf.1tvv.live",
     "sbxhjokyqavlpfij.30dvtsgew7hf.xyz",
     "hvfcyojxasnkaoxk.dbminjam8b34.lol",
     "knzrlixdsjydyzkm.oia7ds95vb0e.live",
     "zkdlchdlibteiwuy.1tvv.live",
     "ucvabamuorhfeyep.lz7ywf73njy9.lat",
+    "agdqikofcqnvwllk.x9r5lrdkfjrp.quest",
+    "vlxjaowhzhrqsilz.gjr7l8elrntr.lat",
     "rtsaeyosvmqzjmxw.7vnllyl7h70g.xyz",
     "xxuyeypduktmpzgh.7vnllyl7h70g.xyz",
     "mrzrpbgdmyxaxmjx.dbminjam8b34.lol",
@@ -556,13 +557,6 @@
     "hntxdxxiiqmhjkzd.bmeq4xku34je.live",
     "zkadhzazvziiejho.3k6tgvgz61y5.quest"
   ],
-  "https://newbloommag.net/": [
-    "zvaspmaxvgiameof.global.ssl.fastly.net",
-    "sbdjcaizzjzcsofl.qa5muqal0a4d.monster",
-    "ubnkxwphxrfmanpr.gjr7l8elrntr.lat",
-    "jirwjsxxakrpmawz.rvbvypfp.lol",
-    "tqugkssjwmdznpyf.kpsdarri.quest"
-  ],
   "https://www.circle19.org/": [
     "pehcpnoglrqqgseg.global.ssl.fastly.net",
     "qixjqllxuzcqxggl.lz7ywf73njy9.lat",
@@ -572,6 +566,13 @@
     "yzbivpixgsueljpo.1tw.live",
     "tsklivhjqnpnqjtp.majjvcq1kz1m.online",
     "miwqvwuswymciwxo.lz7ywf73njy9.lat"
+  ],
+  "https://newbloommag.net/": [
+    "zvaspmaxvgiameof.global.ssl.fastly.net",
+    "sbdjcaizzjzcsofl.qa5muqal0a4d.monster",
+    "ubnkxwphxrfmanpr.gjr7l8elrntr.lat",
+    "jirwjsxxakrpmawz.rvbvypfp.lol",
+    "tqugkssjwmdznpyf.kpsdarri.quest"
   ],
   "https://madeinchinajournal.com/": [
     "zqlmtuwjnjnktijs.global.ssl.fastly.net",
