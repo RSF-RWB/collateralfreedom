@@ -40,6 +40,7 @@
 **CN** | **[tibettimes.net/](https://tibettimes.net/)** | [kmtvvubdufadydou.global.ssl.fastly.net](https://kmtvvubdufadydou.global.ssl.fastly.net), [cjcdwwdfvxddgflv.jpqanelz.lol](https://cjcdwwdfvxddgflv.jpqanelz.lol), [uabwucgycgoycqzl.frngyfcd.pics](https://uabwucgycgoycqzl.frngyfcd.pics)
 **AZ** | **[turan.az/](https://turan.az/)** | [qzfzailcbelucvec.global.ssl.fastly.net](https://qzfzailcbelucvec.global.ssl.fastly.net), [gngztwgmyxyexnsd.oia7ds95vb0e.live](https://gngztwgmyxyexnsd.oia7ds95vb0e.live)
 **CN, TR** | **[turkistanpress.com/](https://turkistanpress.com/)** | [waydvgfsdbbjburc.global.ssl.fastly.net](https://waydvgfsdbbjburc.global.ssl.fastly.net), [qioosuwxmucxtynf.1tvv.live](https://qioosuwxmucxtynf.1tvv.live)
+**CN, US** | **[uyghurpost.com/](https://uyghurpost.com/)** | [rrwnkqktsctdbkuk.global.ssl.fastly.net](https://rrwnkqktsctdbkuk.global.ssl.fastly.net), [xaiyddugpiksoqwx.odb656jnuek8.live](https://xaiyddugpiksoqwx.odb656jnuek8.live)
 **CN** | **[uyghurtimes.com/](https://uyghurtimes.com/)** | [oetngprbtdleuytt.global.ssl.fastly.net](https://oetngprbtdleuytt.global.ssl.fastly.net), [gaspiexxbgggeayt.1tw.live](https://gaspiexxbgggeayt.1tw.live), [gxqueinxdtcamtpv.oia7ds95vb0e.live](https://gxqueinxdtcamtpv.oia7ds95vb0e.live)
 **VN** | **[vietnamhumanrightsdefenders.net/](https://vietnamhumanrightsdefenders.net/)** | [dtd.global.ssl.fastly.net](https://dtd.global.ssl.fastly.net)
 **VN** | **[vietnamthoibao.org/](https://vietnamthoibao.org/)** | [ijavn.global.ssl.fastly.net](https://ijavn.global.ssl.fastly.net)
@@ -120,6 +121,12 @@
 **SA** | **[alqst.org/](https://www.alqst.org/)** | [alqst.global.ssl.fastly.net](https://alqst.global.ssl.fastly.net)
 **SA** | **[esohr.org/](https://www.esohr.org/)** | [euh.global.ssl.fastly.net](https://euh.global.ssl.fastly.net)
 **REGIONAL, SA** | **[gc4hr.org/](https://www.gc4hr.org/)** | [gc4hr.global.ssl.fastly.net](https://gc4hr.global.ssl.fastly.net), [uenyzudayfkpkhpn.global.ssl.fastly.net](https://uenyzudayfkpkhpn.global.ssl.fastly.net), [qwqmxjffrudaorci.odb656jnuek8.live](https://qwqmxjffrudaorci.odb656jnuek8.live)
+
+---
+
+**North America** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
+:-----:|:-----:|:-----:
+**CN, US** | **[uyghurpost.com/](https://uyghurpost.com/)** | [rrwnkqktsctdbkuk.global.ssl.fastly.net](https://rrwnkqktsctdbkuk.global.ssl.fastly.net), [xaiyddugpiksoqwx.odb656jnuek8.live](https://xaiyddugpiksoqwx.odb656jnuek8.live)
 
 ---
 
