@@ -17,7 +17,9 @@
     "gn1.global.ssl.fastly.net"
   ],
   "https://iranwire.com/": [
-    "iranwire.global.ssl.fastly.net"
+    "iranwire.global.ssl.fastly.net",
+    "zshlqtzoroirbflu.global.ssl.fastly.net",
+    "iyyacjxfawkkwopq.zx7zijikxvj8.xyz"
   ],
   "https://kodao.org/": [
     "kodao.global.ssl.fastly.net",
@@ -45,7 +47,11 @@
   ],
   "https://www.shambalanews.com/": [
     "shambalanews.global.ssl.fastly.net",
-    "shambala.b-cdn.net"
+    "shambala.b-cdn.net",
+    "childcare-probable.b-cdn.net",
+    "hlbsaqmdgjfmrtye.dbminjam8b34.lol",
+    "tezharhwlcfnflzt.zx7zijikxvj8.xyz",
+    "ycjjkuyobhrjyehx.xu1t22sft57h.online"
   ],
   "https://thekashmirwalla.com/": [
     "thekashmirwalla.global.ssl.fastly.net"
@@ -593,10 +599,6 @@
     "hntxdxxiiqmhjkzd.bmeq4xku34je.live",
     "zkadhzazvziiejho.3k6tgvgz61y5.quest"
   ],
-  "https://uyghurpost.com/": [
-    "rrwnkqktsctdbkuk.global.ssl.fastly.net",
-    "xaiyddugpiksoqwx.odb656jnuek8.live"
-  ],
   "https://www.circle19.org/": [
     "pehcpnoglrqqgseg.global.ssl.fastly.net",
     "qixjqllxuzcqxggl.lz7ywf73njy9.lat",
@@ -606,6 +608,10 @@
     "yzbivpixgsueljpo.1tw.live",
     "tsklivhjqnpnqjtp.majjvcq1kz1m.online",
     "miwqvwuswymciwxo.lz7ywf73njy9.lat"
+  ],
+  "https://uyghurpost.com/": [
+    "rrwnkqktsctdbkuk.global.ssl.fastly.net",
+    "xaiyddugpiksoqwx.odb656jnuek8.live"
   ],
   "https://madeinchinajournal.com/": [
     "zqlmtuwjnjnktijs.global.ssl.fastly.net",
