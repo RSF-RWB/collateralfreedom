@@ -1,9 +1,13 @@
 {
   "https://www.bulatlat.com/": [
-    "bulatlat.global.ssl.fastly.net"
+    "bulatlat.global.ssl.fastly.net",
+    "jailbird-parasitic.b-cdn.net",
+    "whumbiupfnyveanh.l9ne2zvsqm5v.monster"
   ],
   "https://www.dmediag.com/": [
-    "dmediag.global.ssl.fastly.net"
+    "dmediag.global.ssl.fastly.net",
+    "gallstone-twisted.b-cdn.net",
+    "jbprkyhzfmqrphrx.8qaj3npj5q1y.monster"
   ],
   "https://www.dmgburmese.com/": [
     "dmgburmese.global.ssl.fastly.net"
@@ -66,7 +70,9 @@
     "aza.global.ssl.fastly.net"
   ],
   "https://belarusinfocus.pro/": [
-    "infocus0x1.global.ssl.fastly.net"
+    "infocus0x1.global.ssl.fastly.net",
+    "eating-juicy.b-cdn.net",
+    "yslvggqzffzdnpdw.qa5muqal0a4d.monster"
   ],
   "https://by.tribuna.com/": [
     "bytribuna.global.ssl.fastly.net",
@@ -599,6 +605,10 @@
     "hntxdxxiiqmhjkzd.bmeq4xku34je.live",
     "zkadhzazvziiejho.3k6tgvgz61y5.quest"
   ],
+  "https://uyghurpost.com/": [
+    "rrwnkqktsctdbkuk.global.ssl.fastly.net",
+    "xaiyddugpiksoqwx.odb656jnuek8.live"
+  ],
   "https://www.circle19.org/": [
     "pehcpnoglrqqgseg.global.ssl.fastly.net",
     "qixjqllxuzcqxggl.lz7ywf73njy9.lat",
@@ -609,22 +619,18 @@
     "tsklivhjqnpnqjtp.majjvcq1kz1m.online",
     "miwqvwuswymciwxo.lz7ywf73njy9.lat"
   ],
-  "https://uyghurpost.com/": [
-    "rrwnkqktsctdbkuk.global.ssl.fastly.net",
-    "xaiyddugpiksoqwx.odb656jnuek8.live"
-  ],
-  "https://madeinchinajournal.com/": [
-    "zqlmtuwjnjnktijs.global.ssl.fastly.net",
-    "zgtwpzfhssamqnqj.a1g9l1r3x3oq.online",
-    "odswofpkokzrlrou.ozvqhkcn8n.click",
-    "ssggugajvrnzniad.5rt77s22xjls.live"
-  ],
   "https://newbloommag.net/": [
     "zvaspmaxvgiameof.global.ssl.fastly.net",
     "sbdjcaizzjzcsofl.qa5muqal0a4d.monster",
     "ubnkxwphxrfmanpr.gjr7l8elrntr.lat",
     "jirwjsxxakrpmawz.rvbvypfp.lol",
     "tqugkssjwmdznpyf.kpsdarri.quest"
+  ],
+  "https://madeinchinajournal.com/": [
+    "zqlmtuwjnjnktijs.global.ssl.fastly.net",
+    "zgtwpzfhssamqnqj.a1g9l1r3x3oq.online",
+    "odswofpkokzrlrou.ozvqhkcn8n.click",
+    "ssggugajvrnzniad.5rt77s22xjls.live"
   ],
   "https://turkistanpress.com/": [
     "waydvgfsdbbjburc.global.ssl.fastly.net",
