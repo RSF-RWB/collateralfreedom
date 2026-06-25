@@ -612,10 +612,6 @@
     "jirwjsxxakrpmawz.rvbvypfp.lol",
     "tqugkssjwmdznpyf.kpsdarri.quest"
   ],
-  "https://uyghurpost.com/": [
-    "rrwnkqktsctdbkuk.global.ssl.fastly.net",
-    "xaiyddugpiksoqwx.odb656jnuek8.live"
-  ],
   "https://www.circle19.org/": [
     "pehcpnoglrqqgseg.global.ssl.fastly.net",
     "qixjqllxuzcqxggl.lz7ywf73njy9.lat",
@@ -625,6 +621,10 @@
     "yzbivpixgsueljpo.1tw.live",
     "tsklivhjqnpnqjtp.majjvcq1kz1m.online",
     "miwqvwuswymciwxo.lz7ywf73njy9.lat"
+  ],
+  "https://uyghurpost.com/": [
+    "rrwnkqktsctdbkuk.global.ssl.fastly.net",
+    "xaiyddugpiksoqwx.odb656jnuek8.live"
   ],
   "https://madeinchinajournal.com/": [
     "zqlmtuwjnjnktijs.global.ssl.fastly.net",
