@@ -10,12 +10,16 @@
     "jbprkyhzfmqrphrx.8qaj3npj5q1y.monster"
   ],
   "https://www.dmgburmese.com/": [
-    "dmgburmese.global.ssl.fastly.net"
+    "dmgburmese.global.ssl.fastly.net",
+    "nmrypxzhtucwgdsk.global.ssl.fastly.net",
+    "hjkzdrbkwmghtduq.zp9o7fqxfv3m.lat"
   ],
   "https://free-xueq-jianb.github.io/": [
     "dcqiy6g165h3t.cloudfront.net",
     "xueq0x1.b-cdn.net",
-    "freexueqjianb-1dd6a.kxcdn.com"
+    "freexueqjianb-1dd6a.kxcdn.com",
+    "pqvvywfycffbwfwo.global.ssl.fastly.net",
+    "frenwnoepglejvaf.ord9wluhlcic.lol"
   ],
   "https://news.gooya.com/": [
     "gn1.global.ssl.fastly.net"
@@ -464,16 +468,16 @@
     "gxqueinxdtcamtpv.oia7ds95vb0e.live"
   ],
   "https://vot.org/": [
-    "gauccuwhugyvaxth.global.ssl.fastly.net",
-    "hupeisemtuibsptf.1tvv.live",
-    "ihdvivnzzvezrswd.bmeq4xku34je.live",
     "qzbqbsztapmftmjr.global.ssl.fastly.net",
     "hzygtfjtnnajbwvu.1tvv.live",
     "xmgcjtzscksxiipg.oia7ds95vb0e.live",
     "qsgdodaeiwcrpbef.1tw.live",
     "fauzvtkusysuyhtd.g2jweym2z70h.live",
     "sjidavagfurvogdi.b0umo0d1f.best",
-    "xtcyuzvfbklfeytr.jq93m95j.site"
+    "xtcyuzvfbklfeytr.jq93m95j.site",
+    "gauccuwhugyvaxth.global.ssl.fastly.net",
+    "hupeisemtuibsptf.1tvv.live",
+    "ihdvivnzzvezrswd.bmeq4xku34je.live"
   ],
   "https://wqw2010.blogspot.com/": [
     "odfbcoqaemzjlwuf.global.ssl.fastly.net",
@@ -602,13 +606,6 @@
     "hntxdxxiiqmhjkzd.bmeq4xku34je.live",
     "zkadhzazvziiejho.3k6tgvgz61y5.quest"
   ],
-  "https://newbloommag.net/": [
-    "zvaspmaxvgiameof.global.ssl.fastly.net",
-    "sbdjcaizzjzcsofl.qa5muqal0a4d.monster",
-    "ubnkxwphxrfmanpr.gjr7l8elrntr.lat",
-    "jirwjsxxakrpmawz.rvbvypfp.lol",
-    "tqugkssjwmdznpyf.kpsdarri.quest"
-  ],
   "https://www.circle19.org/": [
     "pehcpnoglrqqgseg.global.ssl.fastly.net",
     "qixjqllxuzcqxggl.lz7ywf73njy9.lat",
@@ -624,6 +621,13 @@
     "zgtwpzfhssamqnqj.a1g9l1r3x3oq.online",
     "odswofpkokzrlrou.ozvqhkcn8n.click",
     "ssggugajvrnzniad.5rt77s22xjls.live"
+  ],
+  "https://newbloommag.net/": [
+    "zvaspmaxvgiameof.global.ssl.fastly.net",
+    "sbdjcaizzjzcsofl.qa5muqal0a4d.monster",
+    "ubnkxwphxrfmanpr.gjr7l8elrntr.lat",
+    "jirwjsxxakrpmawz.rvbvypfp.lol",
+    "tqugkssjwmdznpyf.kpsdarri.quest"
   ],
   "https://uyghurpost.com/": [
     "rrwnkqktsctdbkuk.global.ssl.fastly.net",
