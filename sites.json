@@ -59,7 +59,9 @@
     "usoramqmwfheraly.x9r5lrdkfjrp.quest"
   ],
   "https://www.rohingyapost.com/": [
-    "rohingyapost.global.ssl.fastly.net"
+    "rohingyapost.global.ssl.fastly.net",
+    "cqqxranjbcbtzsnm.global.ssl.fastly.net",
+    "ezspdahxggbufqho.1tw.live"
   ],
   "https://www.shambalanews.com/": [
     "shambalanews.global.ssl.fastly.net",
@@ -70,7 +72,9 @@
     "ycjjkuyobhrjyehx.xu1t22sft57h.online"
   ],
   "https://thekashmirwalla.com/": [
-    "thekashmirwalla.global.ssl.fastly.net"
+    "thekashmirwalla.global.ssl.fastly.net",
+    "orqjnebgdhjdlwui.global.ssl.fastly.net",
+    "mpvlyilhdfuzaiuy.xu1t22sft57h.online"
   ],
   "https://vietnamthoibao.org/": [
     "ijavn.global.ssl.fastly.net"
@@ -79,7 +83,9 @@
     "dtd.global.ssl.fastly.net"
   ],
   "https://www.azathabar.com/": [
-    "aza.global.ssl.fastly.net"
+    "aza.global.ssl.fastly.net",
+    "cufmaljdumnpwyqz.global.ssl.fastly.net",
+    "gxgwzyyhnovxhfyo.zp9o7fqxfv3m.lat"
   ],
   "https://belarusinfocus.pro/": [
     "infocus0x1.global.ssl.fastly.net",
@@ -89,17 +95,25 @@
   "https://by.tribuna.com/": [
     "bytribuna.global.ssl.fastly.net",
     "tribuna101.global.ssl.fastly.net",
-    "tribuna42.global.ssl.fastly.net"
+    "tribuna42.global.ssl.fastly.net",
+    "kvczjsxvhmtaacvx.global.ssl.fastly.net",
+    "yxdjnlcizqqcjemw.5rt77s22xjls.live"
   ],
   "https://charter97.org/": [
-    "charter97.global.ssl.fastly.net"
+    "charter97.global.ssl.fastly.net",
+    "xtiwgmdfnymorkfj.global.ssl.fastly.net",
+    "vadrypgiilaufwdg.1tw.live"
   ],
   "https://cherta.media/": [
     "d32mmsib7ectwr.cloudfront.net",
-    "cherta.global.ssl.fastly.net"
+    "cherta.global.ssl.fastly.net",
+    "omxawykypcmvaymt.global.ssl.fastly.net",
+    "ncuwhztfexuaswtq.30dvtsgew7hf.xyz"
   ],
   "https://www.dw.com/": [
-    "dw42.global.ssl.fastly.net"
+    "dw42.global.ssl.fastly.net",
+    "ndesagxgydroshee.global.ssl.fastly.net",
+    "zahrtidedarlthgs.dbminjam8b34.lol"
   ],
   "https://echofm.online/": [
     "echofm101.global.ssl.fastly.net"
@@ -117,7 +131,9 @@
     "nizhaaqrftzddmvc.a1g9l1r3x3oq.online"
   ],
   "https://fortanga.org/": [
-    "fortanga.global.ssl.fastly.net"
+    "fortanga.global.ssl.fastly.net",
+    "hqssexddunaspcxo.global.ssl.fastly.net",
+    "ihigibaupojojocd.bmeq4xku34je.live"
   ],
   "https://www.france24.com/": [
     "f24.global.ssl.fastly.net"
@@ -476,13 +492,6 @@
     "kmtvvubdufadydou.global.ssl.fastly.net",
     "yvsvtihdcjgxmpiv.qa5muqal0a4d.monster"
   ],
-  "https://www.tibetpost.net/": [
-    "pkzotwzpdzhaxqum.global.ssl.fastly.net",
-    "syqprgyxklrtpsiq.1tvv.live",
-    "xwenmxcfennedhms.dbminjam8b34.lol",
-    "cceozoipnxourtga.fp4p4oi21.art",
-    "cjexqazxgwtknvfr.45tdt3nc8gl8.site"
-  ],
   "https://tibetpost.net/": [
     "vmqbnnihzjqqdkwq.global.ssl.fastly.net",
     "idvkdrpeafrvaeio.zp9o7fqxfv3m.lat",
@@ -490,6 +499,13 @@
     "qkigrpjazktjfngl.1tvv.live",
     "uaornjxnutlwqndi.j555nbk2z9yz.quest",
     "ckvndwkftivilrpa.odb656jnuek8.live"
+  ],
+  "https://www.tibetpost.net/": [
+    "pkzotwzpdzhaxqum.global.ssl.fastly.net",
+    "syqprgyxklrtpsiq.1tvv.live",
+    "xwenmxcfennedhms.dbminjam8b34.lol",
+    "cceozoipnxourtga.fp4p4oi21.art",
+    "cjexqazxgwtknvfr.45tdt3nc8gl8.site"
   ],
   "https://togoweb.net/": [
     "ngihjyrquyueibhe.global.ssl.fastly.net"
@@ -642,10 +658,6 @@
     "hntxdxxiiqmhjkzd.bmeq4xku34je.live",
     "zkadhzazvziiejho.3k6tgvgz61y5.quest"
   ],
-  "https://uyghurpost.com/": [
-    "rrwnkqktsctdbkuk.global.ssl.fastly.net",
-    "xaiyddugpiksoqwx.odb656jnuek8.live"
-  ],
   "https://newbloommag.net/": [
     "zvaspmaxvgiameof.global.ssl.fastly.net",
     "sbdjcaizzjzcsofl.qa5muqal0a4d.monster",
@@ -653,11 +665,9 @@
     "jirwjsxxakrpmawz.rvbvypfp.lol",
     "tqugkssjwmdznpyf.kpsdarri.quest"
   ],
-  "https://madeinchinajournal.com/": [
-    "zqlmtuwjnjnktijs.global.ssl.fastly.net",
-    "zgtwpzfhssamqnqj.a1g9l1r3x3oq.online",
-    "odswofpkokzrlrou.ozvqhkcn8n.click",
-    "ssggugajvrnzniad.5rt77s22xjls.live"
+  "https://uyghurpost.com/": [
+    "rrwnkqktsctdbkuk.global.ssl.fastly.net",
+    "xaiyddugpiksoqwx.odb656jnuek8.live"
   ],
   "https://www.circle19.org/": [
     "pehcpnoglrqqgseg.global.ssl.fastly.net",
@@ -669,13 +679,19 @@
     "tsklivhjqnpnqjtp.majjvcq1kz1m.online",
     "miwqvwuswymciwxo.lz7ywf73njy9.lat"
   ],
-  "https://www.istiqlalhaber.com/": [
-    "vqdfzlzkscucbqaq.global.ssl.fastly.net",
-    "bdcekbwbrjsckdlc.g2jweym2z70h.live"
+  "https://madeinchinajournal.com/": [
+    "zqlmtuwjnjnktijs.global.ssl.fastly.net",
+    "zgtwpzfhssamqnqj.a1g9l1r3x3oq.online",
+    "odswofpkokzrlrou.ozvqhkcn8n.click",
+    "ssggugajvrnzniad.5rt77s22xjls.live"
   ],
   "https://turkistanpress.com/": [
     "waydvgfsdbbjburc.global.ssl.fastly.net",
     "qioosuwxmucxtynf.1tvv.live"
+  ],
+  "https://www.istiqlalhaber.com/": [
+    "vqdfzlzkscucbqaq.global.ssl.fastly.net",
+    "bdcekbwbrjsckdlc.g2jweym2z70h.live"
   ],
   "https://vkurier.by/": [
     "nrekixjjpenusxbx.global.ssl.fastly.net",
