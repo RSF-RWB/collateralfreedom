@@ -287,13 +287,13 @@
     "keqvpqomjbllptlw.global.ssl.fastly.net",
     "mttvbpiggqyhmoxv.j555nbk2z9yz.quest"
   ],
-  "https://novaya.media/": [
-    "hlpqcnurndihafxj.global.ssl.fastly.net",
-    "crujgqowfbdgbnwu.j555nbk2z9yz.quest"
-  ],
   "https://novayagazeta.ru/": [
     "ujuktvzcyosdkepl.global.ssl.fastly.net",
     "tuirhjunkgyrlvgb.8qaj3npj5q1y.monster"
+  ],
+  "https://novaya.media/": [
+    "hlpqcnurndihafxj.global.ssl.fastly.net",
+    "crujgqowfbdgbnwu.j555nbk2z9yz.quest"
   ],
   "https://presse-alternative.info/": [
     "dmmfamfqkwzjnrtu.global.ssl.fastly.net",
