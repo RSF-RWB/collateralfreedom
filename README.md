@@ -50,7 +50,7 @@
 **CN** | **[akademiye.org/ug/](https://www.akademiye.org/ug/)** | [fmqvtfvrltzfmnnj.global.ssl.fastly.net](https://fmqvtfvrltzfmnnj.global.ssl.fastly.net), [zoylerqzzetultap.onijecm6r.click](https://zoylerqzzetultap.onijecm6r.click), [rfwdxvwumchunjed.45tdt3nc8gl8.site](https://rfwdxvwumchunjed.45tdt3nc8gl8.site)
 **CN** | **[asiasentinel.com/](https://www.asiasentinel.com/)** | [wokoscxfqzlvcrot.global.ssl.fastly.net](https://wokoscxfqzlvcrot.global.ssl.fastly.net), [bomladykvjnybqvd.1tvv.live](https://bomladykvjnybqvd.1tvv.live)
 **AZ** | **[azathabar.com/](https://www.azathabar.com/)** | [cufmaljdumnpwyqz.global.ssl.fastly.net](https://cufmaljdumnpwyqz.global.ssl.fastly.net), [gxgwzyyhnovxhfyo.zp9o7fqxfv3m.lat](https://gxgwzyyhnovxhfyo.zp9o7fqxfv3m.lat)
-**IR, UK** | **[bbc.com/](https://www.bbc.com/)** | [yqyjveeuuzrtbxau.global.ssl.fastly.net](https://yqyjveeuuzrtbxau.global.ssl.fastly.net), [grptjjtfueqrirxw.j555nbk2z9yz.quest](https://grptjjtfueqrirxw.j555nbk2z9yz.quest), [rmvhcinglsekqiut.7vnllyl7h70g.xyz](https://rmvhcinglsekqiut.7vnllyl7h70g.xyz), [eaqyffzhwxhqcyfx.ord9wluhlcic.lol](https://eaqyffzhwxhqcyfx.ord9wluhlcic.lol), [cnknfcjjewrmvljs.h53auu9xg71c.lol](https://cnknfcjjewrmvljs.h53auu9xg71c.lol), [yvzmvunkpbpdfken.w12mhmsaporr.live](https://yvzmvunkpbpdfken.w12mhmsaporr.live)
+**IR, UK** | **[bbc.com/](https://www.bbc.com/)** | [yqyjveeuuzrtbxau.global.ssl.fastly.net](https://yqyjveeuuzrtbxau.global.ssl.fastly.net)
 **PH** | **[bulatlat.com/](https://www.bulatlat.com/)** | [jailbird-parasitic.b-cdn.net](https://jailbird-parasitic.b-cdn.net), [whumbiupfnyveanh.l9ne2zvsqm5v.monster](https://whumbiupfnyveanh.l9ne2zvsqm5v.monster)
 **CN** | **[circle19.org/](https://www.circle19.org/)** | [pehcpnoglrqqgseg.global.ssl.fastly.net](https://pehcpnoglrqqgseg.global.ssl.fastly.net), [qixjqllxuzcqxggl.lz7ywf73njy9.lat](https://qixjqllxuzcqxggl.lz7ywf73njy9.lat), [oehblkkpczujlakx.oia7ds95vb0e.live](https://oehblkkpczujlakx.oia7ds95vb0e.live), [hhmwkedmouvxztfn.1w646uhnqh.fr](https://hhmwkedmouvxztfn.1w646uhnqh.fr), [ufrjgkhfwzmlfohr.a2vxunhuaj4s.xyz](https://ufrjgkhfwzmlfohr.a2vxunhuaj4s.xyz), [yzbivpixgsueljpo.1tw.live](https://yzbivpixgsueljpo.1tw.live), [tsklivhjqnpnqjtp.majjvcq1kz1m.online](https://tsklivhjqnpnqjtp.majjvcq1kz1m.online), [miwqvwuswymciwxo.lz7ywf73njy9.lat](https://miwqvwuswymciwxo.lz7ywf73njy9.lat)
 **CN** | **[dasheng.media/](https://www.dasheng.media/)** | [ifgvyyoffbyvuasd.global.ssl.fastly.net](https://ifgvyyoffbyvuasd.global.ssl.fastly.net), [vfjevumwrirzongh.bmeq4xku34je.live](https://vfjevumwrirzongh.bmeq4xku34je.live)
@@ -133,7 +133,7 @@
 
 **Other** | 🔇 original site | ⬇📢 mirrored sites ⬇ |
 :-----:|:-----:|:-----:
-**IR, UK** | **[bbc.com/](https://www.bbc.com/)** | [yqyjveeuuzrtbxau.global.ssl.fastly.net](https://yqyjveeuuzrtbxau.global.ssl.fastly.net), [grptjjtfueqrirxw.j555nbk2z9yz.quest](https://grptjjtfueqrirxw.j555nbk2z9yz.quest), [rmvhcinglsekqiut.7vnllyl7h70g.xyz](https://rmvhcinglsekqiut.7vnllyl7h70g.xyz), [eaqyffzhwxhqcyfx.ord9wluhlcic.lol](https://eaqyffzhwxhqcyfx.ord9wluhlcic.lol), [cnknfcjjewrmvljs.h53auu9xg71c.lol](https://cnknfcjjewrmvljs.h53auu9xg71c.lol), [yvzmvunkpbpdfken.w12mhmsaporr.live](https://yvzmvunkpbpdfken.w12mhmsaporr.live)
+**IR, UK** | **[bbc.com/](https://www.bbc.com/)** | [yqyjveeuuzrtbxau.global.ssl.fastly.net](https://yqyjveeuuzrtbxau.global.ssl.fastly.net)
 
 ---
 
