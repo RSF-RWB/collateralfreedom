@@ -24,7 +24,12 @@
     "gxgwzyyhnovxhfyo.zp9o7fqxfv3m.lat"
   ],
   "https://www.bbc.com/": [
-    "yqyjveeuuzrtbxau.global.ssl.fastly.net"
+    "yqyjveeuuzrtbxau.global.ssl.fastly.net",
+    "esezfivobwklwysl.g2jweym2z70h.live",
+    "mssjclcmqmvsfknk.a1g9l1r3x3oq.online",
+    "pwaxkkaytqdqaqze.x9r5lrdkfjrp.quest",
+    "skaqwvedeffgldcj.x4oc8ceezr38.lat",
+    "gjvbvmexepmntltp.3k6tgvgz61y5.quest"
   ],
   "https://by.tribuna.com/": [
     "kvczjsxvhmtaacvx.global.ssl.fastly.net",
@@ -404,13 +409,6 @@
     "kmtvvubdufadydou.global.ssl.fastly.net",
     "yvsvtihdcjgxmpiv.qa5muqal0a4d.monster"
   ],
-  "https://www.tibetpost.net/": [
-    "pkzotwzpdzhaxqum.global.ssl.fastly.net",
-    "syqprgyxklrtpsiq.1tvv.live",
-    "xwenmxcfennedhms.dbminjam8b34.lol",
-    "cceozoipnxourtga.fp4p4oi21.art",
-    "cjexqazxgwtknvfr.45tdt3nc8gl8.site"
-  ],
   "https://tibetpost.net/": [
     "vmqbnnihzjqqdkwq.global.ssl.fastly.net",
     "idvkdrpeafrvaeio.zp9o7fqxfv3m.lat",
@@ -418,6 +416,13 @@
     "qkigrpjazktjfngl.1tvv.live",
     "uaornjxnutlwqndi.j555nbk2z9yz.quest",
     "ckvndwkftivilrpa.odb656jnuek8.live"
+  ],
+  "https://www.tibetpost.net/": [
+    "pkzotwzpdzhaxqum.global.ssl.fastly.net",
+    "syqprgyxklrtpsiq.1tvv.live",
+    "xwenmxcfennedhms.dbminjam8b34.lol",
+    "cceozoipnxourtga.fp4p4oi21.art",
+    "cjexqazxgwtknvfr.45tdt3nc8gl8.site"
   ],
   "https://togoweb.net/": [
     "ngihjyrquyueibhe.global.ssl.fastly.net"
