@@ -106,7 +106,9 @@
   ],
   "https://www.france24.com/": [
     "mvtxynssaxrkascv.global.ssl.fastly.net",
-    "jcrjwzdtujppsrjx.f2p8w4g6.live"
+    "jcrjwzdtujppsrjx.f2p8w4g6.live",
+    "mvlxtteuqecakywo.x8v3p9k4.monster",
+    "vediwqeugxylypju.v8m1k6p4.xyz"
   ],
   "https://free-xueq-jianb.github.io/": [
     "pqvvywfycffbwfwo.global.ssl.fastly.net",
@@ -298,13 +300,13 @@
     "keqvpqomjbllptlw.global.ssl.fastly.net",
     "mttvbpiggqyhmoxv.j555nbk2z9yz.quest"
   ],
-  "https://novayagazeta.ru/": [
-    "ujuktvzcyosdkepl.global.ssl.fastly.net",
-    "tuirhjunkgyrlvgb.8qaj3npj5q1y.monster"
-  ],
   "https://novaya.media/": [
     "hlpqcnurndihafxj.global.ssl.fastly.net",
     "crujgqowfbdgbnwu.j555nbk2z9yz.quest"
+  ],
+  "https://novayagazeta.ru/": [
+    "ujuktvzcyosdkepl.global.ssl.fastly.net",
+    "tuirhjunkgyrlvgb.8qaj3npj5q1y.monster"
   ],
   "https://presse-alternative.info/": [
     "dmmfamfqkwzjnrtu.global.ssl.fastly.net",
