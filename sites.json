@@ -25,14 +25,11 @@
   ],
   "https://www.bbc.com/": [
     "jakbysdrlsluunvc.global.ssl.fastly.net",
-    "eknnfwvueyunhigp.gjr7l8elrntr.lat",
-    "hnzsrptzyljhxjfx.h53auu9xg71c.lol",
-    "jgwxeurtklopddyx.bmeq4xku34je.live",
-    "dkjdvmypvslfggpf.oia7ds95vb0e.live",
-    "dkumvgbyiidgnfgh.bmeq4xku34je.live",
-    "asxfgbfgfoesorsv.oia7ds95vb0e.live",
-    "qsmhdqgnohpxxfmy.h53auu9xg71c.lol",
-    "xvifboxmdvrrfcla.odb656jnuek8.live"
+    "azhxwidsptzesunu.v3j8c5p6.monster",
+    "zlgimmvtjiekazrn.kbshnmhgow.click",
+    "hgvotuzisayroctt.3k6tgvgz61y5.quest",
+    "xkhxjhsigndqmfoy.djqgeogzrz.click",
+    "qzpepdxqrtwwbrwu.oia7ds95vb0e.live"
   ],
   "https://by.tribuna.com/": [
     "kvczjsxvhmtaacvx.global.ssl.fastly.net",
@@ -499,6 +496,12 @@
     "qnbdbyhykwqujnkj.5rt77s22xjls.live",
     "wfihwddwvetxuhel.x4oc8ceezr38.lat"
   ],
+  "https://www.courrierconfidentiel.net/": [
+    "dmxniyybpbaoufey.global.ssl.fastly.net",
+    "xwnztjfeekkelxui.w9z4f6g5.monster",
+    "uipjeoozkdctxuiy.a2vxunhuaj4s.xyz",
+    "dkmmyheizwqeocyy.x7p8q4b1.xyz"
+  ],
   "https://www.dakaractu.com/": [
     "aswqxsihnpukymud.global.ssl.fastly.net",
     "rpugdjgqekyuwuvn.h53auu9xg71c.lol"
@@ -641,19 +644,6 @@
     "rnbzstqlknjuussj.w12mhmsaporr.live",
     "utmolsgsusqfebdn.zx7zijikxvj8.xyz"
   ],
-  "https://madeinchinajournal.com/": [
-    "zqlmtuwjnjnktijs.global.ssl.fastly.net",
-    "zgtwpzfhssamqnqj.a1g9l1r3x3oq.online",
-    "odswofpkokzrlrou.ozvqhkcn8n.click",
-    "ssggugajvrnzniad.5rt77s22xjls.live"
-  ],
-  "https://newbloommag.net/": [
-    "zvaspmaxvgiameof.global.ssl.fastly.net",
-    "sbdjcaizzjzcsofl.qa5muqal0a4d.monster",
-    "ubnkxwphxrfmanpr.gjr7l8elrntr.lat",
-    "jirwjsxxakrpmawz.rvbvypfp.lol",
-    "tqugkssjwmdznpyf.kpsdarri.quest"
-  ],
   "https://www.circle19.org/": [
     "pehcpnoglrqqgseg.global.ssl.fastly.net",
     "qixjqllxuzcqxggl.lz7ywf73njy9.lat",
@@ -667,6 +657,19 @@
   "https://uyghurpost.com/": [
     "rrwnkqktsctdbkuk.global.ssl.fastly.net",
     "xaiyddugpiksoqwx.odb656jnuek8.live"
+  ],
+  "https://madeinchinajournal.com/": [
+    "zqlmtuwjnjnktijs.global.ssl.fastly.net",
+    "zgtwpzfhssamqnqj.a1g9l1r3x3oq.online",
+    "odswofpkokzrlrou.ozvqhkcn8n.click",
+    "ssggugajvrnzniad.5rt77s22xjls.live"
+  ],
+  "https://newbloommag.net/": [
+    "zvaspmaxvgiameof.global.ssl.fastly.net",
+    "sbdjcaizzjzcsofl.qa5muqal0a4d.monster",
+    "ubnkxwphxrfmanpr.gjr7l8elrntr.lat",
+    "jirwjsxxakrpmawz.rvbvypfp.lol",
+    "tqugkssjwmdznpyf.kpsdarri.quest"
   ],
   "https://turkistanpress.com/": [
     "waydvgfsdbbjburc.global.ssl.fastly.net",
